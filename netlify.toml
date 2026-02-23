@@ -1,0 +1,12 @@
+[build]
+  command   = "yarn build"
+  publish   = ".svelte-kit/output/client"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/.netlify/functions/handler"
+  status = 200
+  force  = true
