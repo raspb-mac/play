@@ -1,12 +1,22 @@
 [build]
-  command   = "yarn build"
-  publish   = ".svelte-kit/output/client"
+  command = "npm run build"
+  publish = "build"
 
-[build.environment]
-  NODE_VERSION = "24"
+[functions]
+  directory = "functions"
+  node_bundler = "esbuild"
 
-[[redirects]]
-  from   = "/*"
-  to     = "/.netlify/functions/handler"
-  status = 200
-  force  = true
+[[headers]]
+  for = "/service-worker.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "max-age=31536000, immutable"
