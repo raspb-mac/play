@@ -5,18 +5,3 @@
 [functions]
   directory = "functions"
   node_bundler = "esbuild"
-
-[[headers]]
-  for = "/service-worker.js"
-  [headers.values]
-    Cache-Control = "no-cache"
-
-[[headers]]
-  for = "/manifest.webmanifest"
-  [headers.values]
-    Content-Type = "application/manifest+json"
-
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-    Cache-Control = "max-age=31536000, immutable"

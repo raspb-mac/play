@@ -1,0 +1,176 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Black.eot');
+    src: url('$fonts/inter/Inter-Black.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Black.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Black.woff') format('woff'),
+        url('$fonts/inter/Inter-Black.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Black.svg#$fonts/inter/Inter-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Bold.eot');
+    src: url('$fonts/inter/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Bold.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Bold.woff') format('woff'),
+        url('$fonts/inter/Inter-Bold.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Bold.svg#$fonts/inter/Inter-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-ExtraBold.eot');
+    src: url('$fonts/inter/Inter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-ExtraBold.woff2') format('woff2'),
+        url('$fonts/inter/Inter-ExtraBold.woff') format('woff'),
+        url('$fonts/inter/Inter-ExtraBold.ttf') format('truetype'),
+        url('$fonts/inter/Inter-ExtraBold.svg#$fonts/inter/Inter-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-ExtraLight.eot');
+    src: url('$fonts/inter/Inter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-ExtraLight.woff2') format('woff2'),
+        url('$fonts/inter/Inter-ExtraLight.woff') format('woff'),
+        url('$fonts/inter/Inter-ExtraLight.ttf') format('truetype'),
+        url('$fonts/inter/Inter-ExtraLight.svg#$fonts/inter/Inter-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Light.eot');
+    src: url('$fonts/inter/Inter-Light.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Light.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Light.woff') format('woff'),
+        url('$fonts/inter/Inter-Light.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Light.svg#$fonts/inter/Inter-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Medium.eot');
+    src: url('$fonts/inter/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Medium.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Medium.woff') format('woff'),
+        url('$fonts/inter/Inter-Medium.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Medium.svg#$fonts/inter/Inter-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Regular.eot');
+    src: url('$fonts/inter/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Regular.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Regular.woff') format('woff'),
+        url('$fonts/inter/Inter-Regular.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Regular.svg#$fonts/inter/Inter-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-Thin.eot');
+    src: url('$fonts/inter/Inter-Thin.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-Thin.woff2') format('woff2'),
+        url('$fonts/inter/Inter-Thin.woff') format('woff'),
+        url('$fonts/inter/Inter-Thin.ttf') format('truetype'),
+        url('$fonts/inter/Inter-Thin.svg#$fonts/inter/Inter-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('$fonts/inter/Inter-SemiBold.eot');
+    src: url('$fonts/inter/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/inter/Inter-SemiBold.woff2') format('woff2'),
+        url('$fonts/inter/Inter-SemiBold.woff') format('woff'),
+        url('$fonts/inter/Inter-SemiBold.ttf') format('truetype'),
+        url('$fonts/inter/Inter-SemiBold.svg#$fonts/inter/Inter-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Bold.eot');
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Bold.woff2') format('woff2'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Bold.woff') format('woff'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Light.eot');
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Light.woff2') format('woff2'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Light.woff') format('woff'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Medium.eot');
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Medium.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Medium.woff2') format('woff2'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Medium.woff') format('woff'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Regular.eot');
+    src: url('$fonts/space-grotesk/SpaceGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Regular.woff2') format('woff2'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Regular.woff') format('woff'),
+        url('$fonts/space-grotesk/SpaceGrotesk-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('$fonts/space-grotesk/SpaceGrotesk-SemiBold.eot');
+    src: url('$fonts/space-grotesk/SpaceGrotesk-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('$fonts/space-grotesk/SpaceGrotesk-SemiBold.woff2') format('woff2'),
+        url('$fonts/space-grotesk/SpaceGrotesk-SemiBold.woff') format('woff'),
+        url('$fonts/space-grotesk/SpaceGrotesk-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}

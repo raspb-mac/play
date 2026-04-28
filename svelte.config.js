@@ -1,16 +1,31 @@
 import adapter from '@sveltejs/adapter-netlify';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import { importAssets } from 'svelte-preprocess-import-assets';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	preprocess: vitePreprocess(),
-	kit: {
-		adapter: adapter({
-			// Run as edge function (optional, default: false)
-			edge: false,
-			// Split into multiple functions per route (optional)
-			split: false
-		})
+  preprocess: [
+    importAssets({
+      urlFilter: (url) => !url.startsWith('/')
+    }),
+    vitePreprocess()
+  ],
+  kit: {
+    adapter: adapter(),
+    paths: {
+      relative: false
+    },
+    alias: {
+      $store: './src/store',
+      $helper: './src/lib/helper',
+      $images: './src/lib/assets/images',
+      $icons: './src/lib/assets/icons',
+      $fonts: './src/lib/assets/fonts',
+      $components: './src/lib/components',
+      $configs: './src/lib/configs',
+      $services: './src/lib/services',
+      $interfaces: './src/interfaces'
+    },
 	}
 };
 

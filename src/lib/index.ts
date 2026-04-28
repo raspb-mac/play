@@ -5,6 +5,7 @@ export { default as Hero } from './components/Hero.svelte';
 export { default as Section } from './components/Section.svelte';
 export { default as Stage } from './components/Stage.svelte';
 export { default as Teaser } from './components/Teaser.svelte';
+export { default as TextBlock } from './components/TextBlock.svelte';
 export { default as Loader } from './components/Loader.svelte';
 
 // Configs
