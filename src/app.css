@@ -205,6 +205,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  /* Prevent the ImageText slide-in animation (translateX ±80px) from creating
+     a horizontal scrollbar before it reaches its rest position.
+     - `hidden` is the universal fallback.
+     - `clip` (modern browsers) is preferred because it does NOT create a new
+       scroll container, so position:sticky and smooth scroll-anchoring keep
+       working as expected. */
+  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 /* The page-wide subtle gradient — anchor of the dark mood */
