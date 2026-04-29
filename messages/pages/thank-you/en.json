@@ -1,0 +1,5 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "thankYou_stage_title": "Thank You",
+  "thankYou_intro_text": "We received your message and will get back to you shortly."
+}

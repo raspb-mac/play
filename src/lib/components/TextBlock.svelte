@@ -1,39 +1,65 @@
 <script lang="ts">
-	import type { Snippet } from "svelte";
+  import type { Snippet } from 'svelte';
+  import RevealOnScroll from './RevealOnScroll.svelte';
 
   interface Props {
-    title: string;
-    subtitle?: string;
+    eyebrow?: string;
+    title?: string;
     align?: 'left' | 'center';
+    /** Width preset */
+    width?: 'narrow' | 'content' | 'auto';
     children: Snippet;
   }
 
   let {
+    eyebrow,
     title,
-    subtitle = '',
     align = 'left',
+    width = 'auto',
     children
   }: Props = $props();
 </script>
 
-
-<div class="text-block-wrapper {align === 'center' ? 'text-center' : ''}">
-  <h2>{title}</h2>
-  {#if subtitle != ''}
-    <p class="sub-title">{subtitle}</p>
+<RevealOnScroll
+  class="text-block text-block--{align} text-block--{width}"
+>
+  {#if eyebrow}
+    <p class="eyebrow text-block-eyebrow">{eyebrow}</p>
   {/if}
-  {@render children()}
-</div>
+  {#if title}
+    <h3 class="section-headline text-block-title">{title}</h3>
+  {/if}
+  <div class="text-block-body editorial">
+    {@render children()}
+  </div>
+</RevealOnScroll>
 
 <style lang="postcss">
-  @reference "../../app.css";
+  @reference '../../app.css';
 
-  .text-block-wrapper {
-    @apply flex flex-col justify-start items-start w-full h-auto;
-
-    h2 {
-      @apply uppercase text-5xl text-turquoise font-space-grotesk font-light mb-4;
-    }
-
+  :global(.text-block) {
+    @apply flex flex-col items-start;
+    gap: 1rem;
   }
+
+  :global(.text-block--center) {
+    @apply items-center text-center;
+  }
+
+  :global(.text-block--narrow) { max-width: 38rem; }
+  :global(.text-block--content) { max-width: 64rem; }
+
+  :global(.text-block--center .text-block-body p) {
+    margin-inline: auto;
+  }
+
+  .text-block-eyebrow { margin: 0; }
+  .text-block-title {
+    margin: 0;
+    color: var(--white);
+  }
+  :global(html[data-theme='light']) .text-block-title {
+    color: var(--ink-3);
+  }
+  .text-block-body { margin-top: 0.5rem; }
 </style>

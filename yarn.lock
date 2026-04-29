@@ -5,13 +5,6 @@ __metadata:
   version: 9
   cacheKey: 10c0
 
-"@alloc/quick-lru@npm:^5.2.0":
-  version: 5.2.0
-  resolution: "@alloc/quick-lru@npm:5.2.0"
-  checksum: 10c0/7b878c48b9d25277d0e1a9b8b2f2312a314af806b4129dc902f2bc29ab09b58236e53964689feec187b28c80d2203aff03829754773a707a8a5987f1b7682d92
-  languageName: node
-  linkType: hard
-
 "@better-svelte-email/components@npm:2.0.0":
   version: 2.0.0
   resolution: "@better-svelte-email/components@npm:2.0.0"
@@ -1031,19 +1024,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/postcss@npm:^4.2.4":
-  version: 4.2.4
-  resolution: "@tailwindcss/postcss@npm:4.2.4"
-  dependencies:
-    "@alloc/quick-lru": "npm:^5.2.0"
-    "@tailwindcss/node": "npm:4.2.4"
-    "@tailwindcss/oxide": "npm:4.2.4"
-    postcss: "npm:^8.5.6"
-    tailwindcss: "npm:4.2.4"
-  checksum: 10c0/e6abad7065558bf3c39d30f392100c934c3381a572df21d934dd5a9399e0a62e16ba3d74a51ec0b1d670b1990ae73d01dfc560db0bf0e24bad827e00be0e62c2
-  languageName: node
-  linkType: hard
-
 "@tailwindcss/typography@npm:^0.5.19":
   version: 0.5.19
   resolution: "@tailwindcss/typography@npm:0.5.19"
@@ -1052,6 +1032,19 @@ __metadata:
   peerDependencies:
     tailwindcss: "*"
   checksum: 10c0/b9eb38e9c7adca59b55d7321275f59ea62c7d65a0c3d324c18c1c5864c69ec6e15b838e7df61e531cda62cfea08627b4343bc419bb0996182321891e5171e4d6
+  languageName: node
+  linkType: hard
+
+"@tailwindcss/vite@npm:^4.2.4":
+  version: 4.2.4
+  resolution: "@tailwindcss/vite@npm:4.2.4"
+  dependencies:
+    "@tailwindcss/node": "npm:4.2.4"
+    "@tailwindcss/oxide": "npm:4.2.4"
+    tailwindcss: "npm:4.2.4"
+  peerDependencies:
+    vite: ^5.2.0 || ^6 || ^7 || ^8
+  checksum: 10c0/dcd7f947e152d1cc05c560a7254d3fb8d4e0631a437778e30b929b2cdacdd9dc8672bba68867b5f0de0e1d09d07f3dcf91a30fd65ff91251f3063cd25d1675fb
   languageName: node
   linkType: hard
 
@@ -1502,8 +1495,8 @@ __metadata:
     "@sveltejs/kit": "npm:^2.58.0"
     "@sveltejs/vite-plugin-svelte": "npm:^7.0.0"
     "@tailwindcss/forms": "npm:^0.5.11"
-    "@tailwindcss/postcss": "npm:^4.2.4"
     "@tailwindcss/typography": "npm:^0.5.19"
+    "@tailwindcss/vite": "npm:^4.2.4"
     "@types/eslint": "npm:^9.6.1"
     "@types/markdown-it": "npm:^14.1.2"
     "@types/node": "npm:^25.6.0"

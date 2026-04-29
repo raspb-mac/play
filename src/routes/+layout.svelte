@@ -6,10 +6,22 @@
   let { children }: { children: Snippet } = $props();
 </script>
 
-<div class="flex flex-col min-h-screen">
+<div class="app-shell">
   <Header />
   <main>
     {@render children()}
   </main>
   <Footer />
 </div>
+
+<style lang="postcss">
+  @reference '../app.css';
+
+  .app-shell {
+    @apply flex flex-col min-h-screen;
+  }
+
+  main {
+    @apply flex-1;
+  }
+</style>

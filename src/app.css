@@ -1,142 +1,440 @@
 @import './font-collection.css';
-@import "tailwindcss";
+@import 'tailwindcss';
+@import 'swiper/css';
+@import 'swiper/css/effect-fade';
+
+/* ============================================================
+   STRATECO — Design Tokens
+   Inspired by premium finance/tech editorial layouts.
+   Dark-first; light theme is a fully-prepared sibling.
+   ============================================================ */
 
 :root {
+  /* Brand turquoise scale (dark-theme defaults).
+     The light theme remaps these to darker tones below — every component
+     that uses `var(--brand-turquoise)` (headlines, links, eyebrows, accents)
+     automatically picks up the right shade for the current theme. */
+  --brand-turquoise: #60cfbe;
+  --brand-turquoise-light: #87dbce;
+  --brand-turquoise-dark: #35ae9b;
+  --brand-turquoise-rgb: 96, 207, 190;
+
+  /* Brand teal scale (deep) */
+  --brand-teal: #2a6262;
+  --brand-teal-light: #398686;
+  --brand-teal-deep: #132c2c;
+
+  /* Brand secondary accents */
+  --brand-mint: #b9e7c3;
+  --brand-blue: #2f4e58;
+  --brand-orange-light: #feebd3;
+  --brand-orange: #f49100;
+  --brand-green-light: #daeab3;
+  --brand-green: #75b21d;
+
+  /* Greys */
   --white: #fefefe;
   --black: #010101;
   --very-dark-grey: #212121;
   --dark-grey: #444444;
-  --soft-grey:#746e6e;
+  --soft-grey: #746e6e;
   --medium-grey: #8e8d8d;
   --light-grey: #f6f6f6;
 
-  --dark-teal: #0f191a;
+  /* Inks (used by themes) */
+  --ink: #0e1c1f;
+  --ink-2: #1a2b2d;
+  --ink-3: #0a1517;
 
-  --brand-mint: #b9e7c3;
-  --brand-blue: #2f4e58; 
-  --brand-teal: #397a84; 
-  --brand-turquoise:#60CFBE; 
-  --brand-orange-light:#feebd3; 
-  --brand-orange:#f49100; 
-  --brand-green-ligh:#daeab3; 
-  --brand-green:#75b21d; 
-
-  --light-blue: #0d99e6;
-  --wine: #731963;
-  --green: #42b863;
-  --yellow: #f4d03f;
-  --red: #c93136;
-
-  --neutral: #3d4451;
+  /* Status colors */
   --info: #3abff8;
   --success: #6bb900;
   --warning: #fbbd23;
   --error: #f87272;
+
+  /* Layout */
+  --max-content: 1194px;
+  --max-wide: 1446px;
+  --max-page: 1600px;
+  --max-narrow: 760px;
+  --base-width: 92%;
+
+  --space-slim: 10px;
+  --space-default: 20px;
+  --space-wide: clamp(2.5rem, 0.833rem + 4.444vw, 5rem);
+
+  --header-h: 95px;
+  --header-h-mobile: 80px;
+
+  /* Type rhythm */
+  --base-fs: 18px;
+  --base-lh: 1.55;
+
+  /* Motion */
+  --t-base: all 0.3s ease-in-out;
+  --t-slow: all 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-@plugin 'daisyui' {}
-
-
-@plugin "daisyui/theme" {
-  name: "light";
-  default: false;
-  prefersdark: false;
-  color-scheme: "light";
-  --color-base-100: oklch(100% 0 0);
-  --color-base-200: oklch(98% 0 0);
-  --color-base-300: oklch(95% 0 0);
-  --color-base-content: oklch(21% 0.006 285.885);
-  --color-primary: oklch(45% 0.24 277.023);
-  --color-primary-content: oklch(93% 0.034 272.788);
-  --color-secondary: oklch(65% 0.241 354.308);
-  --color-secondary-content: oklch(94% 0.028 342.258);
-  --color-accent: oklch(77% 0.152 181.912);
-  --color-accent-content: oklch(38% 0.063 188.416);
-  --color-neutral: oklch(14% 0.005 285.823);
-  --color-neutral-content: oklch(92% 0.004 286.32);
-  --color-info: oklch(74% 0.16 232.661);
-  --color-info-content: oklch(29% 0.066 243.157);
-  --color-success: oklch(76% 0.177 163.223);
-  --color-success-content: oklch(37% 0.077 168.94);
-  --color-warning: oklch(82% 0.189 84.429);
-  --color-warning-content: oklch(41% 0.112 45.904);
-  --color-error: oklch(71% 0.194 13.428);
-  --color-error-content: oklch(27% 0.105 12.094);
-  --radius-selector: 0.5rem;
-  --radius-field: 0.25rem;
-  --radius-box: 0.5rem;
-  --size-selector: 0.25rem;
-  --size-field: 0.25rem;
-  --border: 1px;
-  --depth: 1;
-  --noise: 0;
+/* Light-theme remap of the turquoise scale.
+   - In dark mode, `--brand-turquoise` is the medium-bright tone (#60cfbe)
+     which sits well on near-black; hover lifts to a brighter shade.
+   - In light mode, that medium-bright tone disappears against cream-white.
+     We shift the scale one step darker so headlines, links and accents
+     keep their contrast and weight. */
+html[data-theme='light'] {
+  --brand-turquoise: #2d9183;          /* deeper than the previous dark */
+  --brand-turquoise-light: #35ae9b;    /* used as hover lift */
+  --brand-turquoise-dark: #1d6a60;     /* deepest tone for high-emphasis text */
+  --brand-turquoise-rgb: 45, 145, 131;
 }
 
+@plugin 'daisyui/index.js' {}
 
+/* ============================================================
+   DARK THEME — primary brand context (dtcp-style: near-black with
+   teal cast, turquoise accents, big editorial type)
+   ============================================================ */
 @plugin "daisyui/theme" {
   name: "dark";
   default: true;
   prefersdark: true;
   color-scheme: "dark";
   --color-base-100: #000000;
-  --color-base-200: #000000;
-  --color-base-300: oklch(13% 0.028 261.692);
-  --color-base-content: oklch(97.807% 0.029 256.847);
-  --color-primary: oklch(43% 0.078 188.216);
-  --color-primary-content: oklch(96% 0.018 272.314);
-  --color-secondary: oklch(65% 0.241 354.308);
-  --color-secondary-content: oklch(94% 0.028 342.258);
-  --color-accent: oklch(77% 0.152 181.912);
-  --color-accent-content: oklch(38% 0.063 188.416);
-  --color-neutral: oklch(14% 0.005 285.823);
-  --color-neutral-content: oklch(92% 0.004 286.32);
-  --color-info: oklch(74% 0.16 232.661);
-  --color-info-content: oklch(29% 0.066 243.157);
-  --color-success: oklch(76% 0.177 163.223);
-  --color-success-content: oklch(37% 0.077 168.94);
-  --color-warning: oklch(82% 0.189 84.429);
-  --color-warning-content: oklch(41% 0.112 45.904);
-  --color-error: oklch(71% 0.194 13.428);
-  --color-error-content: oklch(27% 0.105 12.094);
-  --radius-selector: 0.5rem;
-  --radius-field: 0.25rem;
-  --radius-box: 0.5rem;
-  --size-selector: 0.28125rem;
-  --size-field: 0.28125rem;
+  --color-base-200: #0a1517;
+  --color-base-300: #132c2c;
+  --color-base-content: #ffffff;
+  --color-primary: #60cfbe;
+  --color-primary-content: #0a1517;
+  --color-secondary: #2a6262;
+  --color-secondary-content: #ffffff;
+  --color-accent: #87dbce;
+  --color-accent-content: #0a1517;
+  --color-neutral: #1a2b2d;
+  --color-neutral-content: #e6e6e6;
+  --color-info: #3abff8;
+  --color-info-content: #0a1517;
+  --color-success: #75b21d;
+  --color-success-content: #0a1517;
+  --color-warning: #f49100;
+  --color-warning-content: #0a1517;
+  --color-error: #f87272;
+  --color-error-content: #0a1517;
+  --radius-selector: 0;
+  --radius-field: 0;
+  --radius-box: 0;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
   --border: 1px;
-  --depth: 1;
+  --depth: 0;
   --noise: 0;
 }
 
+/* ============================================================
+   LIGHT THEME — sister theme: cream-white surface, teal-deep ink,
+   turquoise still primary. Same rhythm, opposite values.
+   ============================================================ */
+@plugin "daisyui/theme" {
+  name: "light";
+  default: false;
+  prefersdark: false;
+  color-scheme: "light";
+  --color-base-100: #fafaf7;
+  --color-base-200: #f1f1ed;
+  --color-base-300: #e3e6e3;
+  --color-base-content: #0a1517;
+  --color-primary: #35ae9b;
+  --color-primary-content: #fafaf7;
+  --color-secondary: #2a6262;
+  --color-secondary-content: #fafaf7;
+  --color-accent: #60cfbe;
+  --color-accent-content: #0a1517;
+  --color-neutral: #1a2b2d;
+  --color-neutral-content: #fafaf7;
+  --color-info: #0d99e6;
+  --color-info-content: #fafaf7;
+  --color-success: #75b21d;
+  --color-success-content: #fafaf7;
+  --color-warning: #f49100;
+  --color-warning-content: #0a1517;
+  --color-error: #c93136;
+  --color-error-content: #fafaf7;
+  --radius-selector: 0;
+  --radius-field: 0;
+  --radius-box: 0;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+  --border: 1px;
+  --depth: 0;
+  --noise: 0;
+}
+
+/* Bridge custom CSS vars to Tailwind utilities */
 @theme {
   --font-inter: 'Inter', sans-serif;
   --font-space-grotesk: 'Space Grotesk', sans-serif;
   --color-turquoise: var(--brand-turquoise);
-  --color-dark-teal: var(--dark-teal);
+  --color-turquoise-light: var(--brand-turquoise-light);
+  --color-turquoise-dark: var(--brand-turquoise-dark);
+  --color-teal: var(--brand-teal);
+  --color-teal-light: var(--brand-teal-light);
+  --color-teal-deep: var(--brand-teal-deep);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
 }
 
-/* BASICS */
+/* ============================================================
+   PAGE BACKGROUND + TYPOGRAPHY BASE
+   ============================================================ */
+
 *:focus,
 *:focus-visible,
-*:focus-within,
-*:active {
+*:focus-within {
   outline: none;
-  image-rendering: crisp-edges;
 }
 
 html,
 body {
-  @apply relative h-full w-full m-0 p-0 font-inter;
+  @apply relative w-full m-0 p-0;
+  font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+  font-size: var(--base-fs);
+  line-height: var(--base-lh);
+  font-weight: 300;
   min-height: 100dvh;
   scroll-behavior: smooth;
-  -moz-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
-p {
-  @apply text-2xl leading-normal font-light pb-6;
+/* The page-wide subtle gradient — anchor of the dark mood */
+html[data-theme='dark'] body {
+  background: linear-gradient(174deg, #000000 6%, #0a1517 42%, #0a1517 100%);
+  color: var(--white);
+}
+
+html[data-theme='light'] body {
+  background: linear-gradient(174deg, #ffffff 0%, #f1f1ed 60%, #e3e6e3 100%);
+  color: var(--ink-3);
+}
+
+/* ============================================================
+   UNIVERSAL CONTENT TYPOGRAPHY (component-friendly defaults)
+   ============================================================ */
+
+.editorial p {
+  font-size: clamp(1rem, 0.875rem + 0.4vw, 1.25rem);
+  line-height: 1.55;
+  font-weight: 300;
+  margin: 0 0 1.25rem;
+  max-width: 64ch;
+}
+
+.editorial p:last-child {
+  margin-bottom: 0;
+}
+
+.editorial a {
+  color: var(--brand-turquoise);
+  text-decoration: none;
+  transition: var(--t-base);
+}
+
+.editorial a:hover {
+  color: var(--brand-turquoise-light);
+}
+
+/* ============================================================
+   UTILITY CLASSES — reused across components
+   ============================================================ */
+
+/* Page-level container */
+.page-container {
+  width: var(--base-width);
+  max-width: var(--max-page);
+  margin-inline: auto;
+}
+
+.content-container {
+  width: var(--base-width);
+  max-width: var(--max-content);
+  margin-inline: auto;
+}
+
+.wide-container {
+  width: var(--base-width);
+  max-width: var(--max-wide);
+  margin-inline: auto;
+}
+
+.narrow-container {
+  width: var(--base-width);
+  max-width: var(--max-narrow);
+  margin-inline: auto;
+}
+
+/* Eyebrow label (small uppercase tag above headlines) */
+.eyebrow {
+  display: inline-block;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brand-turquoise);
+}
+
+/* Display headline (uppercase, light, oversized) */
+.display-headline {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
+  line-height: 1.05;
+  font-size: clamp(2.25rem, 1.4rem + 3.6vw, 4.2rem);
+  color: var(--brand-turquoise);
+}
+
+/* Section headline */
+.section-headline {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  font-size: clamp(1.875rem, 1.25rem + 2.4vw, 3.05rem);
+  color: var(--brand-turquoise);
+}
+
+/* Card / module title */
+.module-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  font-size: clamp(1.25rem, 1rem + 0.9vw, 1.75rem);
+}
+
+/* Big stat number */
+.stat-number {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 300;
+  line-height: 0.85;
+  font-size: clamp(3.5rem, 2rem + 6vw, 7.25rem);
+  letter-spacing: -0.03em;
+  color: var(--brand-turquoise);
+  font-feature-settings: 'tnum' 1;
+}
+
+.stat-label {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  line-height: 1.4;
+  white-space: pre-line;
+}
+
+/* Ghost heading: subtle gradient watermark word, sits in the foreground but
+   reads as decoration thanks to the gradient + low contrast. */
+.ghost-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: -0.025em;
+  line-height: 0.9;
+  font-size: clamp(3rem, 2rem + 5vw, 6.5rem);
+  pointer-events: none;
+  user-select: none;
+  background-image: linear-gradient(180deg, var(--brand-turquoise) 0%, rgba(96, 207, 190, 0.08) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(96, 207, 190, 0.18);
+}
+
+html[data-theme='light'] .ghost-heading {
+  background-image: linear-gradient(180deg, var(--brand-teal) 0%, rgba(42, 98, 98, 0.08) 100%);
+  -webkit-text-stroke: 1px rgba(42, 98, 98, 0.18);
+}
+
+/* Hairline divider used between stats / list items */
+.hairline {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+html[data-theme='light'] .hairline {
+  border-top: 1px solid rgba(10, 21, 23, 0.12);
+}
+
+/* ============================================================
+   FOCUS STYLE — accessible without disturbing the design
+   ============================================================ */
+
+a:focus-visible,
+button:focus-visible,
+[role='button']:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--brand-turquoise);
+  outline-offset: 3px;
+}
+
+/* ============================================================
+   IMAGE BASE — respects design tokens
+   ============================================================ */
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============================================================
+   SELECTION
+   ============================================================ */
+
+::selection {
+  background: var(--brand-turquoise);
+  color: #0a1517;
+}
+
+/* ============================================================
+   SWIPER overrides — keep swiper minimal, brand-styled
+   ============================================================ */
+
+.swiper {
+  width: 100%;
+  position: relative;
+}
+
+.swiper-slide {
+  height: auto;
+}
+
+.swiper-button-disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* ============================================================
+   REDUCED MOTION
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+  .reveal,
+  .reveal-stagger > * {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  .wave-stroke {
+    stroke-dashoffset: 0 !important;
+  }
 }

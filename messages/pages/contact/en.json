@@ -1,0 +1,8 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "contact_stage_breadcrumb": "Contact",
+  "contact_stage_title": "Contact",
+  "contact_intro_eyebrow": "GET IN TOUCH",
+  "contact_intro_headline": "We look forward to hearing from you.",
+  "contact_intro_text": "A first call is non-binding and confidential. We respond within 48 hours."
+}

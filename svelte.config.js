@@ -26,7 +26,8 @@ const config = {
       $services: './src/lib/services',
       $interfaces: './src/interfaces'
     },
-	}
+    inlineStyleThreshold: 2048
+  }
 };
 
 export default config;

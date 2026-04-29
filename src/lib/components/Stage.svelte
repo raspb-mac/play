@@ -1,31 +1,130 @@
 <script lang="ts">
+  import { goto } from '$app/navigation';
+  import { resolve } from '$app/paths';
+  import { localizeHref } from '$lib/paraglide/runtime';
+  import Waves from './Waves.svelte';
+
   interface Props {
+    eyebrow?: string;
     title: string;
     breadcrumb?: { label: string; href?: string }[];
-    bg?: string;
+    /** Optional intro paragraph */
+    intro?: string;
+    /** Show right-edge waves accent */
+    accent?: boolean;
   }
 
-  let { title, breadcrumb = [], bg = 'bg-base-200' }: Props = $props();
+  let { eyebrow, title, breadcrumb = [], intro, accent = true }: Props = $props();
+
+  function go(href: string) {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    goto(resolve(localizeHref(href) as any));
+  }
 </script>
 
-<div class="w-full {bg} py-12 px-4 border-b border-base-300">
-  <div class="max-w-6xl mx-auto">
-    {#if breadcrumb.length > 0}
-      <div class="text-sm breadcrumbs mb-2 text-base-content/50">
-        <ul>
-          <li><a href="/">Home</a></li>
-          {#each breadcrumb as crumb}
+<section class="page-stage">
+  {#if accent}
+    <div class="stage-accent" aria-hidden="true">
+      <Waves variant="right-accent" count={12} opacity={0.55} />
+    </div>
+  {/if}
+
+  <div class="stage-inner wide-container">
+    {#if breadcrumb.length}
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <ol>
+          <li>
+            <button type="button" onclick={() => go('/')}>Home</button>
+          </li>
+          {#each breadcrumb as crumb, i (i)}
+            <li aria-hidden="true" class="sep">/</li>
             <li>
               {#if crumb.href}
-                <a href={crumb.href}>{crumb.label}</a>
+                <button type="button" onclick={() => go(crumb.href!)}>{crumb.label}</button>
               {:else}
-                {crumb.label}
+                <span aria-current="page">{crumb.label}</span>
               {/if}
             </li>
           {/each}
-        </ul>
-      </div>
+        </ol>
+      </nav>
     {/if}
-    <h1 class="text-4xl font-bold">{title}</h1>
+
+    {#if eyebrow}
+      <p class="eyebrow stage-eyebrow">{eyebrow}</p>
+    {/if}
+    <h1 class="display-headline stage-title">{title}</h1>
+
+    {#if intro}
+      <p class="stage-intro">{intro}</p>
+    {/if}
   </div>
-</div>
+</section>
+
+<style lang="postcss">
+  @reference '../../app.css';
+
+  .page-stage {
+    @apply relative overflow-hidden;
+    padding-top: calc(var(--header-h) + clamp(3rem, 1.5rem + 5vw, 7rem));
+    padding-bottom: clamp(3rem, 1.5rem + 4vw, 6rem);
+  }
+
+  .stage-accent {
+    @apply absolute inset-y-0 right-0 pointer-events-none;
+    width: clamp(260px, 30vw, 520px);
+  }
+
+  .stage-inner {
+    @apply relative;
+  }
+
+  .crumbs {
+    @apply mb-10;
+  }
+  .crumbs ol {
+    @apply list-none p-0 m-0 flex items-center flex-wrap gap-2;
+  }
+  .crumbs li {
+    @apply m-0 p-0;
+    font-size: 0.8125rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.55);
+  }
+  :global(html[data-theme='light']) .crumbs li {
+    color: rgba(10, 21, 23, 0.55);
+  }
+
+  .crumbs button {
+    @apply bg-transparent border-0 cursor-pointer p-0;
+    color: inherit;
+    font-size: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    transition: color 0.3s ease;
+  }
+  .crumbs button:hover { color: var(--brand-turquoise); }
+  .crumbs .sep { opacity: 0.55; }
+
+  .stage-eyebrow {
+    margin-bottom: 1.5rem;
+  }
+
+  .stage-title {
+    margin: 0;
+    max-width: 22ch;
+  }
+
+  .stage-intro {
+    margin-top: 2rem;
+    font-size: clamp(1rem, 0.875rem + 0.4vw, 1.25rem);
+    line-height: 1.55;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.78);
+    max-width: 50rem;
+  }
+  :global(html[data-theme='light']) .stage-intro {
+    color: rgba(10, 21, 23, 0.72);
+  }
+</style>
