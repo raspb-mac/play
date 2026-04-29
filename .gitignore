@@ -21,3 +21,8 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Claude Code internal worktrees — must not be committed.
+# Git treats nested worktree dirs as submodule refs (mode 160000) which
+# breaks Netlify's submodule checkout step.
+.claude/worktrees/
