@@ -1,7 +1,7 @@
 ---
 title: New Blog Magic
 slug: blog-magic
-category: Risk Advisory
+category: Strategie
 date: 01.05.2025
 isoDate: 2026-04-30
 author: Markus
