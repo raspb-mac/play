@@ -7,7 +7,16 @@
     <title>STRATECO · Redaktion</title>
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <style>
-      html, body { background: #0a1517; color: #fff; margin: 0; padding: 0; }
+      /* Decap CMS bringt seine eigene helle UI mit. Wir resetten nur Margins
+         und sorgen für einen neutral-hellen Body-Hintergrund, damit beim
+         Scrollen unten kein dunkler Streifen vom Site-Theme auftaucht. */
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #f7f7f5;
+        color: #0a1517;
+        min-height: 100dvh;
+      }
     </style>
   </head>
   <body>
