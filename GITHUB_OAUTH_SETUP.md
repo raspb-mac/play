@@ -18,9 +18,9 @@ keine Code-Änderungen mehr nötig).
    → Klick auf **„OAuth Apps"** → **„New OAuth App"**.
 3. Felder ausfüllen:
    - **Application name**: `STRATECO Redaktion`
-   - **Homepage URL**: `https://strateco.netlify.app` *(deine Netlify-URL)*
+   - **Homepage URL**: `https://new-strateco.netlify.app` *(deine Netlify-URL)*
    - **Application description** (optional): `Decap CMS Login`
-   - **Authorization callback URL**: `https://strateco.netlify.app/api/oauth/callback`
+   - **Authorization callback URL**: `https://new-strateco.netlify.app/api/oauth/callback`
    - „Enable Device Flow" → **nicht** aktivieren
 4. Klick **„Register application"**.
 5. GitHub zeigt jetzt die **Client ID**. Klick **„Generate a new client secret"** →
@@ -60,7 +60,7 @@ backend:
   name: github
   repo: raspb-Mac/play              # ← <github-owner>/<repo-name>
   branch: main                       # ← oder dein Standard-Branch
-  base_url: https://strateco.netlify.app   # ← deine Netlify-URL
+  base_url: https://new-strateco.netlify.app   # ← deine Netlify-URL
 ```
 
 > Wenn das Repo unter einer GitHub-Organisation liegt (z. B.
@@ -70,9 +70,9 @@ backend:
 Gleich darunter, im selben File, optional:
 
 ```yaml
-site_url: https://strateco.netlify.app
-display_url: https://strateco.netlify.app
-logo_url: https://strateco.netlify.app/favicon.svg
+site_url: https://new-strateco.netlify.app
+display_url: https://new-strateco.netlify.app
+logo_url: https://new-strateco.netlify.app/favicon.svg
 ```
 
 Commit + Push:
@@ -89,7 +89,7 @@ git push
 
 1. Warte auf den Netlify-Deploy (1–2 Min nach dem Push, im Netlify-Dashboard
    sichtbar).
-2. Öffne `https://strateco.netlify.app/admin/`
+2. Öffne `https://new-strateco.netlify.app/admin/`
 3. Klick auf **„Login with GitHub"**.
 4. Popup → GitHub fragt nach Berechtigung für die OAuth App → **„Authorize"**.
 5. Popup schließt sich → Du landest in der Decap-Redaktions-Oberfläche.

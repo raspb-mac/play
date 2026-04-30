@@ -19,7 +19,7 @@ backend:
   name: github
   repo: REPLACE_ME_OWNER/REPLACE_ME_REPO   # ← anpassen
   branch: main
-  base_url: https://strateco.netlify.app    # ← Netlify-URL (Function liegt dort)
+  base_url: https://new-strateco.netlify.app    # ← Netlify-URL (Function liegt dort)
   auth_endpoint: /api/oauth                 # Pfad zur Netlify Function (siehe netlify.toml redirect)
   commit_messages:
     create: 'blog: neuer Beitrag „{{slug}}" ({{author-name}})'
@@ -42,9 +42,9 @@ public_folder: '/uploads'
 locale: de
 
 # Public Site URL — der „View site"-Button im CMS verlinkt hier hin.
-site_url: https://strateco.netlify.app
-display_url: https://strateco.netlify.app
-logo_url: https://strateco.netlify.app/favicon.svg
+site_url: https://new-strateco.netlify.app
+display_url: https://new-strateco.netlify.app
+logo_url: https://new-strateco.netlify.app/favicon.svg
 
 collections:
   # ---------------------------------------------------------------------------
