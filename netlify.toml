@@ -3,5 +3,33 @@
   publish = "build"
 
 [functions]
-  directory = "functions"
+  directory = "netlify/functions"
   node_bundler = "esbuild"
+
+# Decap CMS lives at /admin/index.html (static file). The Decap config
+# references /api/oauth — Netlify routes both endpoints to our Functions.
+# Path-based routing inside the function (`export const config = { path }`)
+# makes these redirects optional, but keeping them here makes the intent
+# explicit and works for older Netlify CLI versions.
+[[redirects]]
+  from = "/api/oauth"
+  to = "/.netlify/functions/oauth"
+  status = 200
+
+[[redirects]]
+  from = "/api/oauth/callback"
+  to = "/.netlify/functions/oauth-callback"
+  status = 200
+
+# Decap CMS lives under /admin/ as a static SPA. Without the index.html
+# rewrite, requests to /admin or /admin/ return 404 because SvelteKit owns
+# the routing fallthrough.
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin/"
+  to = "/admin/index.html"
+  status = 200

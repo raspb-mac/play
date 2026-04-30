@@ -1,0 +1,97 @@
+# =============================================================================
+# Decap CMS — Configuration
+# Docs: https://decapcms.org/docs/configuration-options/
+#
+# What this does:
+#   - Editorial UI for Markdown blog posts at /admin/
+#   - Backend stores content in Git (this repo) under /content/blog/
+#   - Auth runs through the Netlify Function in netlify/functions/oauth.mts
+#     using a GitHub OAuth App (set up once — see GITHUB_OAUTH_SETUP.md)
+#
+# Adjust BEFORE first launch:
+#   - backend.repo  → "<github-owner>/<repo-name>"      (e.g. raspb-Mac/strateco-site)
+#   - backend.branch → branch you publish from           (usually "main")
+#   - site_url       → your Netlify production URL
+#   - display_url    → where editors see "View site" pointing
+# =============================================================================
+
+backend:
+  name: github
+  repo: REPLACE_ME_OWNER/REPLACE_ME_REPO   # ← anpassen
+  branch: main
+  base_url: https://strateco.netlify.app    # ← Netlify-URL (Function liegt dort)
+  auth_endpoint: /api/oauth                 # Pfad zur Netlify Function (siehe netlify.toml redirect)
+  commit_messages:
+    create: 'blog: neuer Beitrag „{{slug}}" ({{author-name}})'
+    update: 'blog: Beitrag „{{slug}}" aktualisiert ({{author-name}})'
+    delete: 'blog: Beitrag „{{slug}}" gelöscht ({{author-name}})'
+    uploadMedia: 'blog: Asset „{{path}}" hochgeladen ({{author-name}})'
+    deleteMedia: 'blog: Asset „{{path}}" entfernt ({{author-name}})'
+
+# Editor-Workflow als optionaler Draft → Review → Publish-Modus.
+# Erfordert Pull-Request-Berechtigung im Repo. Wer das nicht braucht,
+# entfernt die Zeile (alle Edits committen direkt auf den Branch).
+publish_mode: editorial_workflow
+
+# Bilder-Upload: Decap legt sie in static/uploads/ ab,
+# der öffentliche Pfad lautet /uploads/<datei>.
+media_folder: 'static/uploads'
+public_folder: '/uploads'
+
+# UI-Sprache: deutsch
+locale: de
+
+# Public Site URL — der „View site"-Button im CMS verlinkt hier hin.
+site_url: https://strateco.netlify.app
+display_url: https://strateco.netlify.app
+logo_url: https://strateco.netlify.app/favicon.svg
+
+collections:
+  # ---------------------------------------------------------------------------
+  # Blog
+  # ---------------------------------------------------------------------------
+  - name: 'blog'
+    label: 'Blog'
+    label_singular: 'Beitrag'
+    description: 'Beobachtungen unserer Berater:innen aus dem Mandatsalltag.'
+    folder: 'content/blog'
+    create: true
+    delete: true
+    slug: '{{slug}}'
+    extension: 'md'
+    format: 'frontmatter'
+    summary: '{{date}} · {{category}} · {{title}}'
+    sortable_fields: ['isoDate', 'title', 'category']
+    view_filters:
+      - label: 'Compliance'
+        field: category
+        pattern: 'Compliance'
+      - label: 'AML'
+        field: category
+        pattern: 'AML'
+      - label: 'Risk Advisory'
+        field: category
+        pattern: 'Risk Advisory'
+      - label: 'Strategie'
+        field: category
+        pattern: 'Strategie'
+      - label: 'Mandate'
+        field: category
+        pattern: 'Mandate'
+      - label: 'Allgemein'
+        field: category
+        pattern: 'Allgemein'
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string', hint: 'Hauptüberschrift des Beitrags.' }
+      - { label: 'Slug (URL-Pfad)', name: 'slug', widget: 'string', hint: 'Wird Teil der URL: /insights/blog/<slug>. Klein, mit Bindestrichen.', pattern: ['^[a-z0-9-]+$', 'Nur Kleinbuchstaben, Zahlen und Bindestriche.'] }
+      - label: 'Kategorie'
+        name: 'category'
+        widget: 'select'
+        options: ['Compliance', 'AML', 'Risk Advisory', 'Strategie', 'Mandate', 'Allgemein']
+      - { label: 'Anzeige-Datum', name: 'date', widget: 'string', hint: 'Wie es im Beitrag erscheint, z. B. „April 2026".' }
+      - { label: 'ISO-Datum (Sortierung)', name: 'isoDate', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: false, picker_utc: true }
+      - { label: 'Autor:in', name: 'author', widget: 'string', default: 'STRATECO Editorial' }
+      - { label: 'Lesezeit (Minuten)', name: 'readMinutes', widget: 'number', value_type: 'int', min: 1, max: 60, default: 5 }
+      - { label: 'Cover-Bild', name: 'image', widget: 'image', hint: 'Hauptbild für Liste und Detailseite. 16:10 oder 4:3 funktioniert am besten.' }
+      - { label: 'Teaser', name: 'teaser', widget: 'text', hint: 'Kurzer Anreißer für Liste und Carousel. 1–2 Sätze.' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown', hint: 'Markdown unterstützt Überschriften, Listen, Zitate, Links.' }

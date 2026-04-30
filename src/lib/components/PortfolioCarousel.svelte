@@ -168,8 +168,20 @@
     overflow: hidden;
   }
 
+  /* Light theme: cream surface with subtle teal tint and a darker title for
+     a clean, readable contrast — sister look to Teaser/Industry/Format cards. */
+  :global(html[data-theme='light']) .pc-card {
+    background: linear-gradient(168deg, rgba(255, 255, 255, 0.92) 0%, rgba(241, 241, 237, 0.7) 60%);
+    border: 1px solid rgba(10, 21, 23, 0.08);
+    box-shadow: 0 18px 50px -28px rgba(10, 21, 23, 0.18);
+  }
+
   .pc-card:hover {
     border-color: rgba(96, 207, 190, 0.4);
+  }
+  :global(html[data-theme='light']) .pc-card:hover {
+    border-color: rgba(45, 145, 131, 0.45);
+    box-shadow: 0 22px 60px -28px rgba(10, 21, 23, 0.28);
   }
 
   .pc-card-link {
@@ -191,9 +203,19 @@
     filter: brightness(0.78) saturate(0.85);
   }
 
+  /* In light theme the image sits on a bright surface — let it breathe at
+     full brightness rather than dimming it. */
+  :global(html[data-theme='light']) .pc-card-figure img {
+    filter: none;
+  }
+
   .pc-card:hover .pc-card-figure img {
     transform: scale(1.04);
     filter: brightness(0.95) saturate(1);
+  }
+
+  :global(html[data-theme='light']) .pc-card:hover .pc-card-figure img {
+    filter: brightness(1.05) saturate(1.05);
   }
 
   .pc-card-veil {
@@ -201,6 +223,12 @@
     background:
       linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(0,0,0,0.45) 100%),
       linear-gradient(168deg, rgba(96,207,190,0.05) 0%, rgba(96,207,190,0) 50%);
+  }
+  /* Lighter veil in light theme — keeps a soft teal tint without crushing the photo. */
+  :global(html[data-theme='light']) .pc-card-veil {
+    background:
+      linear-gradient(180deg, rgba(255,255,255,0) 60%, rgba(255,255,255,0.18) 100%),
+      linear-gradient(168deg, rgba(45,145,131,0.06) 0%, rgba(45,145,131,0) 50%);
   }
 
   .pc-card-meta {

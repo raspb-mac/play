@@ -21,7 +21,7 @@
       onclick={() => pick(l)}
       aria-label={l === 'de' ? m.menu_switchLanguageToGerman() : m.menu_switchLanguageToEnglish()}
     >
-      {l.toUpperCase()}
+      <span class="lang-label">{l.toUpperCase()}</span>
     </button>
     {#if i < locales.length - 1}
       <span class="sep" aria-hidden="true">/</span>
@@ -41,26 +41,61 @@
   }
 
   .lang-item {
-    @apply uppercase cursor-pointer bg-transparent border-0 p-0 leading-none;
+    position: relative;
+    display: inline-block;
+    padding: 0 0 4px 0;
+    margin: 0;
+    background: transparent;
+    border: 0;
+    line-height: 1;
+    text-transform: uppercase;
+    cursor: pointer;
     color: rgba(255, 255, 255, 0.55);
-    transition: var(--t-base);
+    transition: color 0.3s ease, font-weight 0.2s ease;
   }
 
   :global(html[data-theme='light']) .lang-item {
-    color: rgba(10, 21, 23, 0.5);
+    color: rgba(10, 21, 23, 0.6);
+  }
+
+  /* Animated underline reveal — same easing as the header nav for consistency. */
+  .lang-item::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 1px;
+    width: 100%;
+    background: var(--brand-turquoise);
+    transform-origin: right center;
+    transform: scaleX(0);
+    transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   .lang-item:hover {
     color: var(--brand-turquoise);
   }
+  .lang-item:hover::after {
+    transform-origin: left center;
+    transform: scaleX(1);
+  }
 
-  .lang-item.active {
+  /* Active state — must also override the light-theme color rule, so the
+     selectors here are made specific enough to win in either theme. */
+  .lang-item.active,
+  :global(html[data-theme='light']) .lang-item.active {
     color: var(--brand-turquoise);
     cursor: default;
+    font-weight: 700;
+  }
+  .lang-item.active::after {
+    transform-origin: left center;
+    transform: scaleX(1);
   }
 
   .sep {
-    @apply mx-2 select-none;
+    margin-inline: 0.5rem;
+    user-select: none;
     color: rgba(255, 255, 255, 0.25);
   }
   :global(html[data-theme='light']) .sep {

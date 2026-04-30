@@ -100,6 +100,9 @@ export default defineConfig({
             ['en', '/en/thank-you']
           ]
         },
+        // /admin is served by static/admin/index.html (Decap CMS).
+        // We deliberately keep it locale-agnostic — Decap's UI doesn't
+        // need translation routing.
         {
           pattern: '/',
           localized: [

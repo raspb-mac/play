@@ -32,6 +32,14 @@
     { href: '/imprint', label: m.footer_legal_imprint() },
     { href: '/privacy', label: m.footer_legal_privacy() }
   ]);
+
+  /** External social channels — opened in a new tab via target="_blank". */
+  const socials = [
+    { name: 'LinkedIn',   href: 'https://www.linkedin.com/company/strateco-gmbh' },
+    { name: 'Xing',       href: 'https://www.xing.com/companies/stratecogmbh' },
+    { name: 'X (Twitter)',href: 'https://twitter.com/' },
+    { name: 'RSS',        href: '/rss.xml' }
+  ];
 </script>
 
 <footer class="site-footer">
@@ -67,6 +75,44 @@
           <img src={logoUrl} alt="STRATECO" class="footer-logo" />
         </button>
         <p class="footer-tagline">{m.brand_tagline()}.</p>
+
+        <!-- Social channels — sit in the brand column so they line up
+             horizontally with the navigation columns to the right. -->
+        <div class="brand-social">
+          <p class="brand-social-label">Folgen Sie uns</p>
+          <ul class="social-list">
+            {#each socials as s (s.name)}
+              <li>
+                <a
+                  href={s.href}
+                  target={s.href.startsWith('http') ? '_blank' : undefined}
+                  rel={s.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                  aria-label={s.name}
+                  title={s.name}
+                  class="social-link"
+                >
+                  {#if s.name === 'LinkedIn'}
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                      <path d="M20.5 3h-17A.5.5 0 003 3.5v17a.5.5 0 00.5.5h17a.5.5 0 00.5-.5v-17a.5.5 0 00-.5-.5zM8.27 18.5H5.4V9.65h2.87V18.5zM6.84 8.4a1.66 1.66 0 110-3.32 1.66 1.66 0 010 3.32zM18.6 18.5h-2.87v-4.3c0-1.03-.02-2.36-1.43-2.36-1.44 0-1.66 1.12-1.66 2.28v4.38H9.77V9.65h2.75v1.21h.04a3.02 3.02 0 012.72-1.5c2.91 0 3.45 1.92 3.45 4.4v4.74z" fill="currentColor"/>
+                    </svg>
+                  {:else if s.name === 'Xing'}
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                      <path d="M5.5 7h2.7l1.9 3.4-3.5 6.3H3.9l3.5-6.3L5.5 7zm14-3l-7.6 13.5-3.5-6.3 4.7-7.2H19.5z" fill="currentColor"/>
+                    </svg>
+                  {:else if s.name === 'X (Twitter)'}
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                      <path d="M17.6 4h2.9l-6.3 7.2L21.5 20h-5.7l-4.5-5.9L6.1 20H3.2l6.7-7.7L3 4h5.8l4 5.4L17.6 4zm-1 14.3h1.6L7.5 5.6H5.8L16.6 18.3z" fill="currentColor"/>
+                    </svg>
+                  {:else if s.name === 'RSS'}
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                      <path d="M5 5v3a11 11 0 0111 11h3A14 14 0 005 5zM5 11v3a5 5 0 015 5h3a8 8 0 00-8-8zM6.5 16.5A1.75 1.75 0 105 18.25 1.75 1.75 0 006.5 16.5z" fill="currentColor"/>
+                    </svg>
+                  {/if}
+                </a>
+              </li>
+            {/each}
+          </ul>
+        </div>
       </div>
 
       <nav class="footer-col" aria-label="Primary footer">
@@ -114,6 +160,14 @@
 
     <div class="footer-bottom">
       <p class="copyright">{m.footer_copyright({ year })}</p>
+      <a
+        href="/admin/"
+        class="admin-link"
+        aria-label="Redaktion (Decap CMS)"
+        title="Redaktion"
+      >
+        Admin
+      </a>
     </div>
   </div>
 </footer>
@@ -245,7 +299,7 @@
 
   .footer-col button,
   .footer-col a {
-    @apply bg-transparent border-0 cursor-pointer p-0 text-left;
+    @apply relative bg-transparent border-0 cursor-pointer p-0 text-left inline-block;
     font-family: 'Space Grotesk', sans-serif;
     font-size: 0.9375rem;
     font-weight: 400;
@@ -258,9 +312,30 @@
     color: rgba(10, 21, 23, 0.78);
   }
 
+  /* Animated underline reveal — visually matches the header nav so the
+     interaction language is consistent across the page. */
+  .footer-col button::after,
+  .footer-col a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    height: 1px;
+    width: 100%;
+    background: var(--brand-turquoise);
+    transform-origin: right center;
+    transform: scaleX(0);
+    transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
   .footer-col button:hover,
   .footer-col a:hover {
     color: var(--brand-turquoise);
+  }
+  .footer-col button:hover::after,
+  .footer-col a:hover::after {
+    transform-origin: left center;
+    transform: scaleX(1);
   }
 
   .address {
@@ -279,7 +354,51 @@
     @apply mb-3;
   }
 
+  /* Social channels — sit inside the brand column, beneath the tagline,
+     so they align horizontally with the start of the navigation columns. */
+  .brand-social {
+    margin-top: clamp(1.25rem, 0.75rem + 1vw, 2rem);
+  }
+  .brand-social-label {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.42);
+    margin: 0 0 1rem;
+  }
+  :global(html[data-theme='light']) .brand-social-label {
+    color: rgba(10, 21, 23, 0.5);
+  }
+  .social-list {
+    @apply flex items-center gap-4 list-none p-0 m-0 flex-wrap;
+  }
+  .social-link {
+    @apply inline-flex items-center justify-center;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(96, 207, 190, 0.22);
+    border-radius: 999px;
+    color: rgba(255, 255, 255, 0.78);
+    transition: var(--t-base);
+  }
+  :global(html[data-theme='light']) .social-link {
+    border-color: rgba(45, 145, 131, 0.32);
+    color: rgba(10, 21, 23, 0.78);
+  }
+  .social-link:hover {
+    color: var(--brand-turquoise);
+    border-color: var(--brand-turquoise);
+    transform: translateY(-2px);
+  }
+  .social-link svg {
+    width: 18px;
+    height: 18px;
+  }
+
   .footer-bottom {
+    @apply flex items-center justify-between gap-4 flex-wrap;
     border-top: 1px solid rgba(255, 255, 255, 0.08);
     padding-top: 24px;
   }
@@ -295,5 +414,23 @@
   }
   :global(html[data-theme='light']) .copyright {
     color: rgba(10, 21, 23, 0.45);
+  }
+
+  /* Discreet admin link — kept intentionally low-contrast so it disappears for
+     casual visitors but stays clickable for editors. */
+  .admin-link {
+    @apply inline-block bg-transparent border-0 cursor-pointer p-0;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 0.6875rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.18);
+    transition: color 0.3s ease;
+  }
+  :global(html[data-theme='light']) .admin-link {
+    color: rgba(10, 21, 23, 0.22);
+  }
+  .admin-link:hover {
+    color: var(--brand-turquoise);
   }
 </style>

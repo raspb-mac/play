@@ -185,6 +185,11 @@
     transition: transform 1.6s cubic-bezier(0.22, 1, 0.36, 1);
   }
 
+  /* Let the image breathe at full brightness on the cream background. */
+  :global(html[data-theme='light']) .fc-figure img {
+    filter: none;
+  }
+
   .fc-slide:hover .fc-figure img {
     transform: scale(1.03);
   }
@@ -192,6 +197,9 @@
   .fc-figure-veil {
     @apply absolute inset-0 pointer-events-none;
     background: linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.35) 100%);
+  }
+  :global(html[data-theme='light']) .fc-figure-veil {
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.12) 100%);
   }
 
   .fc-content {

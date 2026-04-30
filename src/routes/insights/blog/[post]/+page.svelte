@@ -1,18 +1,20 @@
 <script lang="ts">
   import { page } from '$app/state';
   import { error } from '@sveltejs/kit';
+  import MarkdownIt from 'markdown-it';
   import { Stage, Section, ArrowLink, RevealOnScroll } from '$lib';
   import { getPostBySlug, blogPosts } from '$lib/configs/blog';
   import { localizeHref } from '$lib/paraglide/runtime';
 
+  const md = new MarkdownIt({ html: false, linkify: true, typographer: true, breaks: false });
+
   const slug = $derived(page.params.post ?? '');
   const post = $derived(getPostBySlug(slug));
+  const bodyHtml = $derived(post ? md.render(post.body) : '');
 
   // Up to 2 related posts (excluding current)
   const related = $derived(
-    post
-      ? blogPosts.filter((p) => p.slug !== post.slug).slice(0, 2)
-      : []
+    post ? blogPosts.filter((p) => p.slug !== post.slug).slice(0, 2) : []
   );
 
   $effect(() => {
@@ -27,7 +29,7 @@
 
 {#if post}
   <Stage
-    eyebrow="{post.category} · {post.date} · {post.readMinutes} min"
+    eyebrow="{post.category} · {post.date} · {post.readMinutes} min · {post.author}"
     title={post.title}
     breadcrumb={[
       { label: 'News & Insights', href: '/insights' },
@@ -44,18 +46,7 @@
     </RevealOnScroll>
 
     <article class="article editorial">
-      {#each post.body as block, i (i)}
-        {#if block.type === 'p'}
-          <p>{block.text}</p>
-        {:else if block.type === 'h2'}
-          <h2 class="article-h2">{block.text}</h2>
-        {:else if block.type === 'quote'}
-          <blockquote class="article-quote">
-            <p>{block.text}</p>
-            {#if block.cite}<cite>— {block.cite}</cite>{/if}
-          </blockquote>
-        {/if}
-      {/each}
+      {@html bodyHtml}
     </article>
 
     <div class="article-foot">
@@ -107,7 +98,8 @@
     margin-inline: auto;
   }
 
-  .article-h2 {
+  /* markdown-it generates plain HTML — these selectors style the rendered tree. */
+  .article :global(h2) {
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 400;
     line-height: 1.2;
@@ -116,15 +108,24 @@
     margin: 2.5rem 0 1.25rem;
     letter-spacing: -0.005em;
   }
-  :global(html[data-theme='light']) .article-h2 { color: var(--ink-3); }
+  :global(html[data-theme='light']) .article :global(h2) { color: var(--ink-3); }
 
-  .article-quote {
+  .article :global(h3) {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: clamp(1.125rem, 0.95rem + 0.6vw, 1.375rem);
+    color: var(--white);
+    margin: 2rem 0 1rem;
+  }
+  :global(html[data-theme='light']) .article :global(h3) { color: var(--ink-3); }
+
+  .article :global(blockquote) {
     border-left: 2px solid var(--brand-turquoise);
     padding: 0.75rem 0 0.75rem 1.5rem;
     margin: 2rem 0;
     font-style: italic;
   }
-  .article-quote p {
+  .article :global(blockquote p) {
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 300;
     font-size: clamp(1.125rem, 1rem + 0.4vw, 1.375rem);
@@ -132,15 +133,22 @@
     color: var(--brand-turquoise);
     margin: 0 0 0.5rem;
   }
-  .article-quote cite {
-    font-style: normal;
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: 0.8125rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.55);
+
+  .article :global(ul),
+  .article :global(ol) {
+    margin: 1rem 0 1.25rem 1.5rem;
   }
-  :global(html[data-theme='light']) .article-quote cite { color: rgba(10, 21, 23, 0.55); }
+  .article :global(li) {
+    margin-bottom: 0.5rem;
+  }
+
+  .article :global(a) {
+    color: var(--brand-turquoise);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+  .article :global(a:hover) { color: var(--brand-turquoise-light); }
 
   .article-foot {
     margin-top: 4rem;
