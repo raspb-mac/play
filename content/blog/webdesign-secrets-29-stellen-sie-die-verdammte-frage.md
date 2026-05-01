@@ -1,16 +1,16 @@
 ---
 title: "Webdesign-Secrets 29: Stellen Sie die verdammte Frage!"
 slug: "webdesign-secrets-29-stellen-sie-die-verdammte-frage"
-category: ["Usability", "Webdesign"]
-date: "Oktober 2012"
-isoDate: "2012-10-04"
+category: "Usability"
+date: "4. Oktober 2012"
+isoDate: "2012-10-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webdesign-secrets-29-stellen-sie-die-verdammte-frage.png"
-teaser: "Content is King(Inhalt ist König) ist eine Phrase, die man häufiger hört. Aber ist der Inhalt einer Webseite tatsächlich das Wichtigste? An dem Spruch..."
+teaser: "Content is King (Inhalt ist König) ist eine Phrase, die man häufiger hört. Aber ist der Inhalt einer Webseite tatsächlich das Wichtigste? An dem Spruch ist durchaus etwas Wahres dran. Auch wenn man…"
 ---
 
-Content is King(Inhalt ist König) ist eine Phrase, die man häufiger hört. Aber ist der Inhalt einer Webseite tatsächlich das Wichtigste? An dem Spruch ist durchaus etwas Wahres dran. Auch wenn man das ganze Drumherum nicht gänzlich vergessen darf, ist der Inhalt der Kern und sollte stets die Orientierung und Motivation eines jeden Webprojektes bestimmen.
+Content is King (Inhalt ist König) ist eine Phrase, die man häufiger hört. Aber ist der Inhalt einer Webseite tatsächlich das Wichtigste? An dem Spruch ist durchaus etwas Wahres dran. Auch wenn man das ganze Drumherum nicht gänzlich vergessen darf, ist der Inhalt der Kern und sollte stets die Orientierung und Motivation eines jeden Webprojektes bestimmen.
 
 Die Art und Weise, wie die Inhalte präsentiert werden, spielt da nur noch eine untergeordnete Rolle und ist weit weniger wichtig, als der Inhalt an sich. Eine unschöne Darstellung der Inhalte, kann vielleicht verhindern, dass er sein Publikum erreicht. Aber eine großartige Präsentation ist nicht in der Lage mangelhafte Inhalte zu kompensieren.
 
@@ -22,6 +22,6 @@ Es gibt so viele Webauftritte, die auf eine perfekte Darstellung und die richtig
 
 Es ist ganz so, als würde man bei dem einen Date ein Vermögen für die perfekte, romantische Atmosphäre ausgeben – mit Kerzenlicht, Musik, großartigem Essen und einem funkelnden Diamantring… Aber dann vergisst, die entscheidende Frage zu stellen.
 
-Wenn Sie Ihre Besucher einbeziehen und Sie zur Ausführung der Zielaktion bewegen möchten, gibt es eigentlich nur eine Sache, die Sie auf jeden Fall tun müssen:Stellen Sie die verdammte Frage. Das bedeutet, dass Sie Ihre Botschaft, Ihr Angebot, ihre These eindeutig darlegen. Machen Sie es überzeugend und motivieren und halten Sie letztendlich eine Handlungsaufforderung bereit (Call-To-Action | CTA), der eindeutig mit Ja oder Nein begegnet werden kann.
+Wenn Sie Ihre Besucher einbeziehen und Sie zur Ausführung der Zielaktion bewegen möchten, gibt es eigentlich nur eine Sache, die Sie auf jeden Fall tun müssen: Stellen Sie die verdammte Frage . Das bedeutet, dass Sie Ihre Botschaft, Ihr Angebot, ihre These eindeutig darlegen. Machen Sie es überzeugend und motivieren und halten Sie letztendlich eine Handlungsaufforderung bereit (Call-To-Action | CTA), der eindeutig mit Ja oder Nein begegnet werden kann.
 
-Ich bin davon überzeugt, dassIhre Webseite erfolgreicher sein wird, wenn Sie diese Ratschläge befolgen. Wenn Sie diese Ansätze hingegen völlig ignorieren, ist es Ihre eigene Schuld.
+Ich bin davon überzeugt, dass Ihre Webseite erfolgreicher sein wird , wenn Sie diese Ratschläge befolgen. Wenn Sie diese Ansätze hingegen völlig ignorieren, ist es Ihre eigene Schuld.

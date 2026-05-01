@@ -2,12 +2,12 @@
 title: "SALES TEAM COLLABORATION – EFFEKTIVE ZUSAMMENARBEIT IM VERTRIEB/ KAM – Gemeinsamer Erfolg in Vertriebs-/ KAM-Teams"
 slug: "sales-team-collaboration-effektive-zusammenarbeit-im-vertrieb-kam-gemeinsamer-erfolg-in-vertriebs-kam-teams"
 category: "Erfolg"
-date: "Dezember 2018"
-isoDate: "2018-12-21"
+date: "21. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/sales-team-collaboration-effektive-zusammenarbeit-im-vertrieb-kam-gemeinsamer-erfolg-in-vertriebs-kam-teams.jpg"
-teaser: "Collaboration ist zu einem wichtigen Erfolgstrend in Unternehmen geworden. Das betrifft auch die Vertriebseinheiten sowie das Key Account Management (..."
+teaser: "Collaboration ist zu einem wichtigen Erfolgstrend in Unternehmen geworden. Das betrifft auch die Vertriebseinheiten sowie das Key Account Management (KAM). Unentdeckte Potenziale sollen gehoben…"
 ---
 
 Collaboration ist zu einem wichtigen Erfolgstrend in Unternehmen geworden. Das betrifft auch die Vertriebseinheiten sowie das Key Account Management (KAM). Unentdeckte Potenziale sollen gehoben werden, Effizienzen gesteigert werden, Erfolg erhöht werden und Mitarbeiter sollen zufriedener sein.
@@ -32,29 +32,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Collaboration](https://blog.strateco.de/tag/collaboration/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[Führung](https://blog.strateco.de/tag/fuehrung/)
-[Fußball](https://blog.strateco.de/tag/fussball/)
-[Gemeinsamer Geist](https://blog.strateco.de/tag/gemeinsamer-geist/)
-[Haltung](https://blog.strateco.de/tag/haltung/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Kultur](https://blog.strateco.de/tag/kultur/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[leadership](https://blog.strateco.de/tag/leadership/)
-[Mannschaft](https://blog.strateco.de/tag/mannschaft/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Personal](https://blog.strateco.de/tag/personal/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[Sales Team](https://blog.strateco.de/tag/sales-team/)
-[spirit](https://blog.strateco.de/tag/spirit/)
-[Sprache](https://blog.strateco.de/tag/sprache/)
-[Team](https://blog.strateco.de/tag/team/)
-[Verhalten](https://blog.strateco.de/tag/verhalten/)
-[Vertriebsteam](https://blog.strateco.de/tag/vertriebsteam/)
-[Wert](https://blog.strateco.de/tag/wert/)
-[wertgeschätzt](https://blog.strateco.de/tag/wertgeschaetzt/)
-[Zusammenarbeit](https://blog.strateco.de/tag/zusammenarbeit/)
+TAGS: Collaboration Customer Erfolg Führung Fußball Gemeinsamer Geist Haltung KAM Key Account Management Kultur Kunde leadership Mannschaft Methode Personal Prozess Sales Team spirit Sprache Team Verhalten Vertriebsteam Wert wertgeschätzt Zusammenarbeit

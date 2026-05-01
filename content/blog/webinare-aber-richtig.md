@@ -1,13 +1,13 @@
 ---
 title: "Webinare? Aber richtig!"
 slug: "webinare-aber-richtig"
-category: ["News", "Online Marketing Allgemein", "Webinare"]
-date: "April 2014"
-isoDate: "2014-04-04"
+category: "News"
+date: "4. April 2014"
+isoDate: "2014-04-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webinare-aber-richtig.jpg"
-teaser: "Webinare sind für viele Unternehmen das Mittel der Wahl wenn es darum geht, schnell und unkompliziert mit Kunden zu kommunizieren. Sei es als öffentli..."
+teaser: "Webinare sind für viele Unternehmen das Mittel der Wahl wenn es darum geht, schnell und unkompliziert mit Kunden zu kommunizieren. Sei es als öffentliches Webinar um einem breiten Publikum Produkte…"
 ---
 
 Webinare sind für viele Unternehmen das Mittel der Wahl wenn es darum geht, schnell und unkompliziert mit Kunden zu kommunizieren. Sei es als öffentliches Webinar um einem breiten Publikum Produkte oder Services zu präsentieren oder als Tool für Trainings und Schulungen.
@@ -40,4 +40,4 @@ Zu guter Letzt ein Tipp, der sich banal anhört, aber viel zu oft auf Grund mang
 
 Dabei ist es auch unerheblich, ob ihr Webinar 30 Minuten oder zwei Stunden dauert! Nehmen Sie sich die Zeit, sich mit Ihren Unterlagen und der Webinar Plattform vertraut zu machen. Der Teufel ist ein Eichhörnchen!
 
-Viele weitere nützliche Tipps und Angebote für erfolgreiche Webinare finden Sie unterWebinartraining.de
+Viele weitere nützliche Tipps und Angebote für erfolgreiche Webinare finden Sie unter Webinartraining.de

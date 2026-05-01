@@ -2,12 +2,12 @@
 title: "Nuance Conversations DACH – alles hört auf mein Kommando!"
 slug: "nuance-conversations-dach-alles-hoert-auf-mein-kommando"
 category: "Projekte"
-date: "November 2009"
-isoDate: "2009-11-03"
+date: "3. November 2009"
+isoDate: "2009-11-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/nuance-conversations-dach-alles-hoert-auf-mein-kommando.png"
-teaser: "Am 11.11.2009 finden in München die ersten Conversations DACH statt. Der eintägige Kongress von Nuance zeigt Neuigkeiten und Trends im Bereich Spracht..."
+teaser: "Am 11.11.2009 finden in München die ersten Conversations DACH statt. Der eintägige Kongress von Nuance zeigt Neuigkeiten und Trends im Bereich Sprachtechnologien und Bildbearbeitungslösungen und…"
 ---
 
 Am 11.11.2009 finden in München die ersten Conversations DACH statt. Der eintägige Kongress von Nuance zeigt Neuigkeiten und Trends im Bereich Sprachtechnologien und Bildbearbeitungslösungen und bietet Einblick in die vielfältigen Einsatzmöglichkeiten.
@@ -20,4 +20,4 @@ Während der Veranstaltung können Sie sich direkt bei den Nuance Partnern über
 
 Als besonderes Highlight wird die Praxistauglichkeit der Diktiersoftware Dragon NaturallySpeaking im Amazing Race auf den Prüfstand gestellt – Spracherkennung im Wettlauf gegen Deutschlands schnellsten SMS-Schreiber.
 
-Das Strateco Team konnte Nuance erfolgreich bei der Planung und Umsetzung der Veranstaltung unterstützen und freut sich auf einen informativen und abwechslungsreichen Kongress! Weitere Informationen gibt es unterwww.nuance.de/conversationsdach
+Das Strateco Team konnte Nuance erfolgreich bei der Planung und Umsetzung der Veranstaltung unterstützen und freut sich auf einen informativen und abwechslungsreichen Kongress! Weitere Informationen gibt es unter www.nuance.de/conversationsdach

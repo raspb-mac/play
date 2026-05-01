@@ -1,13 +1,13 @@
 ---
 title: "Servicewüste Deutschland – wirklich?"
 slug: "servicewueste-deutschland-wirklich"
-category: ["Customer Experience Analytics", "Meinungen", "News"]
-date: "Oktober 2012"
-isoDate: "2012-10-26"
+category: "CX Analytics"
+date: "26. Oktober 2012"
+isoDate: "2012-10-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/servicewueste-deutschland-wirklich.jpg"
-teaser: "Zugegeben, ich neige durchaus dazu, auf die Dienstleistungsunternehmen in Deutschland (vorrangig Ex-Monopolisten im Telekommunikations-, Post- und Bef..."
+teaser: "Zugegeben, ich neige durchaus dazu, auf die Dienstleistungsunternehmen in Deutschland (vorrangig Ex-Monopolisten im Telekommunikations-, Post- und Beförderungs-Sektor) zu schimpfen. Nicht aus purer…"
 ---
 
 Zugegeben, ich neige durchaus dazu, auf die Dienstleistungsunternehmen in Deutschland (vorrangig Ex-Monopolisten im Telekommunikations-, Post- und Beförderungs-Sektor) zu schimpfen. Nicht aus purer Boshaftigkeit, sondern weil häufig vermeintliche Kleinigkeiten zu unlösbaren Problemen aufgeblasen werden, gegen die die Besteigung des Eiger wie ein Spaziergang wirkt.
@@ -30,4 +30,4 @@ Wenn mein Bäcker es schafft, eine digitale Stempelkarte in Form einer Smartphon
 
 Ach ja, das erhaltene Wechselgeld habe ich übrigens postwendend in neue Backwaren reinvestiert – eigentlich eine schöne Win/Win-Situation.
 
-high quality exactPUFF & BEAR Mini Einweg E-zigarette 3500.
+high quality exact PUFF & BEAR Mini Einweg E-zigarette 3500 .

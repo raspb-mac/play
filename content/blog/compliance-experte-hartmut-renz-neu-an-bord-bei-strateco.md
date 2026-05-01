@@ -1,13 +1,13 @@
 ---
 title: "Compliance Experte Hartmut Renz neu an Bord bei STRATECO"
 slug: "compliance-experte-hartmut-renz-neu-an-bord-bei-strateco"
-category: ["Allgemein", "News"]
-date: "Oktober 2023"
-isoDate: "2023-10-11"
+category: "Allgemein"
+date: "11. Oktober 2023"
+isoDate: "2023-10-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/compliance-experte-hartmut-renz-neu-an-bord-bei-strateco.jpg"
-teaser: "Die STRATECO GmbH freut sich über renommierten Zuwachs – wir begrüßen zum 01. September den Compliance-Experte Hartmut T. Renz neu an Bord. Für STRATE..."
+teaser: "Die STRATECO GmbH freut sich über renommierten Zuwachs – wir begrüßen zum 01. September den Compliance-Experte Hartmut T. Renz neu an Bord. Für STRATECO-Geschäftsführer Laurence Dickler ist das ein…"
 ---
 
 Die STRATECO GmbH freut sich über renommierten Zuwachs – wir begrüßen zum 01. September den Compliance-Experte Hartmut T. Renz neu an Bord. Für STRATECO-Geschäftsführer Laurence Dickler ist das ein großer Erfolg: „Mit Hartmut Renz gewinnen wir ein echtes Schwergewicht. Gerade auch durch seine praktischen Erfahrungen im Banking wird es unser Angebot deutlich stärken. Wir werden den Bereich Regulatory and Compliance Advisory weiter ausbauen, um der wachsenden Nachfrage und den komplexen Anforderungen des Marktes gerecht zu werden.“

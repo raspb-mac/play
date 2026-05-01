@@ -1,13 +1,13 @@
 ---
 title: "SMART CRM: WIE DIGITALE DATEN UND WERTORIENTIERTES DENKEN DAS CRM ERNEUERN"
 slug: "smart-crm-wie-digitale-daten-und-wertorientiertes-denken-das-crm-erneuern"
-category: ["Analyse", "B2B", "CRM", "Customer", "Customer Relation", "Customer Relationship Management", "Customer Value", "Digital", "Kunde", "Kundenbeziehung", "Mehrwert", "Vertrieb"]
-date: "Dezember 2018"
-isoDate: "2018-12-20"
+category: "Analyse"
+date: "20. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/smart-crm-wie-digitale-daten-und-wertorientiertes-denken-das-crm-erneuern.jpg"
-teaser: "CRM steht für Customer Relationship Management. Damit die Beziehungen zu deinem Kunden auch richtig gesteuert werden können, sind folgende Aspekte not..."
+teaser: "CRM steht für Customer Relationship Management. Damit die Beziehungen zu deinem Kunden auch richtig gesteuert werden können, sind folgende Aspekte notwendig: 1) den Kunden wirklich verstehen, 2)…"
 ---
 
 CRM steht für Customer Relationship Management. Damit die Beziehungen zu deinem Kunden auch richtig gesteuert werden können, sind folgende Aspekte notwendig: 1) den Kunden wirklich verstehen, 2) eine effektive Vertriebsmethode und 3) relevante Daten.
@@ -24,29 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[analytical CRM](https://blog.strateco.de/tag/analytical-crm/)
-[analytics](https://blog.strateco.de/tag/analytics/)
-[CRM](https://blog.strateco.de/tag/crm/)
-[CRM analytics](https://blog.strateco.de/tag/crm-analytics/)
-[digital data](https://blog.strateco.de/tag/digital-data/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[intelligence](https://blog.strateco.de/tag/intelligence/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenbeziehung](https://blog.strateco.de/tag/kundenbeziehung/)
-[Listening](https://blog.strateco.de/tag/listening/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[mind set](https://blog.strateco.de/tag/mind-set/)
-[relevant](https://blog.strateco.de/tag/relevant/)
-[Return](https://blog.strateco.de/tag/return/)
-[Return on Investment](https://blog.strateco.de/tag/return-on-investment/)
-[ROI](https://blog.strateco.de/tag/roi/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[smart CRM](https://blog.strateco.de/tag/smart-crm/)
-[Smart Data](https://blog.strateco.de/tag/smart-data/)
-[sweet spot](https://blog.strateco.de/tag/sweet-spot/)
-[tool set](https://blog.strateco.de/tag/tool-set/)
-[verstehen](https://blog.strateco.de/tag/verstehen/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
+TAGS: analytical CRM analytics CRM CRM analytics digital data Erkenntnis Insight intelligence Kunde Kundenbeziehung Listening Mehrwert Methode mind set relevant Return Return on Investment ROI Sales smart CRM Smart Data sweet spot tool set verstehen Vertrieb

@@ -1,13 +1,13 @@
 ---
 title: "Der Kunde steht im Mittelpunkt – Und da steht er oft im Weg."
 slug: "der-kunde-steht-im-mittelpunkt-und-da-steht-er-oft-im-weg"
-category: ["Customer", "Customer Value", "Kundenwert", "Mehrwert"]
-date: "Dezember 2018"
-isoDate: "2018-12-16"
+category: "Customer"
+date: "16. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/der-kunde-steht-im-mittelpunkt-und-da-steht-er-oft-im-weg.jpg"
-teaser: "Wer hat nicht bereits in Unternehmen diese Floskel erlebt „Der Kunde steht im Mittelpunkt“. Gut gemeint ist nicht gleich gut gemacht. Etliche Unterneh..."
+teaser: "Wer hat nicht bereits in Unternehmen diese Floskel erlebt „Der Kunde steht im Mittelpunkt“. Gut gemeint ist nicht gleich gut gemacht. Etliche Unternehmen wissen diesen Anspruch nicht in die…"
 ---
 
 Wer hat nicht bereits in Unternehmen diese Floskel erlebt „Der Kunde steht im Mittelpunkt“. Gut gemeint ist nicht gleich gut gemacht. Etliche Unternehmen wissen diesen Anspruch nicht in die Alltagspraxis zu übersetzen, so dass es für den Kunden auch spürbar positiv erlebbar ist.
@@ -24,19 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Bedarf](https://blog.strateco.de/tag/bedarf/)
-[Bedürfnis](https://blog.strateco.de/tag/beduerfnis/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Fokus](https://blog.strateco.de/tag/fokus/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kunde verstehen](https://blog.strateco.de/tag/kunde-verstehen/)
-[Kundenorientierung](https://blog.strateco.de/tag/kundenorientierung/)
-[Kundenverständnis](https://blog.strateco.de/tag/kundenverstaendnis/)
-[Kundenzentrierung](https://blog.strateco.de/tag/kundenzentrierung/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Mittelpunkt](https://blog.strateco.de/tag/mittelpunkt/)
-[sweet spot](https://blog.strateco.de/tag/sweet-spot/)
-[Wert](https://blog.strateco.de/tag/wert/)
-[Zentrum](https://blog.strateco.de/tag/zentrum/)
+TAGS: Bedarf Bedürfnis Customer Erkenntnis Fokus Kunde Kunde verstehen Kundenorientierung Kundenverständnis Kundenzentrierung Mehrwert Mittelpunkt sweet spot Wert Zentrum

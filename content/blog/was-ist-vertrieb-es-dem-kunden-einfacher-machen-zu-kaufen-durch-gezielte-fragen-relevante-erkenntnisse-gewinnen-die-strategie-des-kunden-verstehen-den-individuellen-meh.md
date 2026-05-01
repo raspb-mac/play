@@ -1,18 +1,18 @@
 ---
 title: "WAS IST VERTRIEB? – „ES DEM KUNDEN EINFACHER MACHEN ZU KAUFEN!“ Durch gezielte Fragen relevante Erkenntnisse gewinnen. Die Strategie des Kunden verstehen. Den individuellen Mehrwert des eigenen Angebotes für den Kunden verstehen."
-slug: "was-ist-vertrieb-es-dem-kunden-einfacher-machen-zu-kaufen-durch-gezielte-fragen-relevante-erkenntnisse-gewinnen-die-strategie-des-kunden-verstehen-den-individuellen-meh"
-category: ["Beratung", "Customer", "Insight", "Kunde", "Kundenbeziehung", "Mehrwert", "Sales", "Strategy", "Vertrieb"]
-date: "November 2018"
-isoDate: "2018-11-08"
+slug: "was-ist-vertrieb-es-dem-kunden-einfacher-machen-zu-kaufen-durch-gezielte-fragen-relevante-erkenntnisse-gewinnen-die-strategie-des-kunden-verstehen-den-individuellen-mehrwert-des-eigenen-angebotes-fuer-den-kunden-verstehen"
+category: "Beratung"
+date: "8. November 2018"
+isoDate: "2018-11-01"
 author: "STRATECO"
-readMinutes: 3
-image: "/uploads/was-ist-vertrieb-es-dem-kunden-einfacher-machen-zu-kaufen-durch-gezielte-fragen-relevante-erkenntnisse-gewinnen-die-strategie-des-kunden-verstehen-den-individuellen-meh.jpg"
-teaser: "Laut der Ökonomen ist Vertrieb ein Hauptprozess im Unternehmen. Aber braucht man Vertrieb wirklich? ‚Qualität und gute Produkte verkaufen sich doch vo..."
+readMinutes: "3"
+image: "/uploads/was-ist-vertrieb-es-dem-kunden-einfacher-machen-zu-kaufen-durch-gezielte-fragen-relevante-erkenntnisse-gewinnen-die-strategie-des-kunden-verstehen-den-individuellen-mehrwert-des-eigenen-angebotes-fuer-den-kunden-verstehen.jpg"
+teaser: "Laut der Ökonomen ist Vertrieb ein Hauptprozess im Unternehmen. Aber braucht man Vertrieb wirklich? ‚Qualität und gute Produkte verkaufen sich doch von selbst.‘ ‚Was soll denn der Kunde sonst…"
 ---
 
 Laut der Ökonomen ist Vertrieb ein Hauptprozess im Unternehmen. Aber braucht man Vertrieb wirklich? ‚Qualität und gute Produkte verkaufen sich doch von selbst.‘ ‚Was soll denn der Kunde sonst kaufen?‘ Zudem: Ist Vertrieb nicht einfach nur ein „verticken von Produkten“ oder „mit Marktgeschrei die Angebote an den Mann bringen“? ‚Die im Vertrieb müssen doch nur gut reden können.‘ ‚Ein Vertriebler muss doch nur das Produkt gut kennen.‘
 
-Wir sagen nein: Vertrieb bedeutet in erster Linie mal, den Kunden zu verstehen. Die Kernaufgabe im Vertrieb ist zu verstehen, was der Kunden erreichen will und warum. Das resultiert darin vor allem zuhören und die richtigen Fragen stellen. Erst so hat man im Vertrieb die Chance, die Strategie des Kunden zu verstehen. Nur mit dem Hintergrundwissen kann ein Vertriebler beurteilen, welcher Teil des eigenen Angebotes die Strategie des Kunden unterstützt. Das ist der sogenannten ‚sweet spot‘. Den gilt es herauszukristallisieren.
+Wir sagen nein: Vertrieb bedeutet in erster Linie mal, den Kunden zu verstehen. Die Kernaufgabe im Vertrieb ist zu verstehen, was der Kunden erreichen will und warum. Das resultiert darin vor allem zuhören und die richtigen Fragen stellen. Erst so hat man im Vertrieb die Chance, die Strategie des Kunden zu verstehen. Nur mit dem Hintergrundwissen kann ein Vertriebler beurteilen, welcher Teil des eigenen Angebotes die Strategie des Kunden unterstützt. Das ist der sogenannten ‚ sweet spot ‘. Den gilt es herauszukristallisieren.
 
 Dazu gilt es zu analysieren, was man weiß und was man nicht weiß (die weiße Flecken oder Erkenntnislücken). Diese Lücken sollten durch gezielte Fragen geschlossen werden. Kommunikation spielt im Vertrieb eine wichtige Rolle. Aber Fragen spielen anfangs eine wesentlich bedeutendere Rolle als eigene Aussagen zu treffen.
 
@@ -28,21 +28,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[beraten](https://blog.strateco.de/tag/beraten/)
-[Berater](https://blog.strateco.de/tag/berater/)
-[consult](https://blog.strateco.de/tag/consult/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[decision](https://blog.strateco.de/tag/decision/)
-[decision maker](https://blog.strateco.de/tag/decision-maker/)
-[Entscheider](https://blog.strateco.de/tag/entscheider/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[sweet spot](https://blog.strateco.de/tag/sweet-spot/)
-[Value](https://blog.strateco.de/tag/value/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: beraten Berater consult consultant Customer decision decision maker Entscheider Erkenntnis Insight Kunde Mehrwert Sales sweet spot Value Vertrieb Wert

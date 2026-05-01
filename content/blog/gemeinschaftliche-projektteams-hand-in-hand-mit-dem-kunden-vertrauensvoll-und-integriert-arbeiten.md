@@ -1,13 +1,13 @@
 ---
 title: "Gemeinschaftliche Projektteams – Hand in Hand mit dem Kunden vertrauensvoll und integriert arbeiten"
 slug: "gemeinschaftliche-projektteams-hand-in-hand-mit-dem-kunden-vertrauensvoll-und-integriert-arbeiten"
-category: ["Beratung", "Kunde"]
-date: "Dezember 2018"
-isoDate: "2018-12-04"
+category: "Beratung"
+date: "4. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 4
+readMinutes: "4"
 image: "/uploads/gemeinschaftliche-projektteams-hand-in-hand-mit-dem-kunden-vertrauensvoll-und-integriert-arbeiten.jpg"
-teaser: "Früher war es oft so, dass Kundenaufträge an Anbieter/ Berater gingen, die ein eigenes Projektteam bildeten, autark wirkten und ab und an den Austausc..."
+teaser: "Früher war es oft so, dass Kundenaufträge an Anbieter/ Berater gingen, die ein eigenes Projektteam bildeten, autark wirkten und ab und an den Austausch mit dem Kunden vornahmen. Heute sind neuere…"
 ---
 
 Früher war es oft so, dass Kundenaufträge an Anbieter/ Berater gingen, die ein eigenes Projektteam bildeten, autark wirkten und ab und an den Austausch mit dem Kunden vornahmen. Heute sind neuere Modelle in der Praxis bewährt. Wir selber machen seit einigen Jahren sehr gute Erfahrungen mit gemeinschaftlichen Teams, die durch ausgewählte, geeignete Kandidaten sowohl von Kunden- als auch Anbieterseite besetzt sind und integriert zusammen arbeiten. Statt nur Interviews zu führen, das Kundenunternehmen wieder zu verlassen, die Informationen in der Ferne zu analysieren, aufzubereiten und dann zu Präsentationen zurück zukommen, verlagert man den Schwerpunkt z.B. vermehrt auf gemeinsame Workshops und Meetings vor Ort.
@@ -24,51 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akzeptanz](https://blog.strateco.de/tag/akzeptanz/)
-[Anforderung](https://blog.strateco.de/tag/anforderung/)
-[authentisch](https://blog.strateco.de/tag/authentisch/)
-[Authentizität](https://blog.strateco.de/tag/authentizitaet/)
-[Berater](https://blog.strateco.de/tag/berater/)
-[Beratung](https://blog.strateco.de/tag/beratung/)
-[Chance](https://blog.strateco.de/tag/chance/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[consulting](https://blog.strateco.de/tag/consulting/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[customer focus](https://blog.strateco.de/tag/customer-focus/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[erfolgreich](https://blog.strateco.de/tag/erfolgreich/)
-[Gemeinschaft](https://blog.strateco.de/tag/gemeinschaft/)
-[gemeinschaftlich](https://blog.strateco.de/tag/gemeinschaftlich/)
-[hybrid](https://blog.strateco.de/tag/hybrid/)
-[Integration](https://blog.strateco.de/tag/integration/)
-[integriert](https://blog.strateco.de/tag/integriert/)
-[Kultur](https://blog.strateco.de/tag/kultur/)
-[kulturell](https://blog.strateco.de/tag/kulturell/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenfokus](https://blog.strateco.de/tag/kundenfokus/)
-[Management](https://blog.strateco.de/tag/management/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[mixed](https://blog.strateco.de/tag/mixed/)
-[pragmatisch](https://blog.strateco.de/tag/pragmatisch/)
-[praktisch](https://blog.strateco.de/tag/praktisch/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[Projekt](https://blog.strateco.de/tag/projekt/)
-[Projektmanagement](https://blog.strateco.de/tag/projektmanagement/)
-[Projektteam](https://blog.strateco.de/tag/projektteam/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[Qualifikation](https://blog.strateco.de/tag/qualifikation/)
-[qualifiziert](https://blog.strateco.de/tag/qualifiziert/)
-[Qualität](https://blog.strateco.de/tag/qualitaet/)
-[requirement](https://blog.strateco.de/tag/requirement/)
-[Ressource](https://blog.strateco.de/tag/ressource/)
-[share](https://blog.strateco.de/tag/share/)
-[shared](https://blog.strateco.de/tag/shared/)
-[Team](https://blog.strateco.de/tag/team/)
-[Veränderung](https://blog.strateco.de/tag/veraenderung/)
-[Vertrauen](https://blog.strateco.de/tag/vertrauen/)
-[vertrauensvoll](https://blog.strateco.de/tag/vertrauensvoll/)
-[WARUM](https://blog.strateco.de/tag/warum/)
-[Wie](https://blog.strateco.de/tag/wie/)
-[Workshop](https://blog.strateco.de/tag/workshop/)
-[zusammen](https://blog.strateco.de/tag/zusammen/)
+TAGS: Akzeptanz Anforderung authentisch Authentizität Berater Beratung Chance consultant consulting Customer customer focus Erfolg erfolgreich Gemeinschaft gemeinschaftlich hybrid Integration integriert Kultur kulturell Kunde Kundenfokus Management Methode mixed pragmatisch praktisch Praxis Projekt Projektmanagement Projektteam Prozess Qualifikation qualifiziert Qualität requirement Ressource share shared Team Veränderung Vertrauen vertrauensvoll WARUM Wie Workshop zusammen

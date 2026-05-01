@@ -1,13 +1,13 @@
 ---
 title: "Der interne Kunde – Die konsequente Orientierung am Kunden ist eine Voraussetzung für den eigenen Erfolg"
 slug: "der-interne-kunde-die-konsequente-orientierung-am-kunden-ist-eine-voraussetzung-fuer-den-eigenen-erfolg"
-category: ["Beratung", "Customer", "Customer Value", "Entscheider", "Kunde", "Kundenbeziehung", "Kundenwert", "Mehrwert", "Vertrieb"]
-date: "November 2018"
-isoDate: "2018-11-14"
+category: "Beratung"
+date: "14. November 2018"
+isoDate: "2018-11-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/der-interne-kunde-die-konsequente-orientierung-am-kunden-ist-eine-voraussetzung-fuer-den-eigenen-erfolg.png"
-teaser: "Wonach soll sich ein Unternehmen ausrichten, um nachhaltig signifikant Erfolg zu haben und zu behalten?  Eine einfache Frage hilft bei der Orientierun..."
+teaser: "Wonach soll sich ein Unternehmen ausrichten, um nachhaltig signifikant Erfolg zu haben und zu behalten? Eine einfache Frage hilft bei der Orientierung: „Wer bezahlt eigentlich dein Gehalt?“ Nein,…"
 ---
 
 Wonach soll sich ein Unternehmen ausrichten, um nachhaltig signifikant Erfolg zu haben und zu behalten?
@@ -32,28 +32,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[added value](https://blog.strateco.de/tag/added-value/)
-[Anforderung](https://blog.strateco.de/tag/anforderung/)
-[Bedürfnis](https://blog.strateco.de/tag/beduerfnis/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[customer value](https://blog.strateco.de/tag/customer-value/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[internal client](https://blog.strateco.de/tag/internal-client/)
-[internal customer](https://blog.strateco.de/tag/internal-customer/)
-[Interne Kunde](https://blog.strateco.de/tag/interne-kunde/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenorientierung](https://blog.strateco.de/tag/kundenorientierung/)
-[Kundenwert](https://blog.strateco.de/tag/kundenwert/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Nutzen](https://blog.strateco.de/tag/nutzen/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[requirement](https://blog.strateco.de/tag/requirement/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[sweet spot](https://blog.strateco.de/tag/sweet-spot/)
-[Value](https://blog.strateco.de/tag/value/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: added value Anforderung Bedürfnis consultant Customer customer value Erkenntnis Insight internal client internal customer Interne Kunde Kunde Kundenorientierung Kundenwert Mehrwert Methode Nutzen Prozess requirement Sales sweet spot Value Vertrieb Wert

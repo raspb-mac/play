@@ -1,22 +1,22 @@
 ---
 title: "Webdesign-Secrets 14: Differenzieren Sie sich"
 slug: "webdesign-secrets-14-differenzieren-sie-sich"
-category: ["Usability", "Webdesign"]
-date: "Januar 2012"
-isoDate: "2012-01-20"
+category: "Usability"
+date: "20. Januar 2012"
+isoDate: "2012-01-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webdesign-secrets-14-differenzieren-sie-sich.jpg"
-teaser: "Heute wieder ein kleines gut verdauliches Webdesign-Secret: Differenzieren Sie sich. Das bedeutet, sich von anderen Mitbewerbern klar abzugrenzen und..."
+teaser: "Heute wieder ein kleines gut verdauliches Webdesign-Secret: Differenzieren Sie sich. Das bedeutet, sich von anderen Mitbewerbern klar abzugrenzen und Position zu beziehen. Dass man auf gewisse…"
 ---
 
 Heute wieder ein kleines gut verdauliches Webdesign-Secret: Differenzieren Sie sich. Das bedeutet, sich von anderen Mitbewerbern klar abzugrenzen und Position zu beziehen.
 
-Dass man auf gewisse Weise einzigartig mit seinem Webauftritt sein soll, haben wir ja bereits behandelt(Webdesign-Secrets 4), aber man kann nicht deutlich genug sagen, wie wichtig  es ist, herauszustechen, sich von anderen abzuheben, sich zu differenzieren.
+Dass man auf gewisse Weise einzigartig mit seinem Webauftritt sein soll, haben wir ja bereits behandelt (Webdesign-Secrets 4) , aber man kann nicht deutlich genug sagen, wie wichtig es ist, herauszustechen, sich von anderen abzuheben, sich zu differenzieren.
 
 Wenn Sie sich nicht von anderen Anbietern unterscheiden, werden Sie in der Flut der Wettbewerber untergehen, weil die Zielgruppe ihr Interesse verliert – Weil nichts hängen bleibt. Darüber hinaus ist es notwendig, dass direkt ersichtlich ist, was Sie anbieten und was Sie einzigartig macht.
 
-> Wenn jemand Ihre Seite besucht, kann der Besucher direkt und mit Sicherheit sagen: „Dies ist eine … Webseite“?
+Wenn jemand Ihre Seite besucht, kann der Besucher direkt und mit Sicherheit sagen: „Dies ist eine … Webseite“?
 
 Sie sehen also, dass es von Bedeutung ist, einen klaren, sauberen Eindruck zu hinterlassen und direkt zu vermitteln, was ihre Homepage macht – welchen Mehrwert man durch die Benutzung hat. Was sagt Ihre Webseite über Sie als Unternehmen aus? Was sagt jede einzelne Unterseite über Sie aus?
 

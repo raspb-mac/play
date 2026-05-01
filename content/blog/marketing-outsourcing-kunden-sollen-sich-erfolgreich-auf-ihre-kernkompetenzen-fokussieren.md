@@ -1,13 +1,13 @@
 ---
 title: "Marketing Outsourcing – Kunden sollen sich erfolgreich auf ihre Kernkompetenzen fokussieren"
 slug: "marketing-outsourcing-kunden-sollen-sich-erfolgreich-auf-ihre-kernkompetenzen-fokussieren"
-category: ["Change", "Digitalisierung", "Marketing"]
-date: "Dezember 2018"
-isoDate: "2018-12-11"
+category: "Change"
+date: "11. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/marketing-outsourcing-kunden-sollen-sich-erfolgreich-auf-ihre-kernkompetenzen-fokussieren.jpg"
-teaser: "Einige bedeutende Einflüsse führen derzeit zu nachhaltigen Veränderungen der Marketing-Organisationen in Unternehmen. Ein zunehmendes Outsourcing von..."
+teaser: "Einige bedeutende Einflüsse führen derzeit zu nachhaltigen Veränderungen der Marketing-Organisationen in Unternehmen. Ein zunehmendes Outsourcing von bestimmten Marketing-Aufgaben und –Rollen ist…"
 ---
 
 Einige bedeutende Einflüsse führen derzeit zu nachhaltigen Veränderungen der Marketing-Organisationen in Unternehmen. Ein zunehmendes Outsourcing von bestimmten Marketing-Aufgaben und –Rollen ist ökonomisch und organisatorisch notwendig. Die Unternehmen sollen sich externen Marketing-Partnern bedienen und als Konsequenz daraus sich auf ihre Kernwertschöpfung konzentrieren.
@@ -26,42 +26,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Benchmark](https://blog.strateco.de/tag/benchmark/)
-[Best Practice](https://blog.strateco.de/tag/best-practice/)
-[digital](https://blog.strateco.de/tag/digital/)
-[effektiv](https://blog.strateco.de/tag/effektiv/)
-[Effektivität](https://blog.strateco.de/tag/effektivitaet/)
-[effizient](https://blog.strateco.de/tag/effizient/)
-[Effizienz](https://blog.strateco.de/tag/effizienz/)
-[Erfahrung](https://blog.strateco.de/tag/erfahrung/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[erfolgreich](https://blog.strateco.de/tag/erfolgreich/)
-[Erfolgsfaktor](https://blog.strateco.de/tag/erfolgsfaktor/)
-[Experte](https://blog.strateco.de/tag/experte/)
-[Expertise](https://blog.strateco.de/tag/expertise/)
-[extern](https://blog.strateco.de/tag/extern/)
-[Fähigkeit](https://blog.strateco.de/tag/faehigkeit/)
-[Fokus](https://blog.strateco.de/tag/fokus/)
-[fokussieren](https://blog.strateco.de/tag/fokussieren/)
-[Kernkompetenz](https://blog.strateco.de/tag/kernkompetenz/)
-[Kompetenz](https://blog.strateco.de/tag/kompetenz/)
-[konzentrieren](https://blog.strateco.de/tag/konzentrieren/)
-[makeorbuy](https://blog.strateco.de/tag/makeorbuy/)
-[Marketing](https://blog.strateco.de/tag/marketing/)
-[Mitarbeiter](https://blog.strateco.de/tag/mitarbeiter/)
-[Organisation](https://blog.strateco.de/tag/organisation/)
-[Outsourcing](https://blog.strateco.de/tag/outsourcing/)
-[Partner](https://blog.strateco.de/tag/partner/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[qualifiziert](https://blog.strateco.de/tag/qualifiziert/)
-[Qualität](https://blog.strateco.de/tag/qualitaet/)
-[Ressource](https://blog.strateco.de/tag/ressource/)
-[Strategie](https://blog.strateco.de/tag/strategie/)
-[Synergie](https://blog.strateco.de/tag/synergie/)
-[Transformation](https://blog.strateco.de/tag/transformation/)
-[Umsetzung](https://blog.strateco.de/tag/umsetzung/)
-[Wandel](https://blog.strateco.de/tag/wandel/)
-[Werkbank](https://blog.strateco.de/tag/werkbank/)
-[Wertschöpfung](https://blog.strateco.de/tag/wertschoepfung/)
-[Wettbewerbsvorteil](https://blog.strateco.de/tag/wettbewerbsvorteil/)
+TAGS: Benchmark Best Practice digital effektiv Effektivität effizient Effizienz Erfahrung Erfolg erfolgreich Erfolgsfaktor Experte Expertise extern Fähigkeit Fokus fokussieren Kernkompetenz Kompetenz konzentrieren makeorbuy Marketing Mitarbeiter Organisation Outsourcing Partner Praxis qualifiziert Qualität Ressource Strategie Synergie Transformation Umsetzung Wandel Werkbank Wertschöpfung Wettbewerbsvorteil

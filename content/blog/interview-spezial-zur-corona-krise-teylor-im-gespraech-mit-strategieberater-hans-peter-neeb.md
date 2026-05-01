@@ -1,16 +1,16 @@
 ---
 title: "Interview SPEZIAL zur Corona-Krise: Teylor im Gespräch mit Strategieberater Hans-Peter Neeb"
 slug: "interview-spezial-zur-corona-krise-teylor-im-gespraech-mit-strategieberater-hans-peter-neeb"
-category: ["Bestandskunde", "Kunde", "Kundenbeziehung", "Marketing", "Vertrieb"]
-date: "April 2020"
-isoDate: "2020-04-08"
+category: "Bestandskunde"
+date: "8. April 2020"
+isoDate: "2020-04-01"
 author: "STRATECO"
-readMinutes: 5
+readMinutes: "5"
 image: "/uploads/interview-spezial-zur-corona-krise-teylor-im-gespraech-mit-strategieberater-hans-peter-neeb.jpg"
-teaser: "Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mitHans-Peter Neeb, Strategieberater für den Mittelsta..."
+teaser: "Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mit Hans-Peter Neeb , Strategieberater für den Mittelstand und Partner bei der STRATECO GmbH & Co. KG…"
 ---
 
-Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mitHans-Peter Neeb, Strategieberater für den Mittelstand und Partner bei derSTRATECO GmbH & Co. KG, über die Krise.
+Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mit Hans-Peter Neeb , Strategieberater für den Mittelstand und Partner bei der STRATECO GmbH & Co. KG , über die Krise.
 
 Hans-Peter Neeb ist seit 20 Jahren als Strategieberater tätig. Im Laufe seiner Karriere hat er sowohl Großunternehmen wie Siemens als auch etliche Mittelständler beraten. Heute berät er als Partner bei STRATECO Firmen bezüglich ihrer strategischen Ausrichtung und ist im Mittelstandsnetzwerk des Bundesverbandes Mittelständische Wirtschaft in der Wirtschaftsregion Rhein-Main aktiv.
 
@@ -54,20 +54,12 @@ Wenn Anträge nicht zügig bearbeitet werden und man keine sofortige Rückmeldun
 
 Die Frage würde ich sogar allgemeiner über die Bankenbranche hinaus beantworten wollen. Wer jetzt noch nicht ausreichend digitalisiert hat, der wird es schwer haben die Krise zu bestehen. Es ist eigentlich tragisch, dass erst ein Virus kommen musste, um von der Notwendigkeit der Digitalisierung zu überzeugen. Hätte man sich vor Jahren eher auf die Digitalisierung vorbereitet, wären nun auch die Reibungsverluste bzw. Aufwände dafür nicht so hoch, um das nun ad hoc innerhalb weniger Tage nachzuholen.
 
-Artikel erstmals erschienen beiteylor.io am 2.4.2020. Wir danken.
+Artikel erstmals erschienen bei teylor.io am 2.4.2020 . Wir danken.
 
-Hierkönnen Sie mehr über die Arbeit und das Beratungsangebot von STRATECO erfahren.
-
-![Lukas J. Hofer](https://www.gravatar.com/avatar/acaab5b369042455ca74b4f4e5161462?s=250&d=mm&r=x)
+Hier können Sie mehr über die Arbeit und das Beratungsangebot von STRATECO erfahren.
 
 #### Lukas J. Hofer
 
 Lukas has years of experience in banking and financial services. He currently works as a consultant in Asia and is in charge of blogging for Teylor.
 
-**TAGS:**
-[Bestandskunde](https://blog.strateco.de/tag/bestandskunde/)
-[Beziehung](https://blog.strateco.de/tag/beziehung/)
-[corona](https://blog.strateco.de/tag/corona/)
-[Krise](https://blog.strateco.de/tag/krise/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenbeziehung](https://blog.strateco.de/tag/kundenbeziehung/)
+TAGS: Bestandskunde Beziehung corona Krise Kunde Kundenbeziehung

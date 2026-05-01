@@ -2,12 +2,12 @@
 title: "Nur wenn der Kunde begeistert ist, waren Marketing und Vertrieb erfolgreich. – Erlebnisse schaffen durch Customer Experience Management (CXM)."
 slug: "nur-wenn-der-kunde-begeistert-ist-waren-marketing-und-vertrieb-erfolgreich-erlebnisse-schaffen-durch-customer-experience-management-cxm"
 category: "Begeisterung"
-date: "Dezember 2018"
-isoDate: "2018-12-13"
+date: "13. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/nur-wenn-der-kunde-begeistert-ist-waren-marketing-und-vertrieb-erfolgreich-erlebnisse-schaffen-durch-customer-experience-management-cxm.jpg"
-teaser: "Zahlreiche Unternehmen haben bereits funktionierende CRM System im Einsatz, fragen sich aber dann wie Umsätze und/ oder Gewinne nun gesteigert werden..."
+teaser: "Zahlreiche Unternehmen haben bereits funktionierende CRM System im Einsatz, fragen sich aber dann wie Umsätze und/ oder Gewinne nun gesteigert werden können. Die Antwort lautet: Konsequent aus…"
 ---
 
 Zahlreiche Unternehmen haben bereits funktionierende CRM System im Einsatz, fragen sich aber dann wie Umsätze und/ oder Gewinne nun gesteigert werden können. Die Antwort lautet: Konsequent aus Kundensicht denken: Den Erfolg mit den Augen des Kunden planen. Somit kommt die Idee des CXM ins Spiel.
@@ -24,39 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Analysieren](https://blog.strateco.de/tag/analysieren/)
-[begeistert](https://blog.strateco.de/tag/begeistert/)
-[Begeisterung](https://blog.strateco.de/tag/begeisterung/)
-[Beobachten](https://blog.strateco.de/tag/beobachten/)
-[CRM](https://blog.strateco.de/tag/crm/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[customer experience](https://blog.strateco.de/tag/customer-experience/)
-[customer experience management](https://blog.strateco.de/tag/customer-experience-management/)
-[CX](https://blog.strateco.de/tag/cx/)
-[CXM](https://blog.strateco.de/tag/cxm/)
-[Empfehlen](https://blog.strateco.de/tag/empfehlen/)
-[Engagement](https://blog.strateco.de/tag/engagement/)
-[Erfahrung](https://blog.strateco.de/tag/erfahrung/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[erleben](https://blog.strateco.de/tag/erleben/)
-[Erlebnis](https://blog.strateco.de/tag/erlebnis/)
-[experience](https://blog.strateco.de/tag/experience/)
-[Fan](https://blog.strateco.de/tag/fan/)
-[Interaktion](https://blog.strateco.de/tag/interaktion/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundensicht](https://blog.strateco.de/tag/kundensicht/)
-[Marketing](https://blog.strateco.de/tag/marketing/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Messen](https://blog.strateco.de/tag/messen/)
-[Nutzen](https://blog.strateco.de/tag/nutzen/)
-[Partner](https://blog.strateco.de/tag/partner/)
-[persönlich](https://blog.strateco.de/tag/persoenlich/)
-[Philosophie](https://blog.strateco.de/tag/philosophie/)
-[Präferenz](https://blog.strateco.de/tag/praeferenz/)
-[Sog](https://blog.strateco.de/tag/sog/)
-[Testen](https://blog.strateco.de/tag/testen/)
-[verstehen](https://blog.strateco.de/tag/verstehen/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
-[Wow](https://blog.strateco.de/tag/wow/)
+TAGS: Analysieren begeistert Begeisterung Beobachten CRM Customer customer experience customer experience management CX CXM Empfehlen Engagement Erfahrung Erkenntnis erleben Erlebnis experience Fan Interaktion Kunde Kundensicht Marketing Mehrwert Messen Nutzen Partner persönlich Philosophie Präferenz Sog Testen verstehen Vertrieb Wert Wow

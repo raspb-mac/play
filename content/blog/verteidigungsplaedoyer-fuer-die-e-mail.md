@@ -1,13 +1,13 @@
 ---
 title: "Verteidigungsplädoyer für die E-Mail"
 slug: "verteidigungsplaedoyer-fuer-die-e-mail"
-category: ["E-Mail Marketing", "E Mail Marketing", "Marketing Automatisierung", "Silverpop"]
-date: "Oktober 2011"
-isoDate: "2011-10-28"
+category: "E-Mail Marketing"
+date: "28. Oktober 2011"
+isoDate: "2011-10-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/verteidigungsplaedoyer-fuer-die-e-mail.jpg"
-teaser: "Gestern auf der Cloudforce in München hatte ich das Vergnügen einen Vortrag zum Thema E-Mail-Marketing und Marketing-Automation zu halten. Das Ganze h..."
+teaser: "Gestern auf der Cloudforce in München hatte ich das Vergnügen einen Vortrag zum Thema E-Mail-Marketing und Marketing-Automation zu halten. Das Ganze hatte wirklich vor der Kulisse der „großen Cloud“…"
 ---
 
 Gestern auf der Cloudforce in München hatte ich das Vergnügen einen Vortrag zum Thema E-Mail-Marketing und Marketing-Automation zu halten. Das Ganze hatte wirklich vor der Kulisse der „großen Cloud“ den Charakter eines Verteidigungsplädoyers. Ja, die E-Mail ist natürlich nicht so „hipp“ wie Social Media und – auch wenn Sie durch die Cloud verschickt wird – kommt Sie einem vor dieser Kulisse ziemlich altbacken vor.

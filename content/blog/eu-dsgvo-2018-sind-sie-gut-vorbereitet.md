@@ -1,13 +1,13 @@
 ---
 title: "EU-DSGVO 2018 – sind Sie gut vorbereitet?"
 slug: "eu-dsgvo-2018-sind-sie-gut-vorbereitet"
-category: ["Intern", "Projekte"]
-date: "August 2017"
-isoDate: "2017-08-22"
+category: "Intern"
+date: "22. August 2017"
+isoDate: "2017-08-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/eu-dsgvo-2018-sind-sie-gut-vorbereitet.png"
-teaser: "Die Zeit läuft! Nicht mal mehr ein Jahr dauert es, bis am 25.05.2018 die neue Europäische Datenschutzgrundverordnung (kurz: EU-DSGVO) in Kraft tritt...."
+teaser: "Die Zeit läuft! Nicht mal mehr ein Jahr dauert es, bis am 25.05.2018 die neue Europäische Datenschutzgrundverordnung (kurz: EU-DSGVO) in Kraft tritt. Einige drastische Änderungen bezüglich…"
 ---
 
 Die Zeit läuft! Nicht mal mehr ein Jahr dauert es, bis am 25.05.2018 die neue Europäische Datenschutzgrundverordnung (kurz: EU-DSGVO) in Kraft tritt. Einige drastische Änderungen bezüglich Datenschutz stellen viele Unternehmen vor eine große Herausforderung. Welche Neuerungen die EU-DSGVO bringt, was passiert, wenn sich Firmen nicht daran halten und wie sich Unternehmen vorbereiten können, erklären wir Ihnen in einer Serie in den nächsten Blogbeiträgen.
@@ -26,4 +26,4 @@ Am drastischsten für Unternehmen sind jedoch die Konsequenzen bei Nichtbeachtun
 
 Doch dies sind nur einige der neuen Herausforderungen, denen sich Unternehmen bis Mai 2018 stellen müssen. Mehr dazu lesen Sie im nächsten Blogbeitrag.
 
-Gerne informieren wir Sie auch in einem persönliche Gespräch, wie eine effektive Vorbereitung auf die neue EU-DSGVO für Ihr Unternehmen aussehen kann.Sprechen Sie uns einfach anoder besuchen unserenWorkshop zum Thema am 20.09.2017.
+Gerne informieren wir Sie auch in einem persönliche Gespräch, wie eine effektive Vorbereitung auf die neue EU-DSGVO für Ihr Unternehmen aussehen kann. Sprechen Sie uns einfach an oder besuchen unseren Workshop zum Thema am 20.09.2017.

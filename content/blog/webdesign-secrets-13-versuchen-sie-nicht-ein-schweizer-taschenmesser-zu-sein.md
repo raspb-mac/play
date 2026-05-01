@@ -1,13 +1,13 @@
 ---
 title: "Webdesign-Secrets 13: Versuchen Sie nicht ein Schweizer Taschenmesser zu sein"
 slug: "webdesign-secrets-13-versuchen-sie-nicht-ein-schweizer-taschenmesser-zu-sein"
-category: ["Usability", "Webdesign"]
-date: "Januar 2012"
-isoDate: "2012-01-13"
+category: "Usability"
+date: "13. Januar 2012"
+isoDate: "2012-01-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webdesign-secrets-13-versuchen-sie-nicht-ein-schweizer-taschenmesser-zu-sein.jpg"
-teaser: "Im Anschluss an unser letztes Webdesign-Secret („Machen Sie eine Sache, diese aber richtig“) möchte ich heute mit einer weiteren Weisheit anschließen,..."
+teaser: "Im Anschluss an unser letztes Webdesign-Secret („Machen Sie eine Sache, diese aber richtig“) möchte ich heute mit einer weiteren Weisheit anschließen, die dieser recht ähnlich ist. Sie sollten…"
 ---
 
 Im Anschluss an unser letztes Webdesign-Secret („Machen Sie eine Sache, diese aber richtig“) möchte ich heute mit einer weiteren Weisheit anschließen, die dieser recht ähnlich ist.

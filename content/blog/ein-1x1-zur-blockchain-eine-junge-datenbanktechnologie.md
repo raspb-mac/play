@@ -1,13 +1,13 @@
 ---
 title: "Ein 1×1 zur Blockchain – eine junge Datenbanktechnologie"
-slug: "ein-1x1-zur-blockchain-eine-junge-datenbanktechnologie"
-category: ["digital", "Digital", "Digitalisierung"]
-date: "September 2018"
-isoDate: "2018-09-29"
+slug: "ein-1-1-zur-blockchain-eine-junge-datenbanktechnologie"
+category: "digital"
+date: "29. September 2018"
+isoDate: "2018-09-01"
 author: "STRATECO"
-readMinutes: 2
-image: "/uploads/ein-1x1-zur-blockchain-eine-junge-datenbanktechnologie.jpg"
-teaser: "Die Blockchain wird als eine der Technologien bezeichnet, die unsere Wirtschaft und einige Geschäftsmodelle zum Teil vollkommen verändern wird. Es loh..."
+readMinutes: "2"
+image: "/uploads/ein-1-1-zur-blockchain-eine-junge-datenbanktechnologie.jpg"
+teaser: "Die Blockchain wird als eine der Technologien bezeichnet, die unsere Wirtschaft und einige Geschäftsmodelle zum Teil vollkommen verändern wird. Es lohnt sich also einen näheren Blick darauf zu…"
 ---
 
 Die Blockchain wird als eine der Technologien bezeichnet, die unsere Wirtschaft und einige Geschäftsmodelle zum Teil vollkommen verändern wird. Es lohnt sich also einen näheren Blick darauf zu werfen.
@@ -30,14 +30,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Blockchain](https://blog.strateco.de/tag/blockchain/)
-[business model](https://blog.strateco.de/tag/business-model/)
-[digital](https://blog.strateco.de/tag/digital/)
-[Digitalisierung](https://blog.strateco.de/tag/digitalisierung/)
-[Distributed Ledger](https://blog.strateco.de/tag/distributed-ledger/)
-[Geschäftsmodell](https://blog.strateco.de/tag/geschaeftsmodell/)
-[Innovation](https://blog.strateco.de/tag/innovation/)
-[innovativ](https://blog.strateco.de/tag/innovativ/)
-[smart contract](https://blog.strateco.de/tag/smart-contract/)
-[Veränderung](https://blog.strateco.de/tag/veraenderung/)
+TAGS: Blockchain business model digital Digitalisierung Distributed Ledger Geschäftsmodell Innovation innovativ smart contract Veränderung

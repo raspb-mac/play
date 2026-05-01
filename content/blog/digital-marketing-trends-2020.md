@@ -1,22 +1,20 @@
 ---
 title: "Digital Marketing Trends 2020"
 slug: "digital-marketing-trends-2020"
-category: ["Allgemein", "Beratung", "News", "Online Marketing Allgemein"]
-date: "September 2019"
-isoDate: "2019-09-26"
+category: "Allgemein"
+date: "26. September 2019"
+isoDate: "2019-09-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/digital-marketing-trends-2020.jpg"
-teaser: "Auch wenn wir es nicht wahr haben wollen – das Jahr neigt sich schon wieder dem Ende entgegen, in wenigen Tagen sind wir im vierten Quartal. Grund gen..."
+teaser: "Auch wenn wir es nicht wahr haben wollen – das Jahr neigt sich schon wieder dem Ende entgegen, in wenigen Tagen sind wir im vierten Quartal. Grund genug nach vorne zu blicken, auf das was für 2020…"
 ---
 
 Auch wenn wir es nicht wahr haben wollen – das Jahr neigt sich schon wieder dem Ende entgegen, in wenigen Tagen sind wir im vierten Quartal. Grund genug nach vorne zu blicken, auf das was für 2020 im Bereich Marketing auf der Agenda steht.
 
-In einer breiten Befragung hat die AgenturNamicsUnternehmen zu den Trends und Prioritäten im digitalen Marketing für das kommende Jahr befragt – und dieErgebnissesind interessant:
+In einer breiten Befragung hat die Agentur Namics Unternehmen zu den Trends und Prioritäten im digitalen Marketing für das kommende Jahr befragt – und die Ergebnisse sind interessant:
 
-- 65% der Marketing Manager haben keine ganzheitliche Digitalstrategie
-- 54% der Befragten wünschen sich mehr Budget für ihr digitales Marketing
-- 93% der Befragungsteilnehmer sehen Social Media als wesentliches Element an
+65% der Marketing Manager haben keine ganzheitliche Digitalstrategie 54% der Befragten wünschen sich mehr Budget für ihr digitales Marketing 93% der Befragungsteilnehmer sehen Social Media als wesentliches Element an
 
 Gerade auch der Personalisierung von Marketing-Maßnahmen auf Basis der verfügbaren Daten und unter Zuhilfenahme von KI kommt nach Meinung der Befragten eine immer höhere Bedeutung zu. Dem entgegen wirkt die nach Meinung der Marketing-Verantwortlichen geringe Bedeutung von qualitativ hochwertigem Content, entfalten doch diese beiden Punkte gerade erst im richtigen Zusammenspiel ihr volles Potenzial.
 

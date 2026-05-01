@@ -1,13 +1,13 @@
 ---
 title: "Webdesign-Secrets 27: Die beste SEO ist keine SEO?!"
 slug: "webdesign-secrets-27-die-beste-seo-ist-keine-seo"
-category: ["News", "Online Marketing Allgemein"]
-date: "Juni 2012"
-isoDate: "2012-06-21"
+category: "News"
+date: "21. Juni 2012"
+isoDate: "2012-06-01"
 author: "STRATECO"
-readMinutes: 4
+readMinutes: "4"
 image: "/uploads/webdesign-secrets-27-die-beste-seo-ist-keine-seo.jpg"
-teaser: "Wenn Sie versuchen eine bestimmten Markt oder Zielgruppe über die Suchmaschinen zu erreichen, geht es zunächst immer um eins: Keywords!  Erst eine grü..."
+teaser: "Wenn Sie versuchen eine bestimmten Markt oder Zielgruppe über die Suchmaschinen zu erreichen, geht es zunächst immer um eins: Keywords! Erst eine gründliche Keywordrecherche identifiziert relevante…"
 ---
 
 Wenn Sie versuchen eine bestimmten Markt oder Zielgruppe über die Suchmaschinen zu erreichen, geht es zunächst immer um eins: Keywords!
@@ -26,11 +26,7 @@ Eine Reputation baut eine Anhängerschaft auf und aus, aber diese Leute müssen 
 
 Um Interessenten zu bekommen und zu halten muss man eins tun: Guten Content schreiben! Wenn Sie regelmäßig und nachhaltig Inhalte veröffentlichen, die…
 
-- interessant
-- lesenswert / berichtenswert
-- nützlich / hilfreich
-- aktuell / zeitgemäß
-- vielleicht etwas witzig, skurril oder anders
+interessant lesenswert / berichtenswert nützlich / hilfreich aktuell / zeitgemäß vielleicht etwas witzig, skurril oder anders
 
 …sind, wird das eine Gefolgschaft aufbauen. Tun Sie dies mit Integrität, Offenheit und Vertrauen Ihren Lesern gegenüber. Im Gegenzug wird Ihnen auch Vertrauen entgegengebracht. Machen sie es Interessenten so einfach wie möglich, Ihnen zu folgen und Ihr Geschriebenes zu teilen. Bieten Sie einen RSS-Feed, Twitter, LinkedIn, Xing, Facebook (oder welche Plattform Ihre Zielgruppe auch immer nutzt) an. Und setzen sie auf jeden Fall eine E-Mail-Liste auf. Selbst wenn Sie heute noch kein Publikum haben, ist es das wert und wird sich zukünftig auszahlen.
 

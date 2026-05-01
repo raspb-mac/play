@@ -1,13 +1,13 @@
 ---
 title: "Auswahl eines CRM Systems – die Fehler der anderen nicht wiederholen"
 slug: "auswahl-eines-crm-systems-die-fehler-der-anderen-nicht-wiederholen"
-category: ["Beratung", "CRM", "Customer Relationship Management"]
-date: "Oktober 2018"
-isoDate: "2018-10-12"
+category: "Beratung"
+date: "12. Oktober 2018"
+isoDate: "2018-10-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/auswahl-eines-crm-systems-die-fehler-der-anderen-nicht-wiederholen.jpg"
-teaser: "Etliche Firmen führen CRM Systeme ein. Entweder handelt es sich um die erste Einführung eines CRM Systems oder um eine Migration auf ein neues CRM Sys..."
+teaser: "Etliche Firmen führen CRM Systeme ein. Entweder handelt es sich um die erste Einführung eines CRM Systems oder um eine Migration auf ein neues CRM System. Dabei macht es Sinn auf vorhandene…"
 ---
 
 Etliche Firmen führen CRM Systeme ein. Entweder handelt es sich um die erste Einführung eines CRM Systems oder um eine Migration auf ein neues CRM System. Dabei macht es Sinn auf vorhandene Erfahrungswerte und Grundregeln zurückzugreifen, um mit überschaubarem Aufwand das bestmögliche Ergebnis zu erzielen. Ein neutraler Berater ist sehr hilfreich, weil er Know How aus zahlreichen früheren CRM Einführungen mitbringt und unnötige Umwege vermeiden kann. „Man muss die Fehler der ‚anderen‘ nicht wiederholen.“ Zudem kann ein Externer als Moderator und Motivator unparteiisch sowie ohne die Emotionen eines Betroffenen zwischen den verschiedenen Interessen ausgleichen.
@@ -30,18 +30,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Auswahl](https://blog.strateco.de/tag/auswahl/)
-[Berater](https://blog.strateco.de/tag/berater/)
-[Beratung](https://blog.strateco.de/tag/beratung/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[consulting](https://blog.strateco.de/tag/consulting/)
-[customer relationship management](https://blog.strateco.de/tag/customer-relationship-management/)
-[decision](https://blog.strateco.de/tag/decision/)
-[Entscheidung](https://blog.strateco.de/tag/entscheidung/)
-[expert](https://blog.strateco.de/tag/expert/)
-[Experte](https://blog.strateco.de/tag/experte/)
-[Know How](https://blog.strateco.de/tag/know-how/)
-[Kundenbeziehungsmanagement](https://blog.strateco.de/tag/kundenbeziehungsmanagement/)
-[Software](https://blog.strateco.de/tag/software/)
-[System](https://blog.strateco.de/tag/system/)
+TAGS: Auswahl Berater Beratung consultant consulting customer relationship management decision Entscheidung expert Experte Know How Kundenbeziehungsmanagement Software System

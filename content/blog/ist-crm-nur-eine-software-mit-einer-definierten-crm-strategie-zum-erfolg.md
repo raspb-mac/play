@@ -1,13 +1,13 @@
 ---
 title: "Ist CRM nur eine Software? – Mit einer definierten CRM Strategie zum Erfolg."
 slug: "ist-crm-nur-eine-software-mit-einer-definierten-crm-strategie-zum-erfolg"
-category: ["CRM", "Customer", "Customer Experience Analytics", "Customer Relation", "Customer Relationship Management", "Data Managment", "Entscheider", "Kundenbindung", "Loyalitaet", "Strategie", "Strategy"]
-date: "November 2018"
-isoDate: "2018-11-09"
+category: "CRM"
+date: "9. November 2018"
+isoDate: "2018-11-01"
 author: "STRATECO"
-readMinutes: 5
+readMinutes: "5"
 image: "/uploads/ist-crm-nur-eine-software-mit-einer-definierten-crm-strategie-zum-erfolg.jpg"
-teaser: "Oft wird unter dem Stichwort Customer Relationship Management (CRM) nur eine Software verstanden. Wir sagen nicht, dass das falsch ist, aber CRM ist o..."
+teaser: "Oft wird unter dem Stichwort Customer Relationship Management (CRM) nur eine Software verstanden. Wir sagen nicht, dass das falsch ist, aber CRM ist oder sollte viel mehr sein als eine Software, um…"
 ---
 
 Oft wird unter dem Stichwort Customer Relationship Management (CRM) nur eine Software verstanden. Wir sagen nicht, dass das falsch ist, aber CRM ist oder sollte viel mehr sein als eine Software, um erfolgreich zu sein. Denn eine Software, die nicht in eine Strategie und Aktivitäten eingebunden ist, wird wirkungslos bleiben.
@@ -30,38 +30,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[Beteiligte](https://blog.strateco.de/tag/beteiligte/)
-[Beziehung](https://blog.strateco.de/tag/beziehung/)
-[Bindung](https://blog.strateco.de/tag/bindung/)
-[choice](https://blog.strateco.de/tag/choice/)
-[CRM](https://blog.strateco.de/tag/crm/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[customer relationship management](https://blog.strateco.de/tag/customer-relationship-management/)
-[data](https://blog.strateco.de/tag/data/)
-[Daten](https://blog.strateco.de/tag/daten/)
-[Datenschutz](https://blog.strateco.de/tag/datenschutz/)
-[decision](https://blog.strateco.de/tag/decision/)
-[digital](https://blog.strateco.de/tag/digital/)
-[Digitalisierung](https://blog.strateco.de/tag/digitalisierung/)
-[DSGVO](https://blog.strateco.de/tag/dsgvo/)
-[entscheiden](https://blog.strateco.de/tag/entscheiden/)
-[Entscheider](https://blog.strateco.de/tag/entscheider/)
-[Entscheidung](https://blog.strateco.de/tag/entscheidung/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[Ergebnis](https://blog.strateco.de/tag/ergebnis/)
-[implementieren](https://blog.strateco.de/tag/implementieren/)
-[Implementierung](https://blog.strateco.de/tag/implementierung/)
-[Loyalität](https://blog.strateco.de/tag/loyalitaet/)
-[Operations](https://blog.strateco.de/tag/operations/)
-[pitch](https://blog.strateco.de/tag/pitch/)
-[process](https://blog.strateco.de/tag/process/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[result](https://blog.strateco.de/tag/result/)
-[Stakeholder](https://blog.strateco.de/tag/stakeholder/)
-[success](https://blog.strateco.de/tag/success/)
-[umsetzen](https://blog.strateco.de/tag/umsetzen/)
-[Umsetzung](https://blog.strateco.de/tag/umsetzung/)
-[Value](https://blog.strateco.de/tag/value/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: Akquise Beteiligte Beziehung Bindung choice CRM Customer customer relationship management data Daten Datenschutz decision digital Digitalisierung DSGVO entscheiden Entscheider Entscheidung Erfolg Ergebnis implementieren Implementierung Loyalität Operations pitch process Prozess result Stakeholder success umsetzen Umsetzung Value Wert

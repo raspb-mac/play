@@ -1,16 +1,16 @@
 ---
 title: "Webdesign-Secrets 17: Heben Sie Ihre Testimonials und FAQs hervor"
 slug: "webdesign-secrets-17-heben-sie-ihre-testimonials-und-faqs-hervor"
-category: ["Usability", "Webdesign"]
-date: "Februar 2012"
-isoDate: "2012-02-10"
+category: "Usability"
+date: "10. Februar 2012"
+isoDate: "2012-02-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/webdesign-secrets-17-heben-sie-ihre-testimonials-und-faqs-hervor.jpg"
-teaser: "Setzen Sie auf Ihrer Webseite bereits gezielt Dinge wieTestimonialsundFAQsein? Das könnte zu einem Ihrer mächtigsten Inhalte werden. Aber auch nur dan..."
+teaser: "Setzen Sie auf Ihrer Webseite bereits gezielt Dinge wie Testimonials und FAQs ein? Das könnte zu einem Ihrer mächtigsten Inhalte werden. Aber auch nur dann, wenn man es richtig nutzt. Ich zeige…"
 ---
 
-Setzen Sie auf Ihrer Webseite bereits gezielt Dinge wieTestimonialsundFAQsein? Das könnte zu einem Ihrer mächtigsten Inhalte werden. Aber auch nur dann, wenn man es richtig nutzt. Ich zeige Ihnen heute, wie man damit umgeht. Ziel dabei wird sein, Transparenz zu schaffen und die Glaubwürdigkeit Ihrer Botschaft zu erhöhen.
+Setzen Sie auf Ihrer Webseite bereits gezielt Dinge wie Testimonials und FAQs ein? Das könnte zu einem Ihrer mächtigsten Inhalte werden. Aber auch nur dann, wenn man es richtig nutzt. Ich zeige Ihnen heute, wie man damit umgeht. Ziel dabei wird sein, Transparenz zu schaffen und die Glaubwürdigkeit Ihrer Botschaft zu erhöhen.
 
 Testimonials (eine konkrete Fürsprache für Ihr Produkt oder Ihre Dienstleistung von einem neutralen Dritten – Eine [positive] Kundenstimme beispielsweise) und FAQs (Frequently Asked Questions – Häufig gestellte Fragen. Auch Q & A genannt = Questions & Answers – Fragen und Antworten) sind extrem wichtige Werkzeuge um das Vertrauen der Leute in Ihr Angebot zu bekommen und auszubauen. Jedes dieser Hilfsmittel funktioniert auf etwas andere Weise.
 
@@ -20,7 +20,7 @@ Bei dieser Entscheidung kann ein Zitat von jemand, der dem Interessenten sehr ä
 
 FAQs sind ebenfalls nützlich, um das Vertrauen eines Interessenten auszubauen. Das passiert, in dem die Lücken gefüllt werden, die verbleiben – die vielen kleine Fragen und Unsicherheiten, die letztendlich darüber entscheiden im Kaufprozess fortzufahren oder auszusteigen. Sogar dann, wenn die Fragen – die auf der Webseite beantwortet werden – nicht genau denen entsprechen, die man in Gedanken hatte, kann diese Art von Transparenz das Vertrauen in die Marke stärken. Wenn Sie sehen, dass Bedenken von anderen Kunden mit Respekt und Gründlichkeit begegnet wird und Lösungsansätze verfolgt werden, kann man annehmen, dass man sich weniger Sorgen um die eigenen Bedenken machen muss.
 
-Viele Webseiten haben eine extra Seite für Ihre FAQs und eine andere Seite, wo all die Testimonials aufgelistet sind. Aber das istder falsche Weg, wie die Sache angegangen werden sollte!
+Viele Webseiten haben eine extra Seite für Ihre FAQs und eine andere Seite, wo all die Testimonials aufgelistet sind. Aber das ist der falsche Weg , wie die Sache angegangen werden sollte!
 
 Können Sie sich erinnern, wann Sie das letzte Mal auf einen FAQ- oder Testimonial-Link geklickt haben? Genau hier ist der Haken. Niemand möchte FAQs oder die Zitate anderer lesen und womöglich noch danach suchen müssen. Sie gehen nicht in Ihrer Mittagspause online mit dem Vorsatz, „Ach, ich werde jetzt mal etwas Zeit damit verbringen mich durch die ganzen Testimonials zu lesen.“ Hierbei gibt es keinen Vorteil. Warum? Weil die Botschaft aus dem Zusammenhang gerissen ist. Die Stelle, an der ein Testimonial oder eine Fragen und Antworten Bereich Sinn machen, ist, wenn Sie etwas tun, was relevant für den Inhalt der Nachricht ist. Wenn alles an einer Stelle zusammengeworfen wird, wird ein Großteil des Inhalts für die meisten die meiste Zeit irrelevant sein.
 

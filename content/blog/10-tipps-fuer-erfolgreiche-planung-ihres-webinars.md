@@ -1,13 +1,13 @@
 ---
 title: "10 Tipps für erfolgreiche Webinare"
-slug: "10-tipps-fuer-erfolgreiche-planung-ihres-webinars"
-category: ["News", "Webinare"]
-date: "Mai 2021"
-isoDate: "2021-05-27"
+slug: "10-tipps-fuer-erfolgreiche-webinare"
+category: "News"
+date: "27. Mai 2021"
+isoDate: "2021-05-01"
 author: "STRATECO"
-readMinutes: 3
-image: "/uploads/10-tipps-fuer-erfolgreiche-planung-ihres-webinars.jpg"
-teaser: "Die Weichen für ein erfolgreiches Webinar stellen Sie bereits eine ganze Zeit vor dem Live-Termin. Oft sind es Kleinigkeiten, die über den Erfolg oder..."
+readMinutes: "3"
+image: "/uploads/10-tipps-fuer-erfolgreiche-webinare.jpg"
+teaser: "Die Weichen für ein erfolgreiches Webinar stellen Sie bereits eine ganze Zeit vor dem Live-Termin. Oft sind es Kleinigkeiten, die über den Erfolg oder Misserfolg eines Webinars entscheiden. Um Ihnen…"
 ---
 
 Die Weichen für ein erfolgreiches Webinar stellen Sie bereits eine ganze Zeit vor dem Live-Termin. Oft sind es Kleinigkeiten, die über den Erfolg oder Misserfolg eines Webinars entscheiden. Um Ihnen die Planung etwas zu erleichtern haben wir Ihnen 10 Tipps aus unserer Praxis zusammengestellt
@@ -52,18 +52,8 @@ Ihre Teilnehmer kommen nicht mit der Erwartung eine Verkaufsshow zu sehen, sonde
 
 Sie können noch so viel planen, ob Ihr Konzept und Ihr Drehbuch funktioniert erfahren Sie nur, wenn Sie es testen. Mindestens ein Dry Run mit allen (aktiv) Beteiligten sollte daher zwingend eingeplant werden.
 
-Wenn Sie Hilfe beim Start eigener Webinare benötigen oder wenn Sie Ihrem Auftreten in Webinaren einen Extra-Schub verleihen möchten, besuchen Sie uns aufwww.webinartraining.deoder schicken Sie uns direkt eine E-Mail anmailto:webinar-training@strateco.de. Wir unterstützen Sie und Ihr Team gerne auf dem Weg erfolgreiche Webinare zu planen und durchzuführen.
+Wenn Sie Hilfe beim Start eigener Webinare benötigen oder wenn Sie Ihrem Auftreten in Webinaren einen Extra-Schub verleihen möchten, besuchen Sie uns auf www.webinartraining.de oder schicken Sie uns direkt eine E-Mail an mailto:webinar-training@strateco.de . Wir unterstützen Sie und Ihr Team gerne auf dem Weg erfolgreiche Webinare zu planen und durchzuführen.
 
 Weitere hilfreiche Blogbeiträge und Checklisten zu Webinaren folgen in Kürze.
 
-**TAGS:**
-[10 Tipps](https://blog.strateco.de/tag/10-tipps/)
-[Automatisierte Emails](https://blog.strateco.de/tag/automatisierte-emails/)
-[Drehbuch](https://blog.strateco.de/tag/drehbuch/)
-[Dry Run](https://blog.strateco.de/tag/dry-run/)
-[Moderator](https://blog.strateco.de/tag/moderator/)
-[Planung](https://blog.strateco.de/tag/planung/)
-[Speaker](https://blog.strateco.de/tag/speaker/)
-[Webinar](https://blog.strateco.de/tag/webinar/)
-[Webinar-Plattform](https://blog.strateco.de/tag/webinar-plattform/)
-[Webinar-Training](https://blog.strateco.de/tag/webinar-training/)
+TAGS: 10 Tipps Automatisierte Emails Drehbuch Dry Run Moderator Planung Speaker Webinar Webinar-Plattform Webinar-Training

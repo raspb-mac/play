@@ -1,13 +1,13 @@
 ---
 title: "WENN DER KUNDE NICHT MEHR NEIN SAGEN KANN – SWEET SPOT AND VALUE BASED COMMUNICATION // Es dem Kunden einfacher machen zu kaufen."
 slug: "wenn-der-kunde-nicht-mehr-nein-sagen-kann-sweet-spot-and-value-based-communication-es-dem-kunden-einfacher-machen-zu-kaufen"
-category: ["Analyse", "Customer", "Customer Value", "Entscheider", "Insight", "Mehrwert"]
-date: "Dezember 2018"
-isoDate: "2018-12-19"
+category: "Analyse"
+date: "19. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/wenn-der-kunde-nicht-mehr-nein-sagen-kann-sweet-spot-and-value-based-communication-es-dem-kunden-einfacher-machen-zu-kaufen.jpg"
-teaser: "Was für ein verlockender Gedanke im Geschäftskundenvertrieb. Aber kann das tatsächlich sein? Nun ja, es kann. Es setzt genau die folgenden fünf Aspekt..."
+teaser: "Was für ein verlockender Gedanke im Geschäftskundenvertrieb. Aber kann das tatsächlich sein? Nun ja, es kann. Es setzt genau die folgenden fünf Aspekte voraus: Erstens muss man die Strategie des…"
 ---
 
 Was für ein verlockender Gedanke im Geschäftskundenvertrieb. Aber kann das tatsächlich sein? Nun ja, es kann. Es setzt genau die folgenden fünf Aspekte voraus:
@@ -30,25 +30,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Anforderung](https://blog.strateco.de/tag/anforderung/)
-[Aussage](https://blog.strateco.de/tag/aussage/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[Bedarf](https://blog.strateco.de/tag/bedarf/)
-[Bedürfnis](https://blog.strateco.de/tag/beduerfnis/)
-[Beobachten](https://blog.strateco.de/tag/beobachten/)
-[Berater](https://blog.strateco.de/tag/berater/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[Entscheider](https://blog.strateco.de/tag/entscheider/)
-[erkennen](https://blog.strateco.de/tag/erkennen/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Fragen](https://blog.strateco.de/tag/fragen/)
-[Ja](https://blog.strateco.de/tag/ja/)
-[JaSagen](https://blog.strateco.de/tag/jasagen/)
-[Kunde verstehen](https://blog.strateco.de/tag/kunde-verstehen/)
-[Kundenverständnis](https://blog.strateco.de/tag/kundenverstaendnis/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[need](https://blog.strateco.de/tag/need/)
-[NeinSagen](https://blog.strateco.de/tag/neinsagen/)
-[verstehen](https://blog.strateco.de/tag/verstehen/)
+TAGS: Anforderung Aussage B2B Bedarf Bedürfnis Beobachten Berater consultant Customer Entscheider erkennen Erkenntnis Fragen Ja JaSagen Kunde verstehen Kundenverständnis Mehrwert need NeinSagen verstehen

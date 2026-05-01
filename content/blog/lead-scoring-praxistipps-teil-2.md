@@ -1,22 +1,22 @@
 ---
 title: "Lead Scoring Praxistipps – Teil 2"
 slug: "lead-scoring-praxistipps-teil-2"
-category: ["Lead Management", "Leadgenerierung", "Marketing Automatisierung", "News", "Online Marketing Allgemein"]
-date: "März 2014"
-isoDate: "2014-03-07"
+category: "Lead Management"
+date: "7. März 2014"
+isoDate: "2014-03-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/lead-scoring-praxistipps-teil-2.jpg"
-teaser: "Creating a scoring model is daunting and is often put off because the team are unsure of what should be included. Putting together a good scoring mode..."
+teaser: "Creating a scoring model is daunting and is often put off because the team are unsure of what should be included. Putting together a good scoring model does not happen overnight, it takes a little…"
 ---
 
 Creating a scoring model is daunting and is often put off because the team are unsure of what should be included. Putting together a good scoring model does not happen overnight, it takes a little bit of time to get it up and running, fine tune it and then comes the ongoing effort to keep it running optimally.
 
-> About the author:Matthew Johnsonis marketing expert and contributes his knowledge about lead scoring and lead management to the success of Strateco and its clients.
+About the author: Matthew Johnson is marketing expert and contributes his knowledge about lead scoring and lead management to the success of Strateco and its clients.
 
 How do you get started…Well the corner post of any lead scoring model is a solid “Marketing Qualified Lead” definition, sales and marketing need to agree on what constitutes a qualified lead. Once the definition has been settled upon you can take the individual criteria of the definition and build them into a model.
 
-A good model needs to include Demographic,BANTand Behavioural data. Demographic data would include information regarding the contact person and their company.BANT– well everyone knows what that is and for those who don’tBudget,Authority,Need andTimeline.
+A good model needs to include Demographic, BANT and Behavioural data. Demographic data would include information regarding the contact person and their company. BANT – well everyone knows what that is and for those who don’t B udget, A uthority, N eed and T imeline.
 
 Behavioural data – This is the latest addition to the scoring model and something that is often collected even before a marketer has captured any demographic data for a prospect. Many systems are able to gather website behaviour data and match it to a record once the demographic data is captured.
 
@@ -28,8 +28,4 @@ Now is the time to roll out your model. It is best to do a soft roll out at firs
 
 The weighting and point’s allocation need to be adjusted and fine-tuned until such time as sales agree that the type of lead and the quality of the leads is optimal. Once this has been reached the model can be rolled out to the remainder of those involved. But don’t let it run too long, your work is not done yet.
 
----
-
-Stay updated and read the third part ofLead Scoring Praxistippsnext Friday.
-
----
+Stay updated and read the third part of Lead Scoring Praxistipps next Friday.

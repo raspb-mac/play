@@ -1,28 +1,28 @@
 ---
 title: "Webdesign-Secrets 15: Kommunizieren Sie eine Sache"
 slug: "webdesign-secrets-15-kommunizieren-sie-eine-sache"
-category: ["Usability", "Webdesign"]
-date: "Januar 2012"
-isoDate: "2012-01-27"
+category: "Usability"
+date: "27. Januar 2012"
+isoDate: "2012-01-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webdesign-secrets-15-kommunizieren-sie-eine-sache.jpg"
-teaser: "Suchen Sie sich eine einzelen Seite Ihres Webauftritts heraus und analysieren Sie diese. Was sagt sie aus? Was ist die Botschaft dieser einzelnen Seit..."
+teaser: "Suchen Sie sich eine einzelen Seite Ihres Webauftritts heraus und analysieren Sie diese. Was sagt sie aus? Was ist die Botschaft dieser einzelnen Seite? Wenn Sie das aufschreiben müssten, wie viele…"
 ---
 
 Suchen Sie sich eine einzelen Seite Ihres Webauftritts heraus und analysieren Sie diese. Was sagt sie aus? Was ist die Botschaft dieser einzelnen Seite? Wenn Sie das aufschreiben müssten, wie viele Wörter würden Sie dafür wohl brauchen?
 
-Jede Seite Ihres Webauftritts sollte sich mit einem Thema beschäftigen.Nur einem!Charakteristisch und einprägsam zu sein, bedeutet auch, klar und scharf zu kommunizieren – vielleicht auch Ecken und Kanten zu haben, aber zumindest abgegrenzt einen Punkt behandeln und vertreten.
+Jede Seite Ihres Webauftritts sollte sich mit einem Thema beschäftigen. Nur einem! Charakteristisch und einprägsam zu sein, bedeutet auch, klar und scharf zu kommunizieren – vielleicht auch Ecken und Kanten zu haben, aber zumindest abgegrenzt einen Punkt behandeln und vertreten.
 
 Hier kommt nun wieso das ‚lebenswichtig‘ ist:
 
-Grund Nummer 1:Wenn jemand auf einer Ihrer Unterseiten landet – ganz egal, ob er einen internen Link gefolgt ist, über Fremdseiten zu Ihnen kam oder die Suchmaschine ihn auf Ihre Seite geleitet hat – er wird immer die selbe zentrale Frage haben: „Bin ich hier jetzt richtig? Bekomme ich hier das, was ich gesucht bzw. erwartet habe?“
+Grund Nummer 1: Wenn jemand auf einer Ihrer Unterseiten landet – ganz egal, ob er einen internen Link gefolgt ist, über Fremdseiten zu Ihnen kam oder die Suchmaschine ihn auf Ihre Seite geleitet hat – er wird immer die selbe zentrale Frage haben: „Bin ich hier jetzt richtig? Bekomme ich hier das, was ich gesucht bzw. erwartet habe?“
 
 Sie haben stets nur eine limitierte Menge an Aufmerksamkeits-Zeit des Nutzers zur Verfügung. In dieser kurzen Zeitspanne müssen Sie Ihrem Besucher diese Frage beantworten. Hoffnungsvollerweise mit Ja.
 
 Der schnellste und einfachste Weg, diese Frage zu beantworten, ist, es einfach zu sagen. Lassen Sie Ihre Seiten es herausschrein, welchen Zweck sie verfolgen, welche Inhalte hier gefunden werden können und was man hier machen kann. Sagen Sie die eine Sache, auf die es hier ankommt – in einem Satz.
 
-Grund Nummer 2:Suchmaschinen lieben Seiten, die über etwas bestimmtes sind. Etwas was man kurz und pregnat beschreiben kann, etwas, was man so zu sagen verschlagworten kann. Seiten, die meinen viele viele Dinge abhandeln zu müssen kommen einem Schweizer Taschenmesser gleich. Es ist keine Säge, es ist kein Dosenöffner und es ist kein Messer. Es ist tatsächlich all das, aber nichts Bestimmtes (vgl.Webdesign-Secrets 13)
+Grund Nummer 2: Suchmaschinen lieben Seiten, die über etwas bestimmtes sind. Etwas was man kurz und pregnat beschreiben kann, etwas, was man so zu sagen verschlagworten kann. Seiten, die meinen viele viele Dinge abhandeln zu müssen kommen einem Schweizer Taschenmesser gleich. Es ist keine Säge, es ist kein Dosenöffner und es ist kein Messer. Es ist tatsächlich all das, aber nichts Bestimmtes (vgl. Webdesign-Secrets 13 )
 
 Wenn sie also Ihre Seite auf ein Thema ausrichten und es über die breite Front auch so kommunizieren, wird es für Suchmaschinen sehr viel einfacher sein, Ihre Seite auf die Suchanfragen der Leute hin abzugleichen. Sie werden belohnt, dafür, dass Sie es ihnen einfacher gemacht haben.
 

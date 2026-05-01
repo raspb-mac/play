@@ -1,13 +1,13 @@
 ---
 title: "PERSONALMANGEL – EINE EINFACHE LÖSUNG FÜR DEN VERTRIEB // Junge Mitarbeiter im Vertrieb schnell befähigen eigenständig erfolgreich zu sein"
 slug: "personalmangel-eine-einfache-loesung-fuer-den-vertrieb-junge-mitarbeiter-im-vertrieb-schnell-befaehigen-eigenstaendig-erfolgreich-zu-sein"
-category: ["B2B", "Erfolg", "Vertrieb"]
-date: "Dezember 2018"
-isoDate: "2018-12-22"
+category: "B2B"
+date: "22. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/personalmangel-eine-einfache-loesung-fuer-den-vertrieb-junge-mitarbeiter-im-vertrieb-schnell-befaehigen-eigenstaendig-erfolgreich-zu-sein.jpg"
-teaser: "Viele Geschäftsführer in Unternehmen bekunden, dass Stellen nicht besetzt werden können und frei bleiben. Das kostet die Unternehmen Umsatz sowie Wach..."
+teaser: "Viele Geschäftsführer in Unternehmen bekunden, dass Stellen nicht besetzt werden können und frei bleiben. Das kostet die Unternehmen Umsatz sowie Wachstum. Gute Kandidaten zu finden ist nicht…"
 ---
 
 Viele Geschäftsführer in Unternehmen bekunden, dass Stellen nicht besetzt werden können und frei bleiben. Das kostet die Unternehmen Umsatz sowie Wachstum. Gute Kandidaten zu finden ist nicht einfach. Zudem sind erfahrene Kandidaten oft teuer und junge Mitarbeiter bringen noch nicht die ausreichende Erfahrung mit, um vollständige Aufgaben und eigene Verantwortung übernehmen zu können. Das gilt oft auch für die Abteilung Vertrieb.
@@ -28,26 +28,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[eigenständig](https://blog.strateco.de/tag/eigenstaendig/)
-[employer branding](https://blog.strateco.de/tag/employer-branding/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[Fachkräftemangel](https://blog.strateco.de/tag/fachkraeftemangel/)
-[Gewinn](https://blog.strateco.de/tag/gewinn/)
-[growth](https://blog.strateco.de/tag/growth/)
-[junge Mitarbeiter](https://blog.strateco.de/tag/junge-mitarbeiter/)
-[Kommunikation](https://blog.strateco.de/tag/kommunikation/)
-[lernen](https://blog.strateco.de/tag/lernen/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[methodisch](https://blog.strateco.de/tag/methodisch/)
-[Mitarbeiter](https://blog.strateco.de/tag/mitarbeiter/)
-[Mitarbeiter gewinnen](https://blog.strateco.de/tag/mitarbeiter-gewinnen/)
-[Personalmangel](https://blog.strateco.de/tag/personalmangel/)
-[recruiting](https://blog.strateco.de/tag/recruiting/)
-[ROI](https://blog.strateco.de/tag/roi/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[Struktur](https://blog.strateco.de/tag/struktur/)
-[strukturiert](https://blog.strateco.de/tag/strukturiert/)
-[Umsatz](https://blog.strateco.de/tag/umsatz/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wachstum](https://blog.strateco.de/tag/wachstum/)
+TAGS: eigenständig employer branding Erfolg Fachkräftemangel Gewinn growth junge Mitarbeiter Kommunikation lernen Methode methodisch Mitarbeiter Mitarbeiter gewinnen Personalmangel recruiting ROI Sales Struktur strukturiert Umsatz Vertrieb Wachstum

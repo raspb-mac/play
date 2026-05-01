@@ -1,13 +1,13 @@
 ---
 title: "Social Media Monitoring hat Alternativen!"
 slug: "social-media-monitoring-hat-alternativen"
-category: ["Contact Center", "Customer Experience Analytics"]
-date: "April 2012"
-isoDate: "2012-04-13"
+category: "Contact Center"
+date: "13. April 2012"
+isoDate: "2012-04-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/social-media-monitoring-hat-alternativen.jpg"
-teaser: "Mittlerweile wird in fast jedem größeren Unternehmen über Social Media als Kommunikationskanal heiß diskutiert. Und Social Media Monitoring steht ganz..."
+teaser: "Mittlerweile wird in fast jedem größeren Unternehmen über Social Media als Kommunikationskanal heiß diskutiert. Und Social Media Monitoring steht ganz oben auf der Agenda. Dabei stellt sich…"
 ---
 
 Mittlerweile wird in fast jedem größeren Unternehmen über Social Media als Kommunikationskanal heiß diskutiert. Und Social Media Monitoring steht ganz oben auf der Agenda. Dabei stellt sich allerdings die Frage: Warum soll ich eigentlich aufwendig Informationen im Internet sammeln, wenn doch weitaus umfangreichere Informationen aus dem Kundendialog vorliegen? In vielen Unternehmen gibt es diese Datenschätze, sie werden nur noch nicht genutzt!
@@ -20,4 +20,4 @@ Die Möglichkeiten sind schier unerschöpflich: Von Markforschung und Wettbewerb
 
 Dabei ist die Herangehensweise sehr einfach. Im Rahmen eines Pilotprojektes lassen sich bereits auf Basis von 10.000 aufgezeichneten Kundentelefonaten aussagekräftige Ergebnisse erzielen und echte Erkenntnisse aus dem Kundendialog gewinnen. Das kann auch vor Ort im eigenen Unternehmen geschehen – damit keine Kundendaten außer Haus gegeben werden müssen. Datenschutz wird ohnehin groß geschrieben, da weder auf den einzelnen Kunden, noch einzelne Agenten referenziert wird, sondern die Daten davon unabhängig analysiert werden.
 
-Für weitere Informationen zum Thema„Customer Experience Analytics“steht Ihnen das Beraterteam vonSTRATECOjederzeit gerne zur Verfügung. In einem Termin vor Ort zeigen wir Ihnen, wie Sie diese Möglichkeiten auch für Ihr Unternehmen gewinnbringend einsetzen können – fordern Sie uns heraus!
+Für weitere Informationen zum Thema „Customer Experience Analytics“ steht Ihnen das Beraterteam von STRATECO jederzeit gerne zur Verfügung. In einem Termin vor Ort zeigen wir Ihnen, wie Sie diese Möglichkeiten auch für Ihr Unternehmen gewinnbringend einsetzen können – fordern Sie uns heraus!

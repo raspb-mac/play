@@ -1,18 +1,18 @@
 ---
 title: "Social Media – aber welche Plattform ist die Richtige?"
 slug: "social-media-aber-welche-plattform-ist-die-richtige"
-category: ["Customer Experience Analytics", "News", "Social Media", "Social Media Monitoring"]
-date: "April 2014"
-isoDate: "2014-04-11"
+category: "CX Analytics"
+date: "11. April 2014"
+isoDate: "2014-04-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/social-media-aber-welche-plattform-ist-die-richtige.jpg"
-teaser: "Keine Frage – soziale Netzwerke haben sich zu einem festen Bestandteil im Marketing-Mix von Unternehmen entwickelt. Viel zu oft agieren Unternehmen ab..."
+teaser: "Keine Frage – soziale Netzwerke haben sich zu einem festen Bestandteil im Marketing-Mix von Unternehmen entwickelt. Viel zu oft agieren Unternehmen aber noch ohne richtige Strategie in diesem…"
 ---
 
 Keine Frage – soziale Netzwerke haben sich zu einem festen Bestandteil im Marketing-Mix von Unternehmen entwickelt. Viel zu oft agieren Unternehmen aber noch ohne richtige Strategie in diesem Bereich. Aussagen wie „wir brauchen eine Facebook-Seite“ sind nach wie vor leider oft zu finden. Wir versuchen in diesem Beitrag, einige Tipps für die Vorgehensweise zu geben.
 
-Unsere Grafikgibt zunächst einen Überblick über die wesentlichen „social networks“ und deren Besonderheiten.
+Unsere Grafik gibt zunächst einen Überblick über die wesentlichen „social networks“ und deren Besonderheiten.
 
 Doch bevor man sich hier für einen oder mehrere Kanäle entscheidet, gilt es einige grundlegende Dinge zu berücksichtigen:
 
@@ -26,11 +26,11 @@ Im nächsten Schritt gilt es zu überprüfen, welche Ausgangsvoraussetzungen im 
 
 3) Wo finde ich meine Zielgruppe?
 
-Wenn Ziele und Zielgruppe definiert sind, kann die Auswahl der richtigen Plattform(en) beginnen! Das Spielfeld ist hier natürlich deutlich grösser, als die in unserer Grafik aufgeführten grossen Netzwerke – oft ist auch eine „special interest“ community der direktere Weg zum Ziel. Als Marktübersicht wird hier gerne das„Social Media Prisma“ von ethorityverwendet.
+Wenn Ziele und Zielgruppe definiert sind, kann die Auswahl der richtigen Plattform(en) beginnen! Das Spielfeld ist hier natürlich deutlich grösser, als die in unserer Grafik aufgeführten grossen Netzwerke – oft ist auch eine „special interest“ community der direktere Weg zum Ziel. Als Marktübersicht wird hier gerne das „Social Media Prisma“ von ethority verwendet.
 
 4) Zuhören oder mitmachen?
 
-Im Allgemeinen empfiehlt es sich zunächst, mittels geeigneterSocial Media Monitoring-Toolseine Weile der Diskussion zu lauschen und Erfahrungen zu sammeln. Auf dieser Basis kann man dann im nächsten Schritt seine eigene Content Strategie definieren und selbst „auf Sendung“ gehen. Erst wenn „die Abwehr“ steht, d.h. ein Redaktionsteam die Inhalte, Prozesse und Spielregeln im Griff hat, sollte man in den offenen Dialog eintreten – sonst kann es selbst für große Unternehmen böse Überraschungen in Form eines„shitstorms“geben.
+Im Allgemeinen empfiehlt es sich zunächst, mittels geeigneter Social Media Monitoring-Tools eine Weile der Diskussion zu lauschen und Erfahrungen zu sammeln. Auf dieser Basis kann man dann im nächsten Schritt seine eigene Content Strategie definieren und selbst „auf Sendung“ gehen. Erst wenn „die Abwehr“ steht, d.h. ein Redaktionsteam die Inhalte, Prozesse und Spielregeln im Griff hat, sollte man in den offenen Dialog eintreten – sonst kann es selbst für große Unternehmen böse Überraschungen in Form eines „shitstorms“ geben.
 
 5) Politik der kleinen Schritte
 

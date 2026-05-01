@@ -1,13 +1,13 @@
 ---
 title: "DIE PARETO 80/20 REGEL GILT – NOTWENDIGKEIT FÜR KEY ACCOUNT MANAGEMENT"
 slug: "die-pareto-80-20-regel-gilt-notwendigkeit-fuer-key-account-management"
-category: ["B2B", "Change", "Customer", "Customer Relation", "Customer Relationship Management", "Entscheider", "Kam", "Kundenbeziehung", "Kundenbindung", "Kundenwert", "Strategie", "Strategy", "Vertrieb"]
-date: "November 2018"
-isoDate: "2018-11-11"
+category: "B2B"
+date: "11. November 2018"
+isoDate: "2018-11-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/die-pareto-80-20-regel-gilt-notwendigkeit-fuer-key-account-management.jpg"
-teaser: "Viele Geschäftsführer in verschiedenen Unternehmen oder Branchen bestätigen uns die allgemeine Gültigkeit der Pareto Regel, nach der 80% des Umsatzes..."
+teaser: "Viele Geschäftsführer in verschiedenen Unternehmen oder Branchen bestätigen uns die allgemeine Gültigkeit der Pareto Regel, nach der 80% des Umsatzes von 20% der Kunden kommt. Interessant ist nur,…"
 ---
 
 Viele Geschäftsführer in verschiedenen Unternehmen oder Branchen bestätigen uns die allgemeine Gültigkeit der Pareto Regel, nach der 80% des Umsatzes von 20% der Kunden kommt. Interessant ist nur, dass gerade in Deutschland bzw. Europa viele Unternehmen diese 20% gar nicht anders behandeln als die übrigen Kunden. Es werden dieselben Vertriebler, Strategien, Prozesse und Daten verwendet. Der Bedeutung dieser wichtigsten Kunden wird kaum Rechnung getragen.
@@ -28,28 +28,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[8020](https://blog.strateco.de/tag/8020/)
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[CEO](https://blog.strateco.de/tag/ceo/)
-[Chance](https://blog.strateco.de/tag/chance/)
-[Change](https://blog.strateco.de/tag/change/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[customer relationship management](https://blog.strateco.de/tag/customer-relationship-management/)
-[Fokus](https://blog.strateco.de/tag/fokus/)
-[Geschäftsmodell](https://blog.strateco.de/tag/geschaeftsmodell/)
-[Großkunde](https://blog.strateco.de/tag/grosskunde/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Key Account](https://blog.strateco.de/tag/key-account/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Organisation](https://blog.strateco.de/tag/organisation/)
-[Pareto](https://blog.strateco.de/tag/pareto/)
-[Programm](https://blog.strateco.de/tag/programm/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[Risiko](https://blog.strateco.de/tag/risiko/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[Value](https://blog.strateco.de/tag/value/)
-[Veränderung](https://blog.strateco.de/tag/veraenderung/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
+TAGS: 8020 Akquise B2B CEO Chance Change Customer customer relationship management Fokus Geschäftsmodell Großkunde KAM Key Account Key Account Management Kunde Organisation Pareto Programm Prozess Risiko Sales Value Veränderung Vertrieb

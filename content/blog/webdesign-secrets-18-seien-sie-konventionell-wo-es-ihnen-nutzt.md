@@ -1,13 +1,13 @@
 ---
 title: "Webdesign-Secrets 18: Seien Sie konventionell (wo es Ihnen nutzt)"
 slug: "webdesign-secrets-18-seien-sie-konventionell-wo-es-ihnen-nutzt"
-category: ["Usability", "Webdesign"]
-date: "Februar 2012"
-isoDate: "2012-02-17"
+category: "Usability"
+date: "17. Februar 2012"
+isoDate: "2012-02-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/webdesign-secrets-18-seien-sie-konventionell-wo-es-ihnen-nutzt.jpg"
-teaser: "Das Wörtchen konventionell bedeutet so viel, wie herkömmlich, gebräuchlich, bestimmungsmäßig oder alt-hergebracht/alt-bekannt. Auch Konventionen im We..."
+teaser: "Das Wörtchen konventionell bedeutet so viel, wie herkömmlich, gebräuchlich, bestimmungsmäßig oder alt-hergebracht/alt-bekannt. Auch Konventionen im Web sind Muster, die unbewusst so angenommen…"
 ---
 
 Das Wörtchen konventionell bedeutet so viel, wie herkömmlich, gebräuchlich, bestimmungsmäßig oder alt-hergebracht/alt-bekannt. Auch Konventionen im Web sind Muster, die unbewusst so angenommen werden, weil es halt stets so funktioniert hat und man intuitiv so verfährt.
@@ -18,16 +18,13 @@ Und Konventionen sind toll und können dabei hilfreich sein, wenn man Sie da ein
 
 Übliche Web-Konventionen umfassen:
 
-- Platzierung (Das Logo vermutet man in der oberen linken Ecke, Login-Möglichkeiten in der rechten oberen Ecke)
-- Farben (Text ist üblicherweise schwarz [oder grau] auf einem weißen [oder zumindest hellem] Untergrund, Links sind standardmäßig blau)
-- Icon-Sprache (schauen Sie doch mal in unseren Footer. Man muss nicht lange nachdenken, um zu wissen, dass der Briefumschlag beispielsweise eine Kontaktmöglichkeit symbolisiert)
+Platzierung (Das Logo vermutet man in der oberen linken Ecke, Login-Möglichkeiten in der rechten oberen Ecke) Farben (Text ist üblicherweise schwarz [oder grau] auf einem weißen [oder zumindest hellem] Untergrund, Links sind standardmäßig blau) Icon-Sprache (schauen Sie doch mal in unseren Footer. Man muss nicht lange nachdenken, um zu wissen, dass der Briefumschlag beispielsweise eine Kontaktmöglichkeit symbolisiert)
 
 Es gibt buchstäblich tausende Konventionen, welche wir nicht einmal als solche wahrnehmen. Wir denken nicht darüber nach – was genau richtig so ist. Das ist der Grund, warum Konventionen funktionieren!
 
 Konventionen funktionieren, weil…
 
-1. Sie können sie einfach verwenden, ohne groß darüber nachzudenken oder wirklich viel Arbeit zu investieren.
-2. Leute, die Ihre Webseite besuchen können sie verstehen, ohne darüber nachzudenken, ohne sich etwas erarbeiten zu müssen.
+Sie können sie einfach verwenden, ohne groß darüber nachzudenken oder wirklich viel Arbeit zu investieren. Leute, die Ihre Webseite besuchen können sie verstehen, ohne darüber nachzudenken, ohne sich etwas erarbeiten zu müssen.
 
 Einige kreative Köpfe glauben, dass es ihre Aufgabe sei, andauernd neue Dinge zu entwickeln (das ist es, was wir unter ‚kreativ‘ verstehen?!). Sie denken, dass es nur darum geht, Webseitenbesucher jedes Mal aufs Neue zu überraschen, fehlzuleiten, sie zum Denken zu bringen. Das ist aber ein unausgegorener Ansatz. Tatsächlich ist es so, dass die meisten neuen Ansätze scheitern. Das ist wie ein Naturgesetz.
 

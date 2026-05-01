@@ -1,13 +1,13 @@
 ---
 title: "DER CRM TURBO: MEHR ROI – DEM VERTRIEB EINE BESSERE STRUKTUR GEBEN"
 slug: "der-crm-turbo-mehr-roi-dem-vertrieb-eine-bessere-struktur-geben"
-category: ["CRM", "Customer", "Customer Relation", "Customer Relationship Management", "Insight"]
-date: "Dezember 2018"
-isoDate: "2018-12-12"
+category: "CRM"
+date: "12. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/der-crm-turbo-mehr-roi-dem-vertrieb-eine-bessere-struktur-geben.jpg"
-teaser: "Wir sehen in der Unternehmenspraxis häufig, welche Erwartungen in das Einführen von CRM Systemen gesteckt werden und wie sie in der Alltagspraxis dann..."
+teaser: "Wir sehen in der Unternehmenspraxis häufig, welche Erwartungen in das Einführen von CRM Systemen gesteckt werden und wie sie in der Alltagspraxis dann manchmal nicht ganz erfüllt werden (können).…"
 ---
 
 Wir sehen in der Unternehmenspraxis häufig, welche Erwartungen in das Einführen von CRM Systemen gesteckt werden und wie sie in der Alltagspraxis dann manchmal nicht ganz erfüllt werden (können). CRM Systeme sind im Wesentlichen sehr geeignet die Daten eines Kunden sowie der einzelnen Ansprechpartner zu erfassen, die Kommunikationshistorie zu nachzuverfolgen, Follow-Up Aktivitäten zu planen sowie zu kontrollieren, Leads/ Opportunities zu systematisieren, Pipelines zu führen, aktuelle Umsätze sowie Umsatzerwartungen zu quantifizieren. Das ist oftmals ein guter Fortschritt und richtig so. Nun kommt es bei CRM Projekten oftmals dazu, dass die bisher bestehenden Prozesse implementiert werden und man – vereinfacht gesagt – so weiter arbeitet wie bisher, nur eben elektronifiziert.
@@ -30,11 +30,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Fokus](https://blog.strateco.de/tag/fokus/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[ROI](https://blog.strateco.de/tag/roi/)
-[Struktur](https://blog.strateco.de/tag/struktur/)
-[Turbo](https://blog.strateco.de/tag/turbo/)
+TAGS: Erkenntnis Fokus Insight Praxis ROI Struktur Turbo

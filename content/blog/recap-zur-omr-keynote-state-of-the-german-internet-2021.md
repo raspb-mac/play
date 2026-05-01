@@ -1,16 +1,16 @@
 ---
 title: "Recap zur OMR Keynote „State of the German Internet 2021”"
 slug: "recap-zur-omr-keynote-state-of-the-german-internet-2021"
-category: ["Allgemein", "Digital", "Digitaler Wandel", "Digitalisierung"]
-date: "Juli 2021"
-isoDate: "2021-07-19"
+category: "Allgemein"
+date: "19. Juli 2021"
+isoDate: "2021-07-01"
 author: "STRATECO"
-readMinutes: 4
+readMinutes: "4"
 image: "/uploads/recap-zur-omr-keynote-state-of-the-german-internet-2021.jpg"
-teaser: "Vergangene Woche war es soweit Philipp Westermeyers KeynoteState of the German Internet 2021stand auf dem Plan. Wer das Format nicht auf der Agenda ha..."
+teaser: "Vergangene Woche war es soweit Philipp Westermeyers Keynote State of the German Internet 2021 stand auf dem Plan. Wer das Format nicht auf der Agenda hat wird sich vielleicht fragen, worum geht es…"
 ---
 
-Vergangene Woche war es soweit Philipp Westermeyers KeynoteState of the German Internet 2021stand auf dem Plan. Wer das Format nicht auf der Agenda hat wird sich vielleicht fragen, worum geht es da eigentlich und lohnt es sich, die knapp 40 Minuten zu investieren? Spoiler: ja.
+Vergangene Woche war es soweit Philipp Westermeyers Keynote State of the German Internet 2021 stand auf dem Plan. Wer das Format nicht auf der Agenda hat wird sich vielleicht fragen, worum geht es da eigentlich und lohnt es sich, die knapp 40 Minuten zu investieren? Spoiler: ja.
 
 Zum Start gibt es die übliche Einordnung mit sauberer Recherche dazu, welche deutschen Digitalunternehmen den größten Market Cap haben, wie die Umsätze im zurückliegenden Jahr aussahen und wie sie im Vergleich mit der internationalen Konkurrenz abschneiden. Ok, dass digitale Firmen in Summe kein schlechtes Jahr hinter sich haben, dürfte den meisten bekannt sein. Aber, dass auch ein Unternehmen wie Booking.com nach dem Corona-bedingten Absturz im März 2020 schon im Januar 2021 wieder ein Vor-Corona-Niveau erreicht hat, ist doch erstaunlich.
 
@@ -18,12 +18,9 @@ D2C
 
 Danach aber rein in die Praxis. Laut eigenen Aussagen die häufigste Frage die Philipp Westermeyer gestellt bekommt: Wie baue ich ein D2C Business (Direct-to-Consumer) auf? Und er liefert direkt ein kleines Playbook mit 4 simplen Steps:
 
-1. Build a Community
-2. Sharpen your Product
-3. Push Customer into your Properties
-4. Build your own Tech Stack
+Build a Community Sharpen your Product Push Customer into your Properties Build your own Tech Stack
 
-Ausführliche Details dazu gibt’s im Video. Ich muss aber gestehen, das ist nicht wirklich neu – vielleicht für digitale eCommerce-Unternehmen, nicht jedoch für erfolgreiche Einzelhändler. Ich war vor einigen Wochen für den Podcast #Hashoppe SüßSauerPur im Gespräch mit Jost Wiebelhaus vom Frankfurter Laufshop und im Kern macht er genau das, was Philipp Westermeyer hier empfiehlt – nur eben als lokaler Einzelhändler und nicht als eCommerce-Unternehmer. Einfach mal rein hören und inspirieren lassen:zum Podcast
+Ausführliche Details dazu gibt’s im Video. Ich muss aber gestehen, das ist nicht wirklich neu – vielleicht für digitale eCommerce-Unternehmen, nicht jedoch für erfolgreiche Einzelhändler. Ich war vor einigen Wochen für den Podcast #Hashoppe SüßSauerPur im Gespräch mit Jost Wiebelhaus vom Frankfurter Laufshop und im Kern macht er genau das, was Philipp Westermeyer hier empfiehlt – nur eben als lokaler Einzelhändler und nicht als eCommerce-Unternehmer. Einfach mal rein hören und inspirieren lassen: zum Podcast
 
 Creator Economy
 
@@ -45,8 +42,6 @@ Richtet man den Blick auf Social Media Plattformen wird man erkennen, dass auch 
 
 Kurz zusammengefasst bleiben die folgenden Punkte hängen:
 
-1. Ruhig mal bei vermeintlich in die Jahre gekommenen Modellen wie dem stationären Einzelhandel schauen, ob man da nicht doch noch was von lernen könnte.
-2. Out-of-the-box-thinking sowie stets offene Augen und Ohren sind wichtiger denn je.
-3. Abseits ausgetretener Pfade findet man manchmal das meiste Gold.
+Ruhig mal bei vermeintlich in die Jahre gekommenen Modellen wie dem stationären Einzelhandel schauen, ob man da nicht doch noch was von lernen könnte. Out-of-the-box-thinking sowie stets offene Augen und Ohren sind wichtiger denn je. Abseits ausgetretener Pfade findet man manchmal das meiste Gold.
 
 Hier geht’s zur aufgezeichneten Keynote

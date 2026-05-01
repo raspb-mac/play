@@ -1,13 +1,13 @@
 ---
 title: "Webinare – von Tops und Flops"
 slug: "webinare-von-tops-und-flops"
-category: ["Allgemein", "News", "Webinare"]
-date: "April 2021"
-isoDate: "2021-04-28"
+category: "Allgemein"
+date: "28. April 2021"
+isoDate: "2021-04-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webinare-von-tops-und-flops.jpg"
-teaser: "Seit fast 10 Jahren unterstützt STRATECO Unternehmen bei der erfolgreichen Planung und Durchführung von Webinaren. Spätestens seit dem Frühjahr 2020 w..."
+teaser: "Seit fast 10 Jahren unterstützt STRATECO Unternehmen bei der erfolgreichen Planung und Durchführung von Webinaren. Spätestens seit dem Frühjahr 2020 wird das Netz von Webinaren fast schon…"
 ---
 
 Seit fast 10 Jahren unterstützt STRATECO Unternehmen bei der erfolgreichen Planung und Durchführung von Webinaren. Spätestens seit dem Frühjahr 2020 wird das Netz von Webinaren fast schon überschwemmt. Verständlich, war es doch die einfachste und schnellste Variante, die eigenen Inhalte aufmerksamkeitsstark und hemdsärmelig in die Welt zu katapultieren. Doch genau da liegt auch die Krux.
@@ -26,6 +26,6 @@ Zeit nehmen oder sein lassen
 
 In diesem Sinne, nehmen Sie sich die Zeit Ihre Webinare vernünftig zu planen und zu konzipieren oder machen Sie etwas anderes mit Ihrer Zeit. Ein hektisch umgesetztes Webinar ohne Vorbereitung nutzt weder Ihnen, noch Ihren Teilnehmern.
 
-Wenn Sie Unterstützung bei der Planung und Durchführung von Webinaren benötigen, persönlich mehr Präsenz in Ihren Webinaren erreichen möchten oder sich ein qualifiziertes Feedback zu Ihrer Performance wünschen, besuchen Sie uns unterwww.webinartraining.deoder schicken Sie uns direkt eine E-Mail anmailto:webinar-training@strateco.de. Wir unterstützen Sie und Ihr Team gerne auf dem Weg zu erfolgreichen Webinaren.
+Wenn Sie Unterstützung bei der Planung und Durchführung von Webinaren benötigen, persönlich mehr Präsenz in Ihren Webinaren erreichen möchten oder sich ein qualifiziertes Feedback zu Ihrer Performance wünschen, besuchen Sie uns unter www.webinartraining.de oder schicken Sie uns direkt eine E-Mail an mailto:webinar-training@strateco.de . Wir unterstützen Sie und Ihr Team gerne auf dem Weg zu erfolgreichen Webinaren.
 
 Weitere hilfreiche Blogbeiträge und Checklisten zu Webinaren folgen in Kürze.

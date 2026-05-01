@@ -1,16 +1,16 @@
 ---
 title: "Man kann Technologie implementieren, aber Akzeptanz muss man gewinnen. – Geringe Akzeptanzraten bei CRM laut Studie."
-slug: "man-kann-technologie-implementieren-aber-akzeptanz-muss-man-gewinnen-laut-studie-geringe-akzeptanzraten-bei-crm"
-category: ["B2B", "Change", "CRM", "Customer", "Erfolg"]
-date: "September 2018"
-isoDate: "2018-09-19"
+slug: "man-kann-technologie-implementieren-aber-akzeptanz-muss-man-gewinnen-geringe-akzeptanzraten-bei-crm-laut-studie"
+category: "B2B"
+date: "19. September 2018"
+isoDate: "2018-09-01"
 author: "STRATECO"
-readMinutes: 2
-image: "/uploads/man-kann-technologie-implementieren-aber-akzeptanz-muss-man-gewinnen-laut-studie-geringe-akzeptanzraten-bei-crm.jpg"
-teaser: "Nur 24% der Befragten einerStudie von CSO Insightsin 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage..."
+readMinutes: "2"
+image: "/uploads/man-kann-technologie-implementieren-aber-akzeptanz-muss-man-gewinnen-geringe-akzeptanzraten-bei-crm-laut-studie.jpg"
+teaser: "Nur 24% der Befragten einer Studie von CSO Insights in 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment…"
 ---
 
-Nur 24% der Befragten einerStudie von CSO Insightsin 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment beim CRM der übrigen ¾ Unternehmen aus? CRM soll doch einen strategischen Vorteil bringen und kein zusätzliches Hindernis im Alltag sein.
+Nur 24% der Befragten einer Studie von CSO Insights in 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment beim CRM der übrigen ¾ Unternehmen aus? CRM soll doch einen strategischen Vorteil bringen und kein zusätzliches Hindernis im Alltag sein.
 
 Die genannte geringe Akzeptanzrate führt zu einer ineffektiven CRM Technologie Implementierung. Das Problem wird noch verschärft durch mangelndes Vertrauen in die Erfolgsgrundlage eines CRM Systems – die Daten. Denn ebenfalls nur 24% der Befragten gaben an, dass sie volles Vertrauen in die Daten des CRM Systems haben.
 
@@ -28,22 +28,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akzeptanz](https://blog.strateco.de/tag/akzeptanz/)
-[CRM](https://blog.strateco.de/tag/crm/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[Feedback](https://blog.strateco.de/tag/feedback/)
-[Fertigkeit](https://blog.strateco.de/tag/fertigkeit/)
-[Investment](https://blog.strateco.de/tag/investment/)
-[Menschen](https://blog.strateco.de/tag/menschen/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[Produktivität](https://blog.strateco.de/tag/produktivitaet/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[ROI](https://blog.strateco.de/tag/roi/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[Technologie](https://blog.strateco.de/tag/technologie/)
-[Tool](https://blog.strateco.de/tag/tool/)
-[Verständnis](https://blog.strateco.de/tag/verstaendnis/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[WARUM](https://blog.strateco.de/tag/warum/)
+TAGS: Akzeptanz CRM Erfolg Feedback Fertigkeit Investment Menschen Methode Praxis Produktivität Prozess ROI Sales Technologie Tool Verständnis Vertrieb WARUM

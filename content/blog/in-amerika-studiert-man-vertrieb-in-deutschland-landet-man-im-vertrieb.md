@@ -1,13 +1,13 @@
 ---
 title: "IN AMERIKA STUDIERT MAN VERTRIEB – IN DEUTSCHLAND LANDET MAN IM VERTRIEB"
 slug: "in-amerika-studiert-man-vertrieb-in-deutschland-landet-man-im-vertrieb"
-category: ["Change", "Customer", "Erfolg", "Fuehrung", "Insight", "Kam", "Kunde", "Mehrwert", "Praxis", "Sales", "Vertrieb"]
-date: "September 2018"
-isoDate: "2018-09-27"
+category: "Change"
+date: "27. September 2018"
+isoDate: "2018-09-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/in-amerika-studiert-man-vertrieb-in-deutschland-landet-man-im-vertrieb.jpg"
-teaser: "Diese Tatsache erlebt man leider noch zu häufig. In den USA gibt es eine nachhaltige Vertriebsphilosophie, eine fundierte Hochschulausbildung für Vert..."
+teaser: "Diese Tatsache erlebt man leider noch zu häufig. In den USA gibt es eine nachhaltige Vertriebsphilosophie, eine fundierte Hochschulausbildung für Vertrieb und einen Vertriebskarrierepfad, um CEO…"
 ---
 
 Diese Tatsache erlebt man leider noch zu häufig. In den USA gibt es eine nachhaltige Vertriebsphilosophie, eine fundierte Hochschulausbildung für Vertrieb und einen Vertriebskarrierepfad, um CEO eines Unternehmens zu werden. In Deutschland gibt es nichts Vergleichbares. Man studiert eher Marketing. Es gibt nur wenige Lehrstühle für Vertrieb.
@@ -26,29 +26,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[Botschaft](https://blog.strateco.de/tag/botschaft/)
-[CEO](https://blog.strateco.de/tag/ceo/)
-[Change](https://blog.strateco.de/tag/change/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Fragen](https://blog.strateco.de/tag/fragen/)
-[führen](https://blog.strateco.de/tag/fuehren/)
-[Führung](https://blog.strateco.de/tag/fuehrung/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[Intelligenz](https://blog.strateco.de/tag/intelligenz/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Karriere](https://blog.strateco.de/tag/karriere/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Kommunikation](https://blog.strateco.de/tag/kommunikation/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[leadership](https://blog.strateco.de/tag/leadership/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[Unternehmenswert](https://blog.strateco.de/tag/unternehmenswert/)
-[Value](https://blog.strateco.de/tag/value/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: Akquise B2B Botschaft CEO Change Customer Erkenntnis Fragen führen Führung Insight Intelligenz KAM Karriere Key Account Management Kommunikation Kunde leadership Methode Praxis Sales Unternehmenswert Value Vertrieb Wert

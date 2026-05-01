@@ -1,16 +1,16 @@
 ---
 title: "VERTRIEB IST EIN PROZESS – CHANGE MANAGEMENT DURCH EINEN PERSPEKTIVWECHSEL"
 slug: "vertrieb-ist-ein-prozess-change-management-durch-einen-perspektivwechsel"
-category: ["B2B", "Change", "Insight", "Kam", "Kunde", "Leadgenerierung", "Mehrwert", "Praxis", "Roi", "Sales", "Strategy", "Vertrieb"]
-date: "September 2018"
-isoDate: "2018-09-12"
+category: "B2B"
+date: "12. September 2018"
+isoDate: "2018-09-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/vertrieb-ist-ein-prozess-change-management-durch-einen-perspektivwechsel.jpg"
-teaser: "Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt..."
+teaser: "Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb…"
 ---
 
-Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb gelandet.“, was ungerechtfertigter Weise nicht sehr viel Wertschätzung für diese wichtige Unternehmensdisziplin ausdrückt.  Auf der anderen Seite fragen wir uns, was eigentlich vertrieben werden soll? Schlechte Produkte? Der Kunde? STRATECO dreht gerne die Sichtweise um, damit die Arbeit für die Vertriebler leichter wird und ein Perspektivwechsel beim erfolgreichen Change Management Prozess hilft.
+Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb gelandet.“, was ungerechtfertigter Weise nicht sehr viel Wertschätzung für diese wichtige Unternehmensdisziplin ausdrückt. Auf der anderen Seite fragen wir uns, was eigentlich vertrieben werden soll? Schlechte Produkte? Der Kunde? STRATECO dreht gerne die Sichtweise um, damit die Arbeit für die Vertriebler leichter wird und ein Perspektivwechsel beim erfolgreichen Change Management Prozess hilft.
 
 In den USA kann man Vertrieb studieren. Das ist für unsere Region zumindest ungewöhnlich, wenn auch inzwischen vereinzelt machbar an Hochschulen. In der Praxis wurde bisher zu wenig erkannt, dass Vertrieb ein Prozess ist, der Schritt für Schritt zum Erfolg führt. In Deutschland gib es für Alles einen Prozess. Nur Vertrieb machen wir aus dem Bauch. Das ist eine interessante Erkenntnis aus der Praxis.
 
@@ -26,29 +26,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[Analyse](https://blog.strateco.de/tag/analyse/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[Change](https://blog.strateco.de/tag/change/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[focus](https://blog.strateco.de/tag/focus/)
-[Fokus](https://blog.strateco.de/tag/fokus/)
-[führen](https://blog.strateco.de/tag/fuehren/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Lead management](https://blog.strateco.de/tag/lead-management/)
-[Leitfaden](https://blog.strateco.de/tag/leitfaden/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Neukunde](https://blog.strateco.de/tag/neukunde/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[Prozess](https://blog.strateco.de/tag/prozess/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[Tool](https://blog.strateco.de/tag/tool/)
-[Value](https://blog.strateco.de/tag/value/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: Akquise Analyse B2B Change Customer Erkenntnis focus Fokus führen Insight KAM Key Account Management Kunde Lead management Leitfaden Mehrwert Methode Neukunde Praxis Prozess Sales Tool Value Vertrieb Wert

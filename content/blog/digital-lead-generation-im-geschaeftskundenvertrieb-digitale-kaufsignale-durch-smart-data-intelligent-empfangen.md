@@ -1,13 +1,13 @@
 ---
 title: "Digital Lead Generation im Geschäftskundenvertrieb – Digitale Kaufsignale durch Smart Data intelligent empfangen"
 slug: "digital-lead-generation-im-geschaeftskundenvertrieb-digitale-kaufsignale-durch-smart-data-intelligent-empfangen"
-category: ["Big Data", "Customer Experience Analytics", "Data Managment", "Digitaler Wandel", "Lead Management", "Leadgenerierung", "Social Media", "Social Media Monitoring"]
-date: "August 2018"
-isoDate: "2018-08-28"
+category: "Big Data"
+date: "28. August 2018"
+isoDate: "2018-08-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/digital-lead-generation-im-geschaeftskundenvertrieb-digitale-kaufsignale-durch-smart-data-intelligent-empfangen.jpg"
-teaser: "‚Heute suchen wir noch Kunden, morgen hören wir digitale Kaufsignale.‘ Wir können im Bereich Vertrieb sowie Key Account Management erkennen wo die Zuk..."
+teaser: "‚Heute suchen wir noch Kunden, morgen hören wir digitale Kaufsignale.‘ Wir können im Bereich Vertrieb sowie Key Account Management erkennen wo die Zukunft hingehen wird durch den Einsatz von Smart…"
 ---
 
 ‚Heute suchen wir noch Kunden, morgen hören wir digitale Kaufsignale.‘ Wir können im Bereich Vertrieb sowie Key Account Management erkennen wo die Zukunft hingehen wird durch den Einsatz von Smart Data im B2B Bereich, denn etliche Methoden und Tools stehen heute bereits einsatzbereit, erfolgreich zur Verfügung, nur viele Entscheider wissen es bisher noch nicht. Für einen Investitionsgüterausrüster wie ein Gabelstaplerhersteller ist es zum Beispiel interessant, dass 1) eine Müller KG ein neues Werk baut, dass 2) eine Meier GmbH seine Fertigungskapazitäten ausweitet oder dass 3) ein Architekt eine Ausschreibung für eine neue Produktionshalle für ein Unternehmen gewonnen hat.
@@ -24,18 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[Analyse](https://blog.strateco.de/tag/analyse/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[Big Data](https://blog.strateco.de/tag/big-data/)
-[CRM](https://blog.strateco.de/tag/crm/)
-[digital](https://blog.strateco.de/tag/digital/)
-[intelligent](https://blog.strateco.de/tag/intelligent/)
-[Intelligenz](https://blog.strateco.de/tag/intelligenz/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Lead management](https://blog.strateco.de/tag/lead-management/)
-[Neukunde](https://blog.strateco.de/tag/neukunde/)
-[Smart Data](https://blog.strateco.de/tag/smart-data/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
+TAGS: Akquise Analyse B2B Big Data CRM digital intelligent Intelligenz KAM Key Account Management Lead management Neukunde Smart Data Vertrieb

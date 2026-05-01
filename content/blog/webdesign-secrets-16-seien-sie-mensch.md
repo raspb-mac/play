@@ -1,13 +1,13 @@
 ---
 title: "Webdesign-Secrets 16: Seien Sie Mensch"
 slug: "webdesign-secrets-16-seien-sie-mensch"
-category: ["Usability", "Webdesign"]
-date: "Februar 2012"
-isoDate: "2012-02-03"
+category: "Usability"
+date: "3. Februar 2012"
+isoDate: "2012-02-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/webdesign-secrets-16-seien-sie-mensch.jpg"
-teaser: "Es gibt nur wenige Dinge, die Sie mit absoluter Sicherheit über Ihre Besucher sagen können. Zum einen, dass die Geschmäcker und Vorlieben Ihrer Besuch..."
+teaser: "Es gibt nur wenige Dinge, die Sie mit absoluter Sicherheit über Ihre Besucher sagen können. Zum einen, dass die Geschmäcker und Vorlieben Ihrer Besucher nicht mit Ihren identisch sein müssen.…"
 ---
 
 Es gibt nur wenige Dinge, die Sie mit absoluter Sicherheit über Ihre Besucher sagen können. Zum einen, dass die Geschmäcker und Vorlieben Ihrer Besucher nicht mit Ihren identisch sein müssen. Freunden Sie sich daher mit der Vorstellung an, dass Sie Ihre Webseite für Ihre Besucher bauen und nicht für sich selbst. Die andere Sache, die Sie mit Sicherheit sagen können, ist, dass Ihre Besucher Menschen sind. Das heißt sie ticken und handeln wie Menschen. Machen Sie sich das zur Nutze.

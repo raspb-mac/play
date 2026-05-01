@@ -2,12 +2,12 @@
 title: "(Digital) Recruiting – Der richtige Mitarbeiter ist zum Schlüsselfaktor geworden"
 slug: "digital-recruiting-der-richtige-mitarbeiter-ist-zum-schluesselfaktor-geworden"
 category: "Strategie"
-date: "Oktober 2018"
-isoDate: "2018-10-21"
+date: "21. Oktober 2018"
+isoDate: "2018-10-01"
 author: "STRATECO"
-readMinutes: 2
+readMinutes: "2"
 image: "/uploads/digital-recruiting-der-richtige-mitarbeiter-ist-zum-schluesselfaktor-geworden.jpg"
-teaser: "Der richtige Mitarbeiter ist zum Schlüsselfaktor geworden. Die passenden Mitarbeiter oder Azubis zu finden, ist für manche Firmen essentiell geworden...."
+teaser: "Der richtige Mitarbeiter ist zum Schlüsselfaktor geworden. Die passenden Mitarbeiter oder Azubis zu finden, ist für manche Firmen essentiell geworden. Es gibt Unternehmen, die sagen, dass sie keine…"
 ---
 
 Der richtige Mitarbeiter ist zum Schlüsselfaktor geworden. Die passenden Mitarbeiter oder Azubis zu finden, ist für manche Firmen essentiell geworden. Es gibt Unternehmen, die sagen, dass sie keine weiteren Kunden haben möchten, dafür aber qualifizierte Mitarbeiter. Diese Firmen sagen zum Teil sogar Aufträge ab, weil die benötigten Mitarbeiter fehlen. Auf der anderen Seite hört man leider gerade bei Mittelständlern auf die Frage, warum ein Kandidat zu einem kommen soll, ein Schweigen oder austauschbare Plattitüden, die attraktive Mitarbeiter nicht reizen.
@@ -24,15 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Arbeitgebermarke](https://blog.strateco.de/tag/arbeitgebermarke/)
-[Arbeitgeberpositionierung](https://blog.strateco.de/tag/arbeitgeberpositionierung/)
-[Bewerber](https://blog.strateco.de/tag/bewerber/)
-[HR](https://blog.strateco.de/tag/hr/)
-[human resources](https://blog.strateco.de/tag/human-resources/)
-[Kandidaten](https://blog.strateco.de/tag/kandidaten/)
-[Mitarbeiter gewinnen](https://blog.strateco.de/tag/mitarbeiter-gewinnen/)
-[Personal gewinnen](https://blog.strateco.de/tag/personal-gewinnen/)
-[Personalabteilung](https://blog.strateco.de/tag/personalabteilung/)
-[talent management](https://blog.strateco.de/tag/talent-management/)
-[Talente](https://blog.strateco.de/tag/talente/)
+TAGS: Arbeitgebermarke Arbeitgeberpositionierung Bewerber HR human resources Kandidaten Mitarbeiter gewinnen Personal gewinnen Personalabteilung talent management Talente

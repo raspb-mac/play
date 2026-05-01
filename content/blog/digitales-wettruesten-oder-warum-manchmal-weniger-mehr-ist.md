@@ -1,16 +1,16 @@
 ---
 title: "Digitales Wettrüsten – oder warum manchmal weniger mehr ist!"
 slug: "digitales-wettruesten-oder-warum-manchmal-weniger-mehr-ist"
-category: ["Digitaler Wandel", "Marketing Automatisierung", "Meinungen", "News"]
-date: "Juni 2016"
-isoDate: "2016-06-28"
+category: "Digitaler Wandel"
+date: "28. Juni 2016"
+isoDate: "2016-06-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/digitales-wettruesten-oder-warum-manchmal-weniger-mehr-ist.png"
-teaser: "Gerade in einer Zeit, in der sich in Marketing-Abteilungen vieles nur noch um den Einsatz der neuesten Marketing-Technologien dreht, wird es wichtig,..."
+teaser: "Gerade in einer Zeit, in der sich in Marketing-Abteilungen vieles nur noch um den Einsatz der neuesten Marketing-Technologien dreht, wird es wichtig, sich einmal wieder die Sinn-Frage zu stellen:…"
 ---
 
-Gerade in einer Zeit, in der sich in Marketing-Abteilungen vieles nur noch um den Einsatz der neuesten Marketing-Technologien dreht, wird es wichtig, sich einmal wieder die Sinn-Frage zu stellen: Warum mache ich das alles, macht das eigentlich Sinn?
+Gerade in einer Zeit, in der sich in Marketing-Abteilungen vieles nur noch um den Einsatz der neuesten Marketing-Technologien dreht, wird es wichtig, sich einmal wieder die Sinn-Frage zu stellen: Warum mache ich das alles, macht das eigentlich Sinn?
 
 Vor lauter Technologie-Wahnsinn, permanentem Tracking, Daten-Sammel-Kraken und predictive analytics tools gerät machmal eines in Vergessenheit. Die Story! Jedes Produkt und jede Dienstleistung braucht eine gute Story, muss Emotionen wecken, Bedürfnisse adressieren, … Dies gerät vor lauter technolgischem Wettrüsten in der letzten Zeit zunehmend in Vergessenheit. Schade eigentlich.
 

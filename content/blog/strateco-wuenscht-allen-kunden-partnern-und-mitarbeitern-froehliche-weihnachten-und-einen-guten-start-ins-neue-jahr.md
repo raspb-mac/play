@@ -1,13 +1,13 @@
 ---
 title: "STRATECO wünscht allen Kunden, Partnern und Mitarbeitern fröhliche Weihnachten und einen guten Start ins neue Jahr!"
 slug: "strateco-wuenscht-allen-kunden-partnern-und-mitarbeitern-froehliche-weihnachten-und-einen-guten-start-ins-neue-jahr"
-category: ["Intern", "Meinungen", "News"]
-date: "Dezember 2013"
-isoDate: "2013-12-17"
+category: "Intern"
+date: "17. Dezember 2013"
+isoDate: "2013-12-01"
 author: "STRATECO"
-readMinutes: 1
+readMinutes: "1"
 image: "/uploads/strateco-wuenscht-allen-kunden-partnern-und-mitarbeitern-froehliche-weihnachten-und-einen-guten-start-ins-neue-jahr.png"
-teaser: "Die letzten Monate sind wie im Flug vergangen und nun stehen schon wieder die Feiertage und ein neues Jahr vor der Tuuml;r. Wir blicken gerne zurück,..."
+teaser: "Die letzten Monate sind wie im Flug vergangen und nun stehen schon wieder die Feiertage und ein neues Jahr vor der Tuuml;r. Wir blicken gerne zurück, denn auch dieses Jahr haben wir wieder viel…"
 ---
 
 Die letzten Monate sind wie im Flug vergangen und nun stehen schon wieder die Feiertage und ein neues Jahr vor der Tuuml;r. Wir blicken gerne zurück, denn auch dieses Jahr haben wir wieder viel erreicht.

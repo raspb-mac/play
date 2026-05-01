@@ -1,13 +1,13 @@
 ---
 title: "“I DON’T KNOW” IS A GOOD ANSWER – Erfolg in Vertrieb und Key Account Management"
-slug: "i-dont-know-is-a-good-answer-erfolg-in-vertrieb-und-key-account-management"
-category: ["B2B", "Beratung", "Customer", "Customer Value", "Entscheider", "Insight", "Kunde", "Kundenwert", "Mehrwert", "Sales", "Strategy", "Vertrieb"]
-date: "Dezember 2018"
-isoDate: "2018-12-05"
+slug: "i-don-t-know-is-a-good-answer-erfolg-in-vertrieb-und-key-account-management"
+category: "B2B"
+date: "5. Dezember 2018"
+isoDate: "2018-12-01"
 author: "STRATECO"
-readMinutes: 3
-image: "/uploads/i-dont-know-is-a-good-answer-erfolg-in-vertrieb-und-key-account-management.jpg"
-teaser: "“Ich weiß es nicht.” klingt in deutschen Ohren ziemlich negativ. Das mag an unserer Schulzeit gelegen haben. Anders hingegen verhält es sich im Key Ac..."
+readMinutes: "3"
+image: "/uploads/i-don-t-know-is-a-good-answer-erfolg-in-vertrieb-und-key-account-management.jpg"
+teaser: "“Ich weiß es nicht.” klingt in deutschen Ohren ziemlich negativ. Das mag an unserer Schulzeit gelegen haben. Anders hingegen verhält es sich im Key Account Management bzw. im Vertrieb. Hier handelt…"
 ---
 
 “Ich weiß es nicht.” klingt in deutschen Ohren ziemlich negativ. Das mag an unserer Schulzeit gelegen haben. Anders hingegen verhält es sich im Key Account Management bzw. im Vertrieb. Hier handelt es sich um eine gute Nachricht, was im ersten Moment etwas verwundern kann. Der positive Aspekt dabei ist, dass ich nun genau erkannt habe, was ich in Erfahrung bringen muss. Jede wichtige Information, die unentdeckt bleibt, ist problematisch, weil sie den Erfolg behindern kann.
@@ -18,7 +18,7 @@ Ein wichtiger Aspekt bei den goldenen Fragen ist z.B. zu verstehen, was der Ents
 
 Es ist aber doch erstaunlich, wie viele Kundenverantwortliche in der Praxis diese Frage nicht oder nicht klar beantworten können. Manchmal ist ihnen die Bedeutung nicht bewusst, zuweilen wird einfach vergessen zu fragen, aber oft wird behauptet, das kriegt man sowieso nicht heraus. Falsch. Kunden haben in der Regel durchaus ein Interesse diese Frage zu klären, um verstanden zu werden und den richtigen Mehrwert zu erhalten.
 
-Man muss gar nicht verkaufen. Das Gegenteil ist oft erfolgreicher und das Prinzip ist ganz einfach: Erstens muss man die Fragen stellen, um zu verstehen, welcher Mehrwert durch das eigene Angebot generiert wird. Dann muss man exakt diese Werte kommunizieren und nachvollziehbar darlegen, umes dem Kunden einfacher zu machen zu kaufen. Somit wird man zum echten Berater statt zum Produktverkäufer.
+Man muss gar nicht verkaufen. Das Gegenteil ist oft erfolgreicher und das Prinzip ist ganz einfach: Erstens muss man die Fragen stellen, um zu verstehen, welcher Mehrwert durch das eigene Angebot generiert wird. Dann muss man exakt diese Werte kommunizieren und nachvollziehbar darlegen, um es dem Kunden einfacher zu machen zu kaufen . Somit wird man zum echten Berater statt zum Produktverkäufer.
 
 Somit ist es wichtig, sich auf die wesentlichen Fragen zu fokussieren. Dann kann man bei höherer Effizienz mehr Effektivität erzielen. Das bedeutet konkret, wichtige Erkenntnislücken zu schließen durch gezielte Aktivitäten, die die genaue Richtung angeben. Deswegen gilt in der Praxis: „I don’t know is a good answer“.
 
@@ -28,37 +28,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Akquise](https://blog.strateco.de/tag/akquise/)
-[Analyse](https://blog.strateco.de/tag/analyse/)
-[ask](https://blog.strateco.de/tag/ask/)
-[B2B](https://blog.strateco.de/tag/b2b/)
-[Berater](https://blog.strateco.de/tag/berater/)
-[consultant](https://blog.strateco.de/tag/consultant/)
-[Customer](https://blog.strateco.de/tag/customer/)
-[einfachermachenzukaufen](https://blog.strateco.de/tag/einfachermachenzukaufen/)
-[Entscheider](https://blog.strateco.de/tag/entscheider/)
-[Erfolg](https://blog.strateco.de/tag/erfolg/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[Frage](https://blog.strateco.de/tag/frage/)
-[Fragen](https://blog.strateco.de/tag/fragen/)
-[Insight](https://blog.strateco.de/tag/insight/)
-[KAM](https://blog.strateco.de/tag/kam/)
-[Key Account Management](https://blog.strateco.de/tag/key-account-management/)
-[Kultur](https://blog.strateco.de/tag/kultur/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenwert](https://blog.strateco.de/tag/kundenwert/)
-[leichtermachenzukaufen](https://blog.strateco.de/tag/leichtermachenzukaufen/)
-[listen](https://blog.strateco.de/tag/listen/)
-[makeiteasiertobuy](https://blog.strateco.de/tag/makeiteasiertobuy/)
-[Mehrwert](https://blog.strateco.de/tag/mehrwert/)
-[Methode](https://blog.strateco.de/tag/methode/)
-[Praxis](https://blog.strateco.de/tag/praxis/)
-[question](https://blog.strateco.de/tag/question/)
-[Sales](https://blog.strateco.de/tag/sales/)
-[understand](https://blog.strateco.de/tag/understand/)
-[Value](https://blog.strateco.de/tag/value/)
-[Vertrieb](https://blog.strateco.de/tag/vertrieb/)
-[Wert](https://blog.strateco.de/tag/wert/)
-[white spot](https://blog.strateco.de/tag/white-spot/)
-[zuhören](https://blog.strateco.de/tag/zuhoeren/)
+TAGS: Akquise Analyse ask B2B Berater consultant Customer einfachermachenzukaufen Entscheider Erfolg Erkenntnis Frage Fragen Insight KAM Key Account Management Kultur Kunde Kundenwert leichtermachenzukaufen listen makeiteasiertobuy Mehrwert Methode Praxis question Sales understand Value Vertrieb Wert white spot zuhören

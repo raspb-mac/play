@@ -1,13 +1,13 @@
 ---
 title: "Vertriebsteam 4.0 – Der Einzelkämpfer gehört der Vergangenheit an; die Zukunft gehört dem kompetenten Team."
 slug: "vertriebsteam-4-0-der-einzelkaempfer-gehoert-der-vergangenheit-an-die-zukunft-gehoert-dem-kompetenten-team"
-category: ["Beratung", "Change", "Customer", "Digital", "Fuehrung", "Sales", "Vertrieb"]
-date: "November 2018"
-isoDate: "2018-11-15"
+category: "Beratung"
+date: "15. November 2018"
+isoDate: "2018-11-01"
 author: "STRATECO"
-readMinutes: 3
+readMinutes: "3"
 image: "/uploads/vertriebsteam-4-0-der-einzelkaempfer-gehoert-der-vergangenheit-an-die-zukunft-gehoert-dem-kompetenten-team.jpg"
-teaser: "Das Bild des einzelnen Vertrieblers, der draußen bei den Kunden vor Ort unterwegs ist und ansonsten auf sich allein gestellt ist, gehört ins Museum. D..."
+teaser: "Das Bild des einzelnen Vertrieblers, der draußen bei den Kunden vor Ort unterwegs ist und ansonsten auf sich allein gestellt ist, gehört ins Museum. Der Job des Vertrieblers ist in dieser Form heute…"
 ---
 
 Das Bild des einzelnen Vertrieblers, der draußen bei den Kunden vor Ort unterwegs ist und ansonsten auf sich allein gestellt ist, gehört ins Museum. Der Job des Vertrieblers ist in dieser Form heute und morgen kaum noch erfolgreich zu leisten, obwohl er selber nach wie vor der Kern des Vertriebsprozesses bleibt. Nur ist die Vielzahl an Informationen bzw. Erkenntnissen deutlich höher und die Anzahl an Kunden Touch Points um ein Mehrfaches größer geworden. Um ein richtiges, konsolidiertes Bild über die Bedürfnisse des Kunden zu erhalten, braucht man zusätzliche Kompetenzen in mindestens zwei Dimensionen.
@@ -24,22 +24,4 @@ https://www.wegrowyourbusiness.de
 
 Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
 
-**TAGS:**
-[Big Data](https://blog.strateco.de/tag/big-data/)
-[digital lead generation](https://blog.strateco.de/tag/digital-lead-generation/)
-[Erkenntnis](https://blog.strateco.de/tag/erkenntnis/)
-[führen](https://blog.strateco.de/tag/fuehren/)
-[Führung](https://blog.strateco.de/tag/fuehrung/)
-[integriert](https://blog.strateco.de/tag/integriert/)
-[Kunde](https://blog.strateco.de/tag/kunde/)
-[Kundenwert](https://blog.strateco.de/tag/kundenwert/)
-[modern](https://blog.strateco.de/tag/modern/)
-[Rolle](https://blog.strateco.de/tag/rolle/)
-[sales for non-sales](https://blog.strateco.de/tag/sales-for-non-sales/)
-[Service](https://blog.strateco.de/tag/service/)
-[Smart Data](https://blog.strateco.de/tag/smart-data/)
-[strategisch](https://blog.strateco.de/tag/strategisch/)
-[Team](https://blog.strateco.de/tag/team/)
-[Tool](https://blog.strateco.de/tag/tool/)
-[virtuel](https://blog.strateco.de/tag/virtuel/)
-[Wert](https://blog.strateco.de/tag/wert/)
+TAGS: Big Data digital lead generation Erkenntnis führen Führung integriert Kunde Kundenwert modern Rolle sales for non-sales Service Smart Data strategisch Team Tool virtuel Wert
