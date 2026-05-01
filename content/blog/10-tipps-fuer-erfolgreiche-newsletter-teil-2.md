@@ -1,0 +1,31 @@
+---
+title: "10 Tipps für erfolgreiche Newsletter – Teil 2"
+slug: "10-tipps-fuer-erfolgreiche-newsletter-teil-2"
+category: "E-Mail Marketing"
+date: "23. Oktober 2014"
+isoDate: "2014-10-01"
+author: "STRATECO"
+readMinutes: "4"
+image: "/uploads/10-tipps-fuer-erfolgreiche-newsletter-teil-2.jpg"
+teaser: "Heute kommen wir der perfekten Mail ein Stück näher. In diesem – den zweiten – Teil der Reihe „10 Tipps zum erfolgreichen Newsletter“ verrate ich Ihnen, welchen visuellen Einfluss Sie nehmen können…"
+---
+
+Heute kommen wir der perfekten Mail ein Stück näher. In diesem – den zweiten – Teil der Reihe „10 Tipps zum erfolgreichen Newsletter“ verrate ich Ihnen, welchen visuellen Einfluss Sie nehmen können und auf was bei der Verwendung von grafischen Elementen geachtet werden muss. Darüber hinaus geht es um die eigentlichen Inhalte einer E-Mail und den Footer. Also legen wir los.
+
+1. Der visuelle Einfluss Sicherlich sind reine Text-Mails weniger aufwendig, als schicke HTML-Kompositionen und einige Mail-Clients (bzw. die Einstellungen des Nutzers) lassen nur solche Plain-Text-Varianten zu, aber es lohnt sich dennoch seine Botschaft mit Bildern aufzuwerten und visuell ansprechend zu verpacken. Bilder sprechen lauter als Worte und könne mehr transportieren. Ganz wichtig: Die richtigen Bilder können den Leser emotionalisieren und so die gewünschte Aktion eher herbeiführen als eine Textwüste. Versuchen Sie das Bildmaterial so zu verwenden, das es die Inhaltsbereiche optimal darstellt und untereinander abgrenzt.
+
+Es besteht die Möglichkeit, dass das Laden von Bildern beim Leser unterbunden wird (Sicherheitseinstellungen). Für solche Fälle sollte es stets ein Fallback geben. Geben Sie den Bildern jeweils eine Hintergrundfarbe (bgcolor=“#c0c0c0″ und style=“background-color:#c0c0c0″) eine feste Größe und einen alt-Text. So ist wenigstens an der Stelle, wo das Bild hätte stehen sollen, ein grauer Kasten mit einem beschreibenden Text (alt-text) darin vorhanden.
+
+Verwenden Sie <img> Tags und vermeiden Sie dem Markup Hintergrundbilder zuzuweisen und Text eine Ebene darüber zu platzieren. Das wird in vielen Clients schlicht ignoriert (Outlook ist einer von ihnen).
+
+Produktabbildungen und Bereichsheader sollten klickbar sein und das gleiche Ziel wie der jeweilige Call-To-Action besitzen. Umschließen Sie dazu das <img> Tag mit einem Link (<a>)
+
+2. Der Text – Der eigentliche Inhalt Wie Sie Ihre Neuigkeiten, Ihre Produkte oder sonstige Botschaften richtig präsentieren ist mitunter gar nicht so leicht. Aber selbst mit dem Text kann man einiges anstellen. Hier einige Tipps dazu:
+
+Verwenden Sie kurze Sätze und machen Sie einen Absatz nicht zu lang. Kommen Sie zum Punkt und nennen nur das allerwichtigste. Hat man Neugierde/Interesse geschürt, kann der Leser auf der Landingpage mehr zum Thema erfahren. Nutzen Sie den Raum (whitespace) und Leerzeilen, um Struktur in den Text zu bringen und einzelne Abschnitte untereinander abzugrenzen. Sie können bestimmte Wörter oder Teile eines Satzes mit Fettdruck hervorheben. Es bietet sich auch an, Unterüberschriften einzufügen um bestimmte Dinge zu verdeutlichen. Um Vorteile bzw. den Nutzen von etwas deutlich zu präsentieren, macht es sich gut, eine Aufzählung wie diese (unordered list) zu verwenden. Verwenden Sie websichere Standardschriften! Nur weil Ihre Unternehmensschrift auf Ihrem Rechner funktioniert, heißt das noch lange nicht, dass dies so auch beim Leser dargestellt wird. Geeignet sind Arial (oder auch Arial Black, Arial Narrow), Comic Sans, Courier New, Georgia, Impact, Tahoma, Times New Roman und Verdana. Es gibt Wege auch andere Schriften für bestimmte Mail-Clients zu verbauen. Verwenden Sie aber stets Standard Schriften als Fallback und geben als letzte Lösung auch noch serif oder sans-serif an. Je nachdem, ob Sie eine Schrift mit Serifen nutzen oder eine serifenlose. Die ideale Schriftgröße für den Fließtext ist 14 Pixel. Für die Abschnitts-Überschrift sollte man mind. 22 Pixel verwenden. Das stellt auch eine anständige Lesbarkeit auf mobilen Geräten sicher. Last but not least: Überprüfen Sie Ihren Text zwei Mal nach Schreibfehlern und Grammatik. Besonders peinlich wird es, wenn man bei eigenen Produktnamen einen Buchstaben vergisst oder verdreht – was leider recht häufig vorkommt.
+
+3. Der Footer – Das Ende einer Mail Der Footer ist wichtig und nötig, denn hier findet eine Art Impressum Platz, was für rechtssichere Mailings zwingend ist. Auch der Link zum Abbestellen des Newsletters muss hier zu finden sein. Darüber hinaus bietet sich dieser Bereich an, die Verweise zu den sozialen Netzwerken unterzubringen. Hier nun noch einmal das wichtigste aufgelistet:
+
+Integrieren Sie hier die vollständigen Kontaktdaten Ihrer Organisation. Auch die Geschäftsadresse, ggf. Faxnummer und ein Ansprechpartner gehören hier her. Der Button oder ein Link zum Abmelden der Mailkommunikation muss offensichtlich sein. Auch wenn es nicht Ihr Ziel ist, Abonnenten zu verlieren, darf dieses Element nicht versteckt sein. Wenn es passt, lässt sich hier auch eine kleine Linkliste zu den Produkten und Services auf Ihrer Webseite einfügen. Wenigstens ein Link zur Startseite sollte aber platziert werden. Machen Sie es Ihrer Leserschaft so einfach wie möglich, die Inhalte Ihres Mailings zu teilen. Neben der klassischen E-Mail-Weiterleiten-Funktion, berücksichtigen Sie auch die Social Sharing Links und verpacken sie in große, hübsche Buttons. Ermutigen Sie Ihre Leser, Ihre Inhalte viral zu machen. Um Spam-Beschwerden zu minimieren hat sich das Hinzufügen einer Zeile Text am Ende eines Mailings bewehrt. Sagen Sie Ihren Lesern, warum sie diese Mail erhalten. Zum Beispiel: Sie erhalten diese E-Mail, weil Sie sich am 01.01.2010 in unseren Newsletterverteiler eingetragen haben.
+
+Wenn Sie diesen und den ersten Teil der Tipps für erfolgreichen Newsletter aufmerksam gelesen haben und die vorgestellten Hilfestellungen anwenden, werden Sie schnell feststellen, wie sich Ihre Öffnungs- und Klickraten verbessern. Nächste Woche möchte ich im letzten Teil der Serie auf die Besonderheiten einer mobilen Mail eingehen und das Thema mit einem Dos and Don‘ts Bereich abschließen. Es lohnt sich also, auch nächste Woche noch einmal reinzuklicken und unseren News-Feed zu abonnieren .
