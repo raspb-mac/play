@@ -31,12 +31,43 @@ export interface BlogPost {
 }
 
 export const BLOG_CATEGORIES = [
+  'Allgemein',
+  'Usability',
+  'E-Mail Marketing',
+  'CX Analytics',
+  'B2B',
+  'Meinungen',
+  'Lead Management',
+  'Marketing Automation',
+  'News',
+  'Intern',
+  'Projekte',
+  'Beratung',
+  'Big Data',
+  'Online Marketing',
+  'Contact Center',
+  'Change',
+  'Begeisterung',
+  'Account Management',
+  'Akquise',
+  'Analyse',
+  'Bestandskunde',
+  'CRM',
+  'Event Marketing',
+  'Digitaler Wandel',
+  'Social Media',
   'Compliance',
   'AML',
-  'Risk Advisory',
   'Strategie',
-  'Mandate',
-  'Allgemein'
+  'Data Management',
+  'Customer Relationship',
+  'Erfolg',
+  'Customer',
+  'Leadgenerierung',
+  'Marketing Outsourcing',
+  'Marketing Automation Systeme',
+  'Webinare',
+  'digital'
 ] as const;
 
 export type BlogCategory = (typeof BLOG_CATEGORIES)[number];

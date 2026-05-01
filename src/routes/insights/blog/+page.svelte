@@ -56,7 +56,7 @@
       .sort((a, b) => counts[b] - counts[a]);
   });
 
-  const MAX_VISIBLE = 4;
+  const MAX_VISIBLE = 10;
   const hasMoreCategories = $derived(sortedCategories.length > MAX_VISIBLE);
   const visibleCategories = $derived(
     categoriesExpanded ? sortedCategories : sortedCategories.slice(0, MAX_VISIBLE)
