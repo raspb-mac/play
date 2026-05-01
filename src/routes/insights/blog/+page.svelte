@@ -8,6 +8,7 @@
   let activeCategory = $state<string | 'all'>('all');
   let query = $state('');
   let currentPage = $state(1);
+  let categoriesExpanded = $state(false);
   const PER_PAGE = 5;
 
   // Sort newest first, then filter by category, then by query
@@ -47,6 +48,19 @@
     }
     return map;
   });
+
+  // Categories sorted by count (most articles first)
+  const sortedCategories = $derived.by(() => {
+    return BLOG_CATEGORIES
+      .filter((c) => counts[c] > 0)
+      .sort((a, b) => counts[b] - counts[a]);
+  });
+
+  const MAX_VISIBLE = 4;
+  const hasMoreCategories = $derived(sortedCategories.length > MAX_VISIBLE);
+  const visibleCategories = $derived(
+    categoriesExpanded ? sortedCategories : sortedCategories.slice(0, MAX_VISIBLE)
+  );
 
   function open(slug: string) {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -110,20 +124,20 @@
 <Section spacing="lg" container="wide" accent>
   <!-- Filter & Suche -->
   <div class="filter-bar">
-    <div class="chips" role="tablist" aria-label="Kategorie">
-      <button
-        type="button"
-        role="tab"
-        class="chip"
-        class:active={activeCategory === 'all'}
-        aria-selected={activeCategory === 'all'}
-        onclick={() => setCategory('all')}
-      >
-        <span>Alle</span>
-        <span class="chip-count">{counts.all}</span>
-      </button>
-      {#each BLOG_CATEGORIES as cat (cat)}
-        {#if counts[cat] > 0}
+    <div class="filter-row">
+      <div class="chips" role="tablist" aria-label="Kategorie">
+        <button
+          type="button"
+          role="tab"
+          class="chip"
+          class:active={activeCategory === 'all'}
+          aria-selected={activeCategory === 'all'}
+          onclick={() => setCategory('all')}
+        >
+          <span>Alle</span>
+          <span class="chip-count">{counts.all}</span>
+        </button>
+        {#each visibleCategories as cat (cat)}
           <button
             type="button"
             role="tab"
@@ -135,26 +149,44 @@
             <span>{cat}</span>
             <span class="chip-count">{counts[cat]}</span>
           </button>
+        {/each}
+        {#if hasMoreCategories && !categoriesExpanded}
+          <button
+            type="button"
+            class="chip chip-expand"
+            onclick={() => (categoriesExpanded = true)}
+          >
+            <span>+{sortedCategories.length - MAX_VISIBLE} weitere</span>
+          </button>
         {/if}
-      {/each}
-    </div>
+        {#if categoriesExpanded && hasMoreCategories}
+          <button
+            type="button"
+            class="chip chip-expand"
+            onclick={() => (categoriesExpanded = false)}
+          >
+            <span>Weniger</span>
+          </button>
+        {/if}
+      </div>
 
-    <label class="search">
-      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <circle cx="11" cy="11" r="6" fill="none" stroke="currentColor" stroke-width="1.5"/>
-        <path d="M16 16 L 21 21" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-      </svg>
-      <input
-        type="search"
-        placeholder="Beiträge durchsuchen…"
-        bind:value={query}
-        oninput={() => (currentPage = 1)}
-        aria-label="Beiträge durchsuchen"
-      />
-      {#if query}
-        <button type="button" class="search-clear" onclick={() => (query = '')} aria-label="Suche zurücksetzen">×</button>
-      {/if}
-    </label>
+      <label class="search">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <circle cx="11" cy="11" r="6" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M16 16 L 21 21" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input
+          type="search"
+          placeholder="Beiträge durchsuchen…"
+          bind:value={query}
+          oninput={() => (currentPage = 1)}
+          aria-label="Beiträge durchsuchen"
+        />
+        {#if query}
+          <button type="button" class="search-clear" onclick={() => (query = '')} aria-label="Suche zurücksetzen">×</button>
+        {/if}
+      </label>
+    </div>
   </div>
 
   <!-- Pagination info -->
@@ -249,7 +281,11 @@
   @reference '../../../app.css';
 
   .filter-bar {
-    @apply flex flex-wrap items-center justify-between mb-8 gap-6;
+    @apply mb-8;
+  }
+
+  .filter-row {
+    @apply flex flex-wrap items-center justify-between gap-6;
   }
 
   .chips {
@@ -274,7 +310,7 @@
     color: rgba(10, 21, 23, 0.78);
   }
 
-  .chip:hover {
+  .chip:hover:not(.chip-expand) {
     border-color: var(--brand-turquoise);
     color: var(--brand-turquoise);
   }
@@ -283,6 +319,16 @@
     background: var(--brand-turquoise);
     border-color: var(--brand-turquoise);
     color: var(--ink-3);
+  }
+
+  .chip-expand {
+    border-style: dashed;
+    opacity: 0.7;
+  }
+  .chip-expand:hover {
+    opacity: 1;
+    border-color: var(--brand-turquoise);
+    color: var(--brand-turquoise);
   }
 
   .chip-count {
