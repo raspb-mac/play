@@ -12,11 +12,11 @@ teaser: "Heute wieder ein kleines gut verdauliches Webdesign-Secret: Differenzie
 
 Heute wieder ein kleines gut verdauliches Webdesign-Secret: Differenzieren Sie sich. Das bedeutet, sich von anderen Mitbewerbern klar abzugrenzen und Position zu beziehen.
 
-Dass man auf gewisse Weise einzigartig mit seinem Webauftritt sein soll, haben wir ja bereits behandelt (Webdesign-Secrets 4) , aber man kann nicht deutlich genug sagen, wie wichtig es ist, herauszustechen, sich von anderen abzuheben, sich zu differenzieren.
+Dass man auf gewisse Weise einzigartig mit seinem Webauftritt sein soll, haben wir ja bereits behandelt [(Webdesign-Secrets 4)](http://blog.strateco.de/post/2011/10/28/webdesign-secrets-4-seien-sie-unverwechselbar.aspx), aber man kann nicht deutlich genug sagen, wie wichtig  es ist, herauszustechen, sich von anderen abzuheben, sich zu differenzieren.
 
 Wenn Sie sich nicht von anderen Anbietern unterscheiden, werden Sie in der Flut der Wettbewerber untergehen, weil die Zielgruppe ihr Interesse verliert – Weil nichts hängen bleibt. Darüber hinaus ist es notwendig, dass direkt ersichtlich ist, was Sie anbieten und was Sie einzigartig macht.
 
-Wenn jemand Ihre Seite besucht, kann der Besucher direkt und mit Sicherheit sagen: „Dies ist eine … Webseite“?
+> Wenn jemand Ihre Seite besucht, kann der Besucher direkt und mit Sicherheit sagen: „Dies ist eine … Webseite“?
 
 Sie sehen also, dass es von Bedeutung ist, einen klaren, sauberen Eindruck zu hinterlassen und direkt zu vermitteln, was ihre Homepage macht – welchen Mehrwert man durch die Benutzung hat. Was sagt Ihre Webseite über Sie als Unternehmen aus? Was sagt jede einzelne Unterseite über Sie aus?
 
@@ -29,3 +29,8 @@ Sagen Sie, was Sie sind – aber genauso was Sie nicht sind – sollte es denn v
 Sie haben Angst – durch die direkte Ansprache – einige Nutzer zu vergraulen? Das ist nachvollziehbar. Aber versuchen Sie sich klar zu machen, dass Sie ebensoviele Nutzer vergraulen, wenn Sie nicht klar äußern, wofür Sie stehen. Wenn Sie eine Position einnehmen und sich selbst abgrenzen, werden Sie anfangen etwas zu sein. Und es wird etwas sein, was manche Leute nicht wollen, aber gleichzeitig wird es auch als etwas wahrgenommen, was andere – genau so, wie es ist – sich wünschen.
 
 Für jeden Interessenten, den sie so ggf. verlieren, werden Sie sich das Vertrauen anderer verdienen. Der einzige, sichere Weg zu scheitern, ist der nichts zu sein. Nichts Halbes und nichts Ganzen. Nicht Fisch, nicht Fleisch. Aber auch wenn Sie andererseits versuchen, alles für jeden zu sein, wird es damit enden, dass Sie nichts aussagen – zu niemanden.
+
+- 
+- 
+- 
+-

@@ -17,3 +17,8 @@ Das alles ist keine „rocket science“ mehr. Sondern eher ein einfacher Einsti
 So können Sie beispielsweise schon vor einem anstehenden Messeauftritt erfahren, wer wahrscheinlich an Ihren Stand kommen wird. So können z.B. alle Interessenten, die sich über ein elektronisches Ausstellerverzeichnis über Sie informiert haben, vorab identifiziert und damit auch nochmal gezielt eingeladen werden. Oder aber diejenigen, die bei Ihnen am Stand waren und im Nachgang noch weitere Informationen auf der Website eingeholt haben – eine Steilvorlage für eine effektive Marketingkampagne!
 
 Neugierig? Dann probieren sie es doch einfach mal bei Ihrem nächsten Messeauftritt aus! Das alles kostet weit weniger, als Sie vielleicht denken – sprechen Sie uns einfach an!
+
+- 
+- 
+- 
+-

@@ -14,10 +14,15 @@ Das klassische E-Mail-Marketing ist nach wie vor ein zentraler Kanal für den Ku
 
 Nachrichten werden personalisiert, meistens in der Anrede und bei einigen wenigen sogar in den Inhalten. Ein erster Schritt in Richtung „Relevanz des Content“. Nur so werden Unternehmen zukünftig mit Ihren Botschaften überhaupt noch erhört bzw. wahrgenommen. Auch eine einfache Segmentierung seiner Kunden mit darauf abgestimmten Inhalten erhöht die Klickraten und damit auch den Erfolg von Kampagnen deutlich.
 
-Noch immer gehen einige Unternehmen auch davon aus, getreu dem Motto „viel hilft viel“, dass eine Erhöhung der Versandfrequenz auch gleichzeitig den Erfolg steigert – ein echter Irrglaube, denn genau das Gegenteil ist der Fall. Wer die Kontaktfrequenz erhöht, riskiert einen deftigen Anstieg der Abmelderaten. Der Ausweg hier ist dabei ganz einfach – geben Sie dem Kunden über ein „Preference Center“ selbst die Kontrolle über Inhalt und Frequenz der Nachrichten. Er wird es Ihnen danken.
+Noch immer gehen einige Unternehmen auch davon aus, getreu dem Motto „viel hilft viel“, dass eine Erhöhung der Versandfrequenz auch gleichzeitig den Erfolg steigert – ein echter Irrglaube, denn genau das Gegenteil ist der Fall. Wer die Kontaktfrequenz erhöht, riskiert einen deftigen Anstieg der Abmelderaten. Der Ausweg hier ist dabei ganz einfach – geben Sie dem Kunden über ein [„Preference Center“](http://www.silverpop.com/marketing-resources/webinars/Develop%20a%20World-Class%20Preference%20Center%20-Webinar.html) selbst die Kontrolle über Inhalt und Frequenz der Nachrichten. Er wird es Ihnen danken.
 
 Ein zentrales Problem bleibt aber nahezu immer bestehen: Nach wie vor werden Nachrichten dann verschickt, wenn das Unternehmen – oder besser gesagt der Marketingverantwortliche – es für richtig hält, und nicht wenn der Kunden es möchte. Dabei ist es von der technologischen Seite eigentlich ganz einfach. Eine intelligente Marketing Automation Plattform erlaubt es Unternehmen, vielfältige Kampagnen, Programme und Regeln einfach anzulegen, und erst dann starten zu lassen, wenn der Kunde bestimmte trigger auslöst.
 
 Kurz gesagt – erst wenn er sich auf der Webseite für ein Angebot interessiert, wird er über das entsprechende Produkt informiert. Der Kunde selbst bestimmt, WANN der richtige Zeitpunkt ist und WAS der für ihn spannende Inhalt ist. Und er wird darüber begeistert sein. Das beste daran: Keiner muss mehr eine Kampagne versenden. Einmal aufgesetzt, läuft das ganze „System“ automatisch. Alles was zu tun ist, betrifft rein die Kontrolle der Ergebnisse und die Optimierung.
 
-Dies ist nur eine Facette, wie „Behavioural Marketing“ auf Basis einer leistungsfähigen Marketing Automation Plattform dabei hilft, den Kundendialog zu verbessern. Lust auf mehr Ideen für Ihr Unternehmen? Sprechen Sie uns an!
+Dies ist nur eine Facette, wie [„Behavioural Marketing“](http://www.strateco.de/Themen/Marketing/Behavioural-Marketing) auf Basis einer leistungsfähigen [Marketing Automation Plattform](http://www.strateco.de/Themen/Marketing/Marketing-Automation) dabei hilft, den Kundendialog zu verbessern. Lust auf mehr Ideen für Ihr Unternehmen? Sprechen Sie uns an!
+
+- 
+- 
+- 
+-

@@ -18,14 +18,13 @@ Ein wichtiger Aspekt bei den goldenen Fragen ist z.B. zu verstehen, was der Ents
 
 Es ist aber doch erstaunlich, wie viele Kundenverantwortliche in der Praxis diese Frage nicht oder nicht klar beantworten können. Manchmal ist ihnen die Bedeutung nicht bewusst, zuweilen wird einfach vergessen zu fragen, aber oft wird behauptet, das kriegt man sowieso nicht heraus. Falsch. Kunden haben in der Regel durchaus ein Interesse diese Frage zu klären, um verstanden zu werden und den richtigen Mehrwert zu erhalten.
 
-Man muss gar nicht verkaufen. Das Gegenteil ist oft erfolgreicher und das Prinzip ist ganz einfach: Erstens muss man die Fragen stellen, um zu verstehen, welcher Mehrwert durch das eigene Angebot generiert wird. Dann muss man exakt diese Werte kommunizieren und nachvollziehbar darlegen, um es dem Kunden einfacher zu machen zu kaufen . Somit wird man zum echten Berater statt zum Produktverkäufer.
+Man muss gar nicht verkaufen. Das Gegenteil ist oft erfolgreicher und das Prinzip ist ganz einfach: Erstens muss man die Fragen stellen, um zu verstehen, welcher Mehrwert durch das eigene Angebot generiert wird. Dann muss man exakt diese Werte kommunizieren und nachvollziehbar darlegen, um *es dem Kunden einfacher zu machen zu kaufen*. Somit wird man zum echten Berater statt zum Produktverkäufer.
 
 Somit ist es wichtig, sich auf die wesentlichen Fragen zu fokussieren. Dann kann man bei höherer Effizienz mehr Effektivität erzielen. Das bedeutet konkret, wichtige Erkenntnislücken zu schließen durch gezielte Aktivitäten, die die genaue Richtung angeben. Deswegen gilt in der Praxis: „I don’t know is a good answer“.
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Akquise Analyse ask B2B Berater consultant Customer einfachermachenzukaufen Entscheider Erfolg Erkenntnis Frage Fragen Insight KAM Key Account Management Kultur Kunde Kundenwert leichtermachenzukaufen listen makeiteasiertobuy Mehrwert Methode Praxis question Sales understand Value Vertrieb Wert white spot zuhören
+- 
+- 
+- 
+-

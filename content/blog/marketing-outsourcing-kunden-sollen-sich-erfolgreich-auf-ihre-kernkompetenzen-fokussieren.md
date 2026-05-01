@@ -22,8 +22,7 @@ Die Marketing-Organisation umzubauen und zukunftsfähig zu machen ist eine relev
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Benchmark Best Practice digital effektiv Effektivität effizient Effizienz Erfahrung Erfolg erfolgreich Erfolgsfaktor Experte Expertise extern Fähigkeit Fokus fokussieren Kernkompetenz Kompetenz konzentrieren makeorbuy Marketing Mitarbeiter Organisation Outsourcing Partner Praxis qualifiziert Qualität Ressource Strategie Synergie Transformation Umsetzung Wandel Werkbank Wertschöpfung Wettbewerbsvorteil
+- 
+- 
+- 
+-

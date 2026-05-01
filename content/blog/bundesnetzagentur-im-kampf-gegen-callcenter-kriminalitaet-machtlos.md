@@ -10,4 +10,9 @@ image: "/uploads/bundesnetzagentur-im-kampf-gegen-callcenter-kriminalitaet-macht
 teaser: "Am 4. August 2009 ist ein Gesetz in Kraft getreten, dass unerlaubte Telefonwerbung bekämpfen und Verbraucherrechte bei besonderen Vertriebsformen stärken soll. Doch es häufen sich die Beschwerden…"
 ---
 
-Am 4. August 2009 ist ein Gesetz in Kraft getreten, dass unerlaubte Telefonwerbung bekämpfen und Verbraucherrechte bei besonderen Vertriebsformen stärken soll. Doch es häufen sich die Beschwerden bei der Bundesnetzagentur, die leider hoffnungslos überlastet ist. Über die Auswüchse der CallCenter-Kriminalität berichtet Gunnar Sohn .
+Am 4. August 2009 ist ein Gesetz in Kraft getreten, dass unerlaubte Telefonwerbung bekämpfen und Verbraucherrechte bei besonderen Vertriebsformen stärken soll.  Doch es häufen sich die Beschwerden bei der Bundesnetzagentur, die leider hoffnungslos überlastet ist. Über die Auswüchse der CallCenter-Kriminalität berichtet [Gunnar Sohn](http://gunnarsohn.wordpress.com/2010/07/12/bundesnetzagentur-im-kampf-gegen-call-center-kriminalitat-machtlos-%E2%80%93-was-nun-frau-aigner/).
+
+- 
+- 
+- 
+-

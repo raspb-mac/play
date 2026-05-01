@@ -12,7 +12,7 @@ teaser: "Laut der Ökonomen ist Vertrieb ein Hauptprozess im Unternehmen. Aber b
 
 Laut der Ökonomen ist Vertrieb ein Hauptprozess im Unternehmen. Aber braucht man Vertrieb wirklich? ‚Qualität und gute Produkte verkaufen sich doch von selbst.‘ ‚Was soll denn der Kunde sonst kaufen?‘ Zudem: Ist Vertrieb nicht einfach nur ein „verticken von Produkten“ oder „mit Marktgeschrei die Angebote an den Mann bringen“? ‚Die im Vertrieb müssen doch nur gut reden können.‘ ‚Ein Vertriebler muss doch nur das Produkt gut kennen.‘
 
-Wir sagen nein: Vertrieb bedeutet in erster Linie mal, den Kunden zu verstehen. Die Kernaufgabe im Vertrieb ist zu verstehen, was der Kunden erreichen will und warum. Das resultiert darin vor allem zuhören und die richtigen Fragen stellen. Erst so hat man im Vertrieb die Chance, die Strategie des Kunden zu verstehen. Nur mit dem Hintergrundwissen kann ein Vertriebler beurteilen, welcher Teil des eigenen Angebotes die Strategie des Kunden unterstützt. Das ist der sogenannten ‚ sweet spot ‘. Den gilt es herauszukristallisieren.
+Wir sagen nein: Vertrieb bedeutet in erster Linie mal, den Kunden zu verstehen. Die Kernaufgabe im Vertrieb ist zu verstehen, was der Kunden erreichen will und warum. Das resultiert darin vor allem zuhören und die richtigen Fragen stellen. Erst so hat man im Vertrieb die Chance, die Strategie des Kunden zu verstehen. Nur mit dem Hintergrundwissen kann ein Vertriebler beurteilen, welcher Teil des eigenen Angebotes die Strategie des Kunden unterstützt. Das ist der sogenannten ‚*sweet spot*‘. Den gilt es herauszukristallisieren.
 
 Dazu gilt es zu analysieren, was man weiß und was man nicht weiß (die weiße Flecken oder Erkenntnislücken). Diese Lücken sollten durch gezielte Fragen geschlossen werden. Kommunikation spielt im Vertrieb eine wichtige Rolle. Aber Fragen spielen anfangs eine wesentlich bedeutendere Rolle als eigene Aussagen zu treffen.
 
@@ -24,8 +24,7 @@ Nun nimmt der Kunde den Vertriebler als Partner auf Augenhöhe wahr, weil er sel
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: beraten Berater consult consultant Customer decision decision maker Entscheider Erkenntnis Insight Kunde Mehrwert Sales sweet spot Value Vertrieb Wert
+- 
+- 
+- 
+-

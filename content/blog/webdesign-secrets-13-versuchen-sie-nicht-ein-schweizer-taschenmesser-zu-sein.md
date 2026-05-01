@@ -29,3 +29,8 @@ Wenn Ihre Homepage also versucht alles auf einmal zu präsentieren, was sie anbi
 Das wiederum bedeutet, dass Ihre Webseite sich für jeden Service und jedes Produkt, das sie anbieten, als schwach darstellt. Das führt dazu, dass die Seite eine schlechte Platzierung für jeden einzelnen Ihrer Suchbegriffe erzielt. Und da wir hier vom Internet sprechen, ist Ihr Versäumnis direkt sichtbar und Sie können darauf wetten, dass es eine ganze Reihe anderer Seiten gibt, die das ganz spezielle Tool anbieten, und nur darauf warten so den Traffic für sich zu beanspruchen.
 
 Wenn Sie Hilfe brauchen, Ihre Webseite gezielt auszurichten, um den maximalen Traffic zu generieren und damit die maximale Konvertierung zu erreichen, sprechen Sie uns an.
+
+- 
+- 
+- 
+-

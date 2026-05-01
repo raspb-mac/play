@@ -28,8 +28,7 @@ Collaboration im Sales Team ist die Grundlage zum Erfolg von Unternehmen, denn U
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Collaboration Customer Erfolg Führung Fußball Gemeinsamer Geist Haltung KAM Key Account Management Kultur Kunde leadership Mannschaft Methode Personal Prozess Sales Team spirit Sprache Team Verhalten Vertriebsteam Wert wertgeschätzt Zusammenarbeit
+- 
+- 
+- 
+-

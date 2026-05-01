@@ -14,4 +14,9 @@ Das absolute Highlight des Marketingjahres ist ohne Frage die jedes Jahr im Herb
 
 Umso mehr freuen wir uns, dieses Jahr als Sponsor der Markengala 2018 mit dabei sein zu können. Wir freuen uns auf anregenden Dialog mit Kunden und der bundesweiten Marketing-Community. Ebenso auf die Verleihung des Marketing Preises „das goldene Brandeisen“ und des Nachwuchspreises – der „Frankfurter Sprungfeder“.
 
-Weitere Informationen finden Sie auf der Webseite der Markengala – seien Sie gespannt!
+Weitere Informationen finden Sie auf der [Webseite der Markengala](https://www.markengala.de) – seien Sie gespannt!
+
+- 
+- 
+- 
+-

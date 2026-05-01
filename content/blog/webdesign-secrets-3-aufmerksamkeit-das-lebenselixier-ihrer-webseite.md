@@ -18,10 +18,20 @@ Die Aufgabe des Webdesigners ist es, die initiale Aufmerksamkeit zu erhalten, wa
 
 Des Weiteren muss der Besucher „angefixt“ bleiben, damit die gesamte Botschaft mitgeteilt werden kann. Das finale Ziel sollte sein, die Aufmerksamkeit auf einen Call-To-Action (Handlungsaufforderung) zu lenken. Am Ende soll schließlich eine Aktion ausgeführt werden:
 
-einen Einkauf / eine Bestellung tätigen etwas downloaden einen Rückruf beantragen ein Kontaktformular ausfüllen die Suche (innerhalb der Seite) verfeinern oder eine Folgeseite aufrufen
+- einen Einkauf / eine Bestellung tätigen
+- etwas downloaden
+- einen Rückruf beantragen
+- ein Kontaktformular ausfüllen
+- die Suche (innerhalb der Seite) verfeinern
+- oder eine Folgeseite aufrufen
 
 … eben alles, was die Aufmerksamkeit eines Besuchers erhält und ihn dazu bewegt auf der Seite weiter zu gehen und zu verweilen.
 
 Je mehr Elemente auf der Seite verbaut sind und um die Aufmerksamkeit des Nutzers konkurrieren, desto mehr wird das Kontingent an Aufmerksamkeit zwischen allen Gestaltungselementen verteilt und der Fokus geht verloren.
 
-Der Trick dabei ist, Einfachheit mit den richtigen Anreizen ins Gleichgewicht zu bringen und dabei den Besucher unaufdringlich zur Handlung zu bewegen. Je mehr Details Sie im Gesamtpaket unterbringen, desto weniger Aufmerksamkeit wird für das eigentlichen Produkt verbleiben – Gestalten Sie daher vor allem Ihre Inhalte und nicht die Box in der diese ausgeliefert werden.
+Der Trick dabei ist, Einfachheit mit den richtigen Anreizen ins Gleichgewicht zu bringen und dabei den Besucher unaufdringlich zur Handlung zu bewegen. Je mehr Details Sie im Gesamtpaket unterbringen, desto weniger Aufmerksamkeit wird für das eigentlichen Produkt verbleiben – **Gestalten Sie daher vor allem Ihre Inhalte und nicht die Box in der diese ausgeliefert werden.**
+
+- 
+- 
+- 
+-

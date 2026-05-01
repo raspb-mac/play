@@ -10,7 +10,7 @@ image: "/uploads/man-kann-technologie-implementieren-aber-akzeptanz-muss-man-gew
 teaser: "Nur 24% der Befragten einer Studie von CSO Insights in 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment…"
 ---
 
-Nur 24% der Befragten einer Studie von CSO Insights in 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment beim CRM der übrigen ¾ Unternehmen aus? CRM soll doch einen strategischen Vorteil bringen und kein zusätzliches Hindernis im Alltag sein.
+Nur 24% der Befragten einer **[Studie von CSO Insights](https://www.csoinsights.com/blog/implementing-sales-technology-requires-sales-enablement-and-sales-operations-to-work-together/)** in 2018 sagten, dass das CRM System die Produktivität der Vertriebler signifikant erhöht. Ich frage mich: Wie sieht denn der Return On Investment beim CRM der übrigen ¾ Unternehmen aus? CRM soll doch einen strategischen Vorteil bringen und kein zusätzliches Hindernis im Alltag sein.
 
 Die genannte geringe Akzeptanzrate führt zu einer ineffektiven CRM Technologie Implementierung. Das Problem wird noch verschärft durch mangelndes Vertrauen in die Erfolgsgrundlage eines CRM Systems – die Daten. Denn ebenfalls nur 24% der Befragten gaben an, dass sie volles Vertrauen in die Daten des CRM Systems haben.
 
@@ -24,8 +24,7 @@ So kann man neben dem Verstand auch die Herzen der Menschen erreichen. Dann ist 
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Akzeptanz CRM Erfolg Feedback Fertigkeit Investment Menschen Methode Praxis Produktivität Prozess ROI Sales Technologie Tool Verständnis Vertrieb WARUM
+- 
+- 
+- 
+-

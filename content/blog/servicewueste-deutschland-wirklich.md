@@ -20,7 +20,7 @@ Da war es wieder, das untrügliche „genau-das-vermisse-ich-bei-Konzernen“-Ge
 
 Ich möchte einfach ehrlich und persönlich behandelt werden, soweit so selbstverständlich. Damit meine ich aber keinesfalls den künstlichen, hyperfreundlichen Umgangston, den viele Discounter gerade ihren Mitarbeitern verordnen (und der mich mindestens genauso nervt wie die)
 
-http://bit.ly/Verordnete_Freundlichkeit
+[http://bit.ly/Verordnete_Freundlichkeit](http://bit.ly/Verordnete_Freundlichkeit)
 
 Man kann zwar nicht erwarten, an jedem Counter gleich mit Namen angesprochen zu werden (in E-Mails eine Selbstverständlichkeit!), aber wenigstens der letzte aktenkundige Vorgang sollte doch mindestens genauso selbstverständlich zu Hand sein. Und warum muss ich eigentlich noch immer jedem neuen Mitarbeiter an der Hotline („Ich stelle Sie mal zum Kollegen durch“)die gleiche Litanei vorspulen, wenn mein Anliegen doch bereits im System vorliegt? Was Unternehmen in vielen Fällen fehlt, ist eine gewisse Flexibilität, nicht nur bei den Mitarbeitern, sondern auch der genutzten Systeme. Wenn Sie ein Armband suchen: Es gibt für jeden Look das Passende, von körperbetont bis strukturiert, von Manschetten bis hin zu Ketten und Manschetten.
 
@@ -30,4 +30,9 @@ Wenn mein Bäcker es schafft, eine digitale Stempelkarte in Form einer Smartphon
 
 Ach ja, das erhaltene Wechselgeld habe ich übrigens postwendend in neue Backwaren reinvestiert – eigentlich eine schöne Win/Win-Situation.
 
-high quality exact PUFF & BEAR Mini Einweg E-zigarette 3500 .
+**high quality exact [PUFF & BEAR Mini Einweg E-zigarette 3500](https://www.vapesshop.de/product-category/starter-kits/disposable-e-cigs/puff-bear-3500-puff/).**
+
+- 
+- 
+- 
+-

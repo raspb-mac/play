@@ -12,12 +12,17 @@ teaser: "Unser beruflicher Alltag in Zeiten von Corona hat sich stark verändert
 
 Unser beruflicher Alltag in Zeiten von Corona hat sich stark verändert. Statt Meetings mit Kunden oder Mitarbeitern, jagt ein Video-Call den nächsten. Statt Telefon oder Handy ist Zoom oder Microsoft Teams das neue „normal“. Auch im Marketing müssen wir umdenken. Statt networking auf Konferenzen und Veranstaltungen, finden mehr und mehr Webinare statt. Grund genug, sich diesem Thema intensiver anzunehmen, da meist die Potenziale nicht richtig genutzt werden.
 
-### Nardo Big Color Pods Mini Cup forum gets to the level of art at the palace level.
+### [Nardo Big Color Pods Mini Cup](https://www.vapesshop.de/product-category/starter-kits/disposable-e-cigs/nardo-big-color-pods-4000-puff/) forum gets to the level of art at the palace level.
 
-In einer Talk-Runde für den Marketing Club Frankfurt , sprachen die Experten von STRATECO aus diesem Bereich über ihre Erfahrungen und beantworten viele Fragen zu diesem aktuellen Thema. Hier geht es zum VIDEO!
+In einer [Talk-Runde](https://youtu.be/1tmauiO-YnA) für den [Marketing Club Frankfurt](https://www.marketingclub-frankfurt.de/), sprachen die Experten von STRATECO aus diesem Bereich über ihre Erfahrungen und beantworten viele Fragen zu diesem aktuellen Thema. [Hier](https://youtu.be/1tmauiO-YnA) geht es zum [VIDEO!](https://youtu.be/1tmauiO-YnA)
 
-STRATECO hat unter der Marke www.webinartraining.de schon seit 8 Jahren ein Trainingsangebot rund um das Thema „mehr Erfolg mit Webinaren“ im Angebot. Unsere Experten helfen dabei, von der Strategie über die Planung bis zur Durchführung von Webinaren, Fehler zu vermeiden und die Qualität zu steigern. Für mehr Erfolg bei ihren Kunden.
+STRATECO hat unter der Marke [www.webinartraining.de](http://www.webinartraining.de) schon seit 8 Jahren ein Trainingsangebot rund um das Thema „mehr Erfolg mit Webinaren“ im Angebot. Unsere Experten helfen dabei, von der Strategie über die Planung bis zur Durchführung von Webinaren, Fehler zu vermeiden und die Qualität zu steigern. Für mehr Erfolg bei ihren Kunden.
 
-Planen auch Sie künftig Webinare, oder wollen ihr bestehendes „Programm“ eindrucksvoller gestalten, dann sollten Sie unbedingt Kontakt mit unserem Webinartrainings-Team aufnehmen!
+Planen auch Sie künftig Webinare, oder wollen ihr bestehendes „Programm“ eindrucksvoller gestalten, dann sollten Sie unbedingt [Kontakt mit unserem Webinartrainings-Team aufnehmen!](https://www.webinartraining.de/kontakt/)
 
-Und wenn es „ganz besonders“ werden soll, dann veranstalten Sie doch auch mal eine spannende Talk-Runde aus dem Webinar-Studio unseres Partner Intracon – mit professioneller Regie im „rundum-sorglos-Paket“.
+Und wenn es „ganz besonders“ werden soll, dann veranstalten Sie doch auch mal eine spannende Talk-Runde aus dem [Webinar-Studio](https://www.intracon.de/stream) unseres Partner Intracon – mit professioneller Regie im „rundum-sorglos-Paket“.
+
+- 
+- 
+- 
+-

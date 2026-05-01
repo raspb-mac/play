@@ -18,4 +18,9 @@ Danach haben Hartmut Renz und Maximilian Scheurer vom österreichischen BMF sich
 
 Alles in allem eine tolle Veranstaltung mit vielen wertvollen Erkenntnisse – wir sind auch im nächsten Jahr sicher wieder dabei!
 
-Mehr zum Event finden Sie hier .
+Mehr zum Event finden Sie [hier](https://businesscircle.at/compliance/konferenz/compliance-now).
+
+- 
+- 
+- 
+-

@@ -16,12 +16,11 @@ Das Ziel ist, den ROI eines CRM Investments signifikant zu erhöhen. Dabei ist e
 
 …
 
-Link zum Artikel auf SMARTER SERVICE
+**[Link zum Artikel auf SMARTER SERVICE](https://www.smarter-service.com/2018/02/20/smart-crm-wie-digitale-daten-und-wertorientiertes-denken-das-crm-erneuern/)**
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: analytical CRM analytics CRM CRM analytics digital data Erkenntnis Insight intelligence Kunde Kundenbeziehung Listening Mehrwert Methode mind set relevant Return Return on Investment ROI Sales smart CRM Smart Data sweet spot tool set verstehen Vertrieb
+- 
+- 
+- 
+-

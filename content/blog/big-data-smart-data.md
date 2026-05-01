@@ -16,10 +16,15 @@ Eigentlich sollte der Marketing Manager dazu da sein, intelligente Kampagnen zu 
 
 Dabei ist die Lösung recht einfach: …
 
-Marketing Outsourcing . Seit Jahren arbeitet auch STRATECO für Kunden als „ausgelagerte Marketing Werkbank“ und übernimmt „on demand“ alle im Marketing Prozess anfallenden Aufgaben – von der Strategieentwicklung übder den technischen Setup bis hin zu Text und Kreation. Verwendung von „state of the art“ Tools und Methoden sowie Erfolgskontrolle inklusive.
+[Marketing Outsourcing](http://strateco.de/Themen/Marketing/Marketing-as-a-Service). Seit Jahren arbeitet auch STRATECO für Kunden als „ausgelagerte Marketing Werkbank“ und übernimmt „on demand“ alle im Marketing Prozess anfallenden Aufgaben – von der Strategieentwicklung übder den technischen Setup bis hin zu Text und Kreation. Verwendung von „state of the art“ Tools und Methoden sowie Erfolgskontrolle inklusive.
 
 Bei STRATECO stehen Spezialisten aus allen Disziplinen flexibel für Sie bereit – dies erlaubt Ihnen, sich wieder um das Wesentliche kümmern zu können: Die Entwicklung neuer Kampagnen-Ideen und guten Service für alle Bedarfsträger im Unternehmen!
 
-Dass Sie damit voll im Trend liegen, zeigen aktuelle Zahlen der im Auftrag von McKinsey durchgeführten CMO Survey der Duke University – die Quote der outgesourcten Marketing Aktivitäten bei den Befragungsteilnehmern ist über die letzten 12 Monate deutlich angestiegen, Tendenz weiter steigend!
+Dass Sie damit voll im Trend liegen, zeigen aktuelle Zahlen der im Auftrag von McKinsey durchgeführten [CMO Survey](http://cmosurvey.org/results/) der Duke University – die Quote der outgesourcten Marketing Aktivitäten bei den Befragungsteilnehmern ist über die letzten 12 Monate deutlich angestiegen, Tendenz weiter steigend!
 
-Also – worauf warten? Schaffen Sie sich auch mehr Zeit für’s Wesentliche! Wir freuen uns auf Ihren Anruf…
+Also – worauf warten? Schaffen Sie sich auch mehr Zeit für’s Wesentliche! Wir freuen uns auf [Ihren Anruf…](http://www.strateco.de/kontakt)
+
+- 
+- 
+- 
+-

@@ -22,12 +22,11 @@ Prozesse werden durch Blockchain transparenter, günstiger und sicherer. Zukünf
 
 Zusammenfassend kann man sagen, dass die Blockchain eine jungen Datenbanktechnologie ist, die Transaktionen sammelt, zu Blöcken bündelt, verifiziert validiert, verschlüsselt und in einem verteiltem Netzwerk zur Verfügung stellt. Nicht jede IT-Anwendung benötigt eine Blockchain, aber viele Geschäftsmodelle werden sich ändern und neue dadurch entstehen. Manche weisen der Blockchain eine vergleichbare Bedeutung zu wie damals die Einführung des Internets.
 
-Quelle: Computerwoche
+[Quelle: Computerwoche](https://www.computerwoche.de/a/die-grundlagen-von-blockchain,3330054)
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Blockchain business model digital Digitalisierung Distributed Ledger Geschäftsmodell Innovation innovativ smart contract Veränderung
+- 
+- 
+- 
+-

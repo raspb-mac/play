@@ -20,4 +20,9 @@ Während der Veranstaltung können Sie sich direkt bei den Nuance Partnern über
 
 Als besonderes Highlight wird die Praxistauglichkeit der Diktiersoftware Dragon NaturallySpeaking im Amazing Race auf den Prüfstand gestellt – Spracherkennung im Wettlauf gegen Deutschlands schnellsten SMS-Schreiber.
 
-Das Strateco Team konnte Nuance erfolgreich bei der Planung und Umsetzung der Veranstaltung unterstützen und freut sich auf einen informativen und abwechslungsreichen Kongress! Weitere Informationen gibt es unter www.nuance.de/conversationsdach
+Das Strateco Team konnte Nuance erfolgreich bei der Planung und Umsetzung der Veranstaltung unterstützen und freut sich auf einen informativen und abwechslungsreichen Kongress! Weitere Informationen gibt es unter [www.nuance.de/conversationsdach](http://www.nuance.de/conversationsdach)
+
+- 
+- 
+- 
+-

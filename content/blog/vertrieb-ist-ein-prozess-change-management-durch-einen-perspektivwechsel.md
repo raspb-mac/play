@@ -10,7 +10,7 @@ image: "/uploads/vertrieb-ist-ein-prozess-change-management-durch-einen-perspekt
 teaser: "Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb…"
 ---
 
-Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb gelandet.“, was ungerechtfertigter Weise nicht sehr viel Wertschätzung für diese wichtige Unternehmensdisziplin ausdrückt. Auf der anderen Seite fragen wir uns, was eigentlich vertrieben werden soll? Schlechte Produkte? Der Kunde? STRATECO dreht gerne die Sichtweise um, damit die Arbeit für die Vertriebler leichter wird und ein Perspektivwechsel beim erfolgreichen Change Management Prozess hilft.
+Unsere deutsche bzw. europäische Geschäftskultur hat stellenweise ein interessantes Verhältnis zum Thema Vertrieb oder Key Account Management. Es gibt Zitate aus Unternehmen wie „Ich bin im Vertrieb gelandet.“, was ungerechtfertigter Weise nicht sehr viel Wertschätzung für diese wichtige Unternehmensdisziplin ausdrückt.  Auf der anderen Seite fragen wir uns, was eigentlich vertrieben werden soll? Schlechte Produkte? Der Kunde? STRATECO dreht gerne die Sichtweise um, damit die Arbeit für die Vertriebler leichter wird und ein Perspektivwechsel beim erfolgreichen Change Management Prozess hilft.
 
 In den USA kann man Vertrieb studieren. Das ist für unsere Region zumindest ungewöhnlich, wenn auch inzwischen vereinzelt machbar an Hochschulen. In der Praxis wurde bisher zu wenig erkannt, dass Vertrieb ein Prozess ist, der Schritt für Schritt zum Erfolg führt. In Deutschland gib es für Alles einen Prozess. Nur Vertrieb machen wir aus dem Bauch. Das ist eine interessante Erkenntnis aus der Praxis.
 
@@ -22,8 +22,7 @@ Daraus wird z.B. auch ersichtlich, dass Branchenkenntnisse eine nicht so zentral
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Akquise Analyse B2B Change Customer Erkenntnis focus Fokus führen Insight KAM Key Account Management Kunde Lead management Leitfaden Mehrwert Methode Neukunde Praxis Prozess Sales Tool Value Vertrieb Wert
+- 
+- 
+- 
+-

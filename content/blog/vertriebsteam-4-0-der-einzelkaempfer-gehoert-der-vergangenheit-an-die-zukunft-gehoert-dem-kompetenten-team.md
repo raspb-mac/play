@@ -20,8 +20,7 @@ Entlang dieser zwei Achsen schließt sich dann wieder der Kreis. Es geht um Erke
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Big Data digital lead generation Erkenntnis führen Führung integriert Kunde Kundenwert modern Rolle sales for non-sales Service Smart Data strategisch Team Tool virtuel Wert
+- 
+- 
+- 
+-

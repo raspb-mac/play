@@ -10,7 +10,7 @@ image: "/uploads/interview-spezial-zur-corona-krise-teylor-im-gespraech-mit-stra
 teaser: "Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mit Hans-Peter Neeb , Strategieberater für den Mittelstand und Partner bei der STRATECO GmbH & Co. KG…"
 ---
 
-Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mit Hans-Peter Neeb , Strategieberater für den Mittelstand und Partner bei der STRATECO GmbH & Co. KG , über die Krise.
+*Die Corona-Krise betrifft vor allem auch kleine und mittelständische Unternehmen. Teylor sprach mit [Hans-Peter Neeb](https://www.xing.com/profile/HansPeter_Neeb/cv), Strategieberater für den Mittelstand und Partner bei der [STRATECO GmbH & Co. KG](https://www.wegrowyourbusiness.de), über die Krise.*
 
 Hans-Peter Neeb ist seit 20 Jahren als Strategieberater tätig. Im Laufe seiner Karriere hat er sowohl Großunternehmen wie Siemens als auch etliche Mittelständler beraten. Heute berät er als Partner bei STRATECO Firmen bezüglich ihrer strategischen Ausrichtung und ist im Mittelstandsnetzwerk des Bundesverbandes Mittelständische Wirtschaft in der Wirtschaftsregion Rhein-Main aktiv.
 
@@ -54,12 +54,15 @@ Wenn Anträge nicht zügig bearbeitet werden und man keine sofortige Rückmeldun
 
 Die Frage würde ich sogar allgemeiner über die Bankenbranche hinaus beantworten wollen. Wer jetzt noch nicht ausreichend digitalisiert hat, der wird es schwer haben die Krise zu bestehen. Es ist eigentlich tragisch, dass erst ein Virus kommen musste, um von der Notwendigkeit der Digitalisierung zu überzeugen. Hätte man sich vor Jahren eher auf die Digitalisierung vorbereitet, wären nun auch die Reibungsverluste bzw. Aufwände dafür nicht so hoch, um das nun ad hoc innerhalb weniger Tage nachzuholen.
 
-Artikel erstmals erschienen bei teylor.io am 2.4.2020 . Wir danken.
+Artikel erstmals erschienen bei [teylor.io am 2.4.2020](https://www.blog.teylor.io/untitled-13/). Wir danken.
 
-Hier können Sie mehr über die Arbeit und das Beratungsangebot von STRATECO erfahren.
+[Hier](https://www.strateco.de/startseite) können Sie mehr über die Arbeit und das Beratungsangebot von STRATECO erfahren.
 
-#### Lukas J. Hofer
+#### [Lukas J. Hofer](https://www.blog.teylor.io/author/lukas/)
 
 Lukas has years of experience in banking and financial services. He currently works as a consultant in Asia and is in charge of blogging for Teylor.
 
-TAGS: Bestandskunde Beziehung corona Krise Kunde Kundenbeziehung
+- 
+- 
+- 
+-

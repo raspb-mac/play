@@ -10,12 +10,27 @@ image: "/uploads/kundenbeispiel-mentiq.jpg"
 teaser: "Heute blicken wir auf ein spannendes Projekt aus dem letzten Jahr zurück – den Markenrelaunch unseres Kunden mentIQ . Was waren die Projektbestandteile und welche Leistungen hat STRATECO…"
 ---
 
-Heute blicken wir auf ein spannendes Projekt aus dem letzten Jahr zurück – den Markenrelaunch unseres Kunden mentIQ . Was waren die Projektbestandteile und welche Leistungen hat STRATECO beigetragen?
+Heute blicken wir auf ein spannendes Projekt aus dem letzten Jahr zurück – den Markenrelaunch unseres Kunden [mentIQ](https://www.mentiq.com/). 
+Was waren die Projektbestandteile und welche Leistungen hat [STRATECO](https://create.strateco.de/marketing/home/) beigetragen?
 
-Die Grundlage dieses Projekts waren die folgenden Projektbestandteile: # Relaunch Corporate Design und Identity # Web Design # Koordination der Website (inkl. Blog) Programmierung sowie Pflege der Website # Qualitätssicherung # Layout von inhouse Marketing Materialien # Themen Poster # Layout Werbemittel # Produktionshandling und Koordination Druckproduktion # Betreuung von Management Fotoshootings
+Die Grundlage dieses Projekts waren die folgenden Projektbestandteile:
+# Relaunch Corporate Design und Identity
+# Web Design
+# Koordination der Website (inkl. Blog) Programmierung sowie Pflege der Website
+# Qualitätssicherung
+# Layout von inhouse Marketing Materialien
+# Themen Poster
+# Layout Werbemittel
+# Produktionshandling und Koordination Druckproduktion
+# Betreuung von Management Fotoshootings
 
 Es war sehr interessant und spannend, gemeinsam mit den Geschäftsführern, Günter Maier (CEO) und Dietmar Ulrich (COO), die Werte, die Individualität und den sehr persönlichen Servicegedanken von mentIQ herauszuarbeiten und dem Ganzen ein neues modernes Gesicht zu geben – eine moderne Kommunikation in Form, Struktur und Inhalt, intern sowie extern.
 
-Gallery Container
+ Gallery Container 
 
-TAGS: Blog Corporate Design Fotoshootings Kunde Kundenbeziehung Kundenreferenz Markenrelaunch Marketing Materialien Projekt Website Werbemittel
+ Items Container 
+
+- 
+- 
+- 
+-

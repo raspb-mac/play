@@ -10,9 +10,9 @@ image: "/uploads/wie-viele-fehler-sind-zu-verzeihen.jpg"
 teaser: "Natürlich möchte man stets, dass Software fehlerfrei funktioniert und auch Kampagnen reibungslos laufen. Doch leider ist der Wunsch selten Realität. Je komplexer ein Vorhaben ist, desto…"
 ---
 
-Natürlich möchte man stets, dass Software fehlerfrei funktioniert und auch Kampagnen reibungslos laufen. Doch leider ist der Wunsch selten Realität. Je komplexer ein Vorhaben ist, desto wahrscheinlicher ist es, dass sich Fehler einschleichen. Warum sonst werden neue Applikationen intensiv getestet, bevor sie live gehen? – Man möchte ein einwandfreies Produkt liefern. Dieser Qualitätsanspruch ist gut und wichtig, denn wer an seine Kunden ein fehlerhaftes Produkt ausliefert, gefährdet nicht nur das Wohlwollen des Kunden, sondern auch seine Reputation.
+Natürlich möchte man stets, dass Software fehlerfrei funktioniert und auch Kampagnen reibungslos laufen. Doch leider ist der Wunsch selten Realität. Je komplexer ein Vorhaben ist, desto wahrscheinlicher ist es, dass sich Fehler einschleichen. Warum sonst werden neue Applikationen intensiv getestet, bevor sie live gehen? – Man möchte ein einwandfreies Produkt liefern.  Dieser Qualitätsanspruch ist gut und wichtig, denn wer an seine Kunden ein fehlerhaftes Produkt ausliefert, gefährdet nicht nur das Wohlwollen des Kunden, sondern auch seine Reputation.
 
-„Den FDIV-Bug leistete sich 1994 Intel mit seinem Pentium Prozessor, der mit bestimmten Werten falsche Ergebnisse bei einer Gleitkomma-Division erzeugte. Der Fehler wurde erst anderthalb Jahre nach der Markteinführung entdeckt und hatte für die wenigsten damaligen Anwendungen eine tatsächliche Auswirkung. Allerdings bedeutete der Fehler einen erheblichen (Image-)Schaden für Intel.“
+> „Den [FDIV-Bug](http://de.wikipedia.org/wiki/Pentium-FDIV-Bug) leistete sich 1994 Intel mit seinem Pentium Prozessor, der mit bestimmten Werten falsche Ergebnisse bei einer Gleitkomma-Division erzeugte. Der Fehler wurde erst anderthalb Jahre nach der Markteinführung entdeckt und hatte für die wenigsten damaligen Anwendungen eine tatsächliche Auswirkung. Allerdings bedeutete der Fehler einen erheblichen (Image-)Schaden für Intel.“
 
 Während ein Mangel an einem physischen Produkt meist offensichtlich ist, so sind Fehler in einem digitalen Erzeugnis tückischer, schwerer zu finden und erheblich schwerer zu beseitigen. Schließlich gibt es Abhängigkeiten und das Beseitigen eines Fehlers darf nicht das Auftauchen eines anderen begünstigen. Aber wie viel Fehler ist noch verzeihbar? Was kann man überhaupt als Fehler werten? Wie kleinlich muss der Maßstab angesetzt werden?
 
@@ -26,4 +26,9 @@ Gibt es hier einen Richtwert, einen Punkt, ab den man sagen kann, dass die Kampa
 
 Wir finden, dass jeder Bug-Report ernst genommen, aber auch relativiert werden muss. Mit Aussagen wie „Bei mir funktioniert das nicht!“ kann man in der Regel wenig anfangen. Nur eine exakte Fehlerbeschreibung hilft, den Fehler einzugrenzen und zu beseitigen. Am Ende war es vielleicht ja doch nur eine kurzzeitige Server-Downtime, veraltete Cache-Einträge oder das Defizit des Anwenders und die Suche nach einem Fehler, den es gar nicht gibt, war überflüssig. Dennoch sollte man jedem, der ein Fehler beobachtet, zuhören und das Anliegen ernst nehmen…
 
-Wie denkt Ihr darüber?
+**Wie denkt Ihr darüber?**
+
+- 
+- 
+- 
+-

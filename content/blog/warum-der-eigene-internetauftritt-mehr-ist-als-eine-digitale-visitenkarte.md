@@ -22,7 +22,9 @@ Auch wenn sich die Mehrheit der Unternehmen schon seit langem mit dem Netz und s
 
 ## Das Dilemma: Die Kosten sind transparent, der Mehrwert ist es nicht
 
-Zumindest die Ausgaben sind schnell zusammengestellt. Die Kosten für Setup, Betrieb, Support & Wartung sind leicht in der Buchhaltung zu erfragen. Wenn dazu auch noch Search Engine Marketing (SEM) bzw. Search Engine Advertising (SEA) betrieben wird, tauchen auch die Kosten für Google, Bing, Yahoo und Co. als laufende Kosten auf. Umgekehrt lässt sich aber der Nutzen der Website, sofern nicht ein eigener Onlineshop im Einsatz ist, viel schwerer beziffern. Häufig fallen dann Begriffe wie „Markenbekanntheit steigern“, „Präsenz zeigen“ oder „Neukunden gewinnen“. Aber wie wird dieser Nutzen gemessen?
+Zumindest die Ausgaben sind schnell zusammengestellt. Die Kosten für Setup, Betrieb, Support & Wartung sind leicht in der Buchhaltung zu erfragen. Wenn dazu auch noch Search Engine Marketing (SEM) bzw. Search Engine Advertising (SEA) betrieben wird, tauchen auch die Kosten für Google, Bing, Yahoo und Co. als laufende Kosten auf.
+
+Umgekehrt lässt sich aber der Nutzen der Website, sofern nicht ein eigener Onlineshop im  Einsatz ist, viel schwerer beziffern. Häufig fallen dann Begriffe wie „Markenbekanntheit steigern“, „Präsenz zeigen“ oder „Neukunden gewinnen“. Aber wie wird dieser Nutzen gemessen?
 
 Marketeers haben schnell die entsprechenden Key Performance Indikators (KPI’s) vulgo Google Analytics Auswertungen zur Hand. Da wird dann häufig von Page Impressions, Unique Visitors, Returning Visitors oder Verweildauer zu lesen sein. Diese Zahlen lügen natürlich nicht, sind aber für den Geschäftsführung und den Vertrieb wenig hilfreich. Oder glauben Sie, dass ein Sales-Mitarbeiter schwuppdiwupp sämtliche Unique Visitors abtelefoniert? Oder das die Geschäftsführung aus der Verweildauer schließen kann, welchen Eindruck das Unternehmen beim Besucher hinterlassen hat?
 
@@ -36,8 +38,17 @@ Was für den Besucher der Website selbstverständlich und praktisch ist, verursa
 
 ## Die Lösung? Den Nutzer identifizieren – und zwar ohne Eingriff in seine Privatsphäre
 
-Die Lösung liegt natürlich auf der Hand: Als Websitebetreiber versucht man dem Nutzer auf die Schliche zu kommen. Sei das über entsprechende Formulare, Cookies oder andere subtilere Formen der Identifikation. All diesen Mitteln ist gemein, dass Sie in Zeiten der NSA-Affäre, wiederkehrender Horrormeldungen über Webtracking und „Gläserner User“ beim Besucher zunehmend auf Skepsis stoßen. Dabei sind zumindest im B2B-Bereich häufig schon ein geringes Maß an Informationen hilfreich: Branche, Unternehmensgröße, Region und im Idealfall: Firmennamen. Mit diesen Informationen lassen sich dann zielgerichtet Leads an den Vertrieb übergeben und damit die Nutzenargumentation der Website signifikant steigern!
+Die Lösung liegt natürlich auf der Hand: Als Websitebetreiber versucht man dem Nutzer auf die Schliche zu kommen. Sei das über entsprechende Formulare, Cookies oder andere subtilere Formen der Identifikation. All diesen Mitteln ist gemein, dass Sie in Zeiten der NSA-Affäre, wiederkehrender Horrormeldungen über Webtracking und „Gläserner User“ beim Besucher zunehmend auf Skepsis stoßen.
+
+Dabei sind zumindest im B2B-Bereich häufig schon ein geringes Maß an Informationen hilfreich: Branche, Unternehmensgröße, Region und im Idealfall: Firmennamen.
+
+Mit diesen Informationen lassen sich dann zielgerichtet Leads an den Vertrieb übergeben und damit die Nutzenargumentation der Website signifikant steigern!
 
 ## Interesse? Sprechen Sie uns an!
 
 Die Umsetzung einer solchen Lösung ist denkbar einfach, die Kosten geringer als Sie vielleicht vermuten. Haben wir Ihr Interesse geweckt? Dann sprechen Sie uns einfach an! Gerne beantworten wir im persönlichen Gespräch weitere Fragen und vereinbaren eine kostenlose Testphase für ihre Website!
+
+- 
+- 
+- 
+-

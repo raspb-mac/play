@@ -14,6 +14,21 @@ Das Jahr neigt sich dem Ende zu und die Weihnachtsfeiertage stehen vor der Tür.
 
 Wir bedanke uns für die vertrauensvolle Zusammenarbeit und das Interesse an STRATECO und wünsche Ihnen allen ein gesegnetes Weihnachtsfest sowie Gesundheit und Erfolg für das kommende Jahr.
 
-Und nun das Ganze noch einmal als Text-Christbaum 🙂
+**Und nun das Ganze noch einmal als Text-Christbaum 🙂**
 
-Wir wünschen ein fröhliches Weihnachtsfest und ein glückliches, erfolgreiches Neues Jahr. Wir danken Ihnen herzlichst für die gute Zusammenarbeit und hoffen auf eine weitere, erfolgreiche Zukunft
+Wir
+wünschen
+ein fröhliches
+Weihnachtsfest
+und ein glückliches,
+erfolgreiches Neues Jahr.
+Wir danken Ihnen herzlichst
+für die gute Zusammenarbeit und
+hoffen auf eine weitere,
+erfolgreiche
+Zukunft
+
+- 
+- 
+- 
+-

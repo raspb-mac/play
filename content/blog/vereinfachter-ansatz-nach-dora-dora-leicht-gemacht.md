@@ -10,6 +10,9 @@ image: "/uploads/vereinfachter-ansatz-nach-dora-dora-leicht-gemacht.jpeg"
 teaser: "Die Zeit läuft für Banken und Finanzdienstleister – ab dem 17. Januar 2025 findet der Digital Operational Resilience Act (DORA) Anwendung und versetzt viele Unternehmen in Maßnahmenplanung und…"
 ---
 
-Die Zeit läuft für Banken und Finanzdienstleister – ab dem 17. Januar 2025 findet der Digital Operational Resilience Act (DORA) Anwendung und versetzt viele Unternehmen in Maßnahmenplanung und Projektstress. Eine Erleichterung versprach hier der „vereinfachte IKT-Risikomanagementrahmen“ für bestimmte „kleine“ Finanzunternehmen. Doch ist dies in der Praxis wirklich so und worauf muss dennoch geachtet werden? Dieser Frage geht der Artikel unserer Experten Hartmut T. Renz und Roger Thiel im IT Finanzmagazin nach, den Sie hier lesen können. Wir freuen uns auf Ihr Feedback oder Ihre Herausforderungen, bei denen wir Sie gerne unterstützen!
+Die Zeit läuft für Banken und Finanzdienstleister – ab dem 17. Januar 2025 findet der Digital Operational Resilience Act (DORA) Anwendung und versetzt viele Unternehmen in Maßnahmenplanung und Projektstress. Eine Erleichterung versprach hier der „vereinfachte IKT-Risikomanagementrahmen“ für bestimmte „kleine“ Finanzunternehmen. Doch ist dies in der Praxis wirklich so und worauf muss dennoch geachtet werden? Dieser Frage geht der Artikel unserer Experten Hartmut T. Renz und Roger Thiel im IT Finanzmagazin nach, den Sie [hier](https://www.it-finanzmagazin.de/vereinfachter-ansatz-nach-dora-anforderungen-208366/) lesen können. Wir freuen uns auf Ihr Feedback oder Ihre Herausforderungen, bei denen wir Sie gerne unterstützen!
 
-TAGS: Di­gi­tal Ope­ra­tio­nal Resi­li­ence Act DORA Regulatorik
+- 
+- 
+- 
+-

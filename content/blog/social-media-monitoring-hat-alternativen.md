@@ -20,4 +20,9 @@ Die Möglichkeiten sind schier unerschöpflich: Von Markforschung und Wettbewerb
 
 Dabei ist die Herangehensweise sehr einfach. Im Rahmen eines Pilotprojektes lassen sich bereits auf Basis von 10.000 aufgezeichneten Kundentelefonaten aussagekräftige Ergebnisse erzielen und echte Erkenntnisse aus dem Kundendialog gewinnen. Das kann auch vor Ort im eigenen Unternehmen geschehen – damit keine Kundendaten außer Haus gegeben werden müssen. Datenschutz wird ohnehin groß geschrieben, da weder auf den einzelnen Kunden, noch einzelne Agenten referenziert wird, sondern die Daten davon unabhängig analysiert werden.
 
-Für weitere Informationen zum Thema „Customer Experience Analytics“ steht Ihnen das Beraterteam von STRATECO jederzeit gerne zur Verfügung. In einem Termin vor Ort zeigen wir Ihnen, wie Sie diese Möglichkeiten auch für Ihr Unternehmen gewinnbringend einsetzen können – fordern Sie uns heraus!
+Für weitere Informationen zum Thema [„Customer Experience Analytics“](http://en.wikipedia.org/wiki/Customer_experience_analytics) steht Ihnen das Beraterteam von [STRATECO](http://www.strateco.de/) jederzeit gerne zur Verfügung. In einem Termin vor Ort zeigen wir Ihnen, wie Sie diese Möglichkeiten auch für Ihr Unternehmen gewinnbringend einsetzen können – fordern Sie uns heraus!
+
+- 
+- 
+- 
+-

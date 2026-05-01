@@ -16,15 +16,18 @@ Ich sagte zwar in einen meiner früheren Webdesign-Secrets, dass man eben nicht 
 
 Und Konventionen sind toll und können dabei hilfreich sein, wenn man Sie da einsetzt, wo sie nützlich für einen sind. Sie sind essentielle Lösungen die lange vor dem Internet gestaltet wurden. Sie funktionieren einfach und sind Bestandteil der allgemeinen „Werkzeugkiste“.
 
-Übliche Web-Konventionen umfassen:
+**Übliche Web-Konventionen umfassen:**
 
-Platzierung (Das Logo vermutet man in der oberen linken Ecke, Login-Möglichkeiten in der rechten oberen Ecke) Farben (Text ist üblicherweise schwarz [oder grau] auf einem weißen [oder zumindest hellem] Untergrund, Links sind standardmäßig blau) Icon-Sprache (schauen Sie doch mal in unseren Footer. Man muss nicht lange nachdenken, um zu wissen, dass der Briefumschlag beispielsweise eine Kontaktmöglichkeit symbolisiert)
+- Platzierung (Das Logo vermutet man in der oberen linken Ecke, Login-Möglichkeiten in der rechten oberen Ecke)
+- Farben (Text ist üblicherweise schwarz [oder grau] auf einem weißen [oder zumindest hellem] Untergrund, Links sind standardmäßig blau)
+- Icon-Sprache (schauen Sie doch mal in unseren Footer. Man muss nicht lange nachdenken, um zu wissen, dass der Briefumschlag beispielsweise eine Kontaktmöglichkeit symbolisiert)
 
 Es gibt buchstäblich tausende Konventionen, welche wir nicht einmal als solche wahrnehmen. Wir denken nicht darüber nach – was genau richtig so ist. Das ist der Grund, warum Konventionen funktionieren!
 
-Konventionen funktionieren, weil…
+**Konventionen funktionieren, weil…**
 
-Sie können sie einfach verwenden, ohne groß darüber nachzudenken oder wirklich viel Arbeit zu investieren. Leute, die Ihre Webseite besuchen können sie verstehen, ohne darüber nachzudenken, ohne sich etwas erarbeiten zu müssen.
+1. Sie können sie einfach verwenden, ohne groß darüber nachzudenken oder wirklich viel Arbeit zu investieren.
+2. Leute, die Ihre Webseite besuchen können sie verstehen, ohne darüber nachzudenken, ohne sich etwas erarbeiten zu müssen.
 
 Einige kreative Köpfe glauben, dass es ihre Aufgabe sei, andauernd neue Dinge zu entwickeln (das ist es, was wir unter ‚kreativ‘ verstehen?!). Sie denken, dass es nur darum geht, Webseitenbesucher jedes Mal aufs Neue zu überraschen, fehlzuleiten, sie zum Denken zu bringen. Das ist aber ein unausgegorener Ansatz. Tatsächlich ist es so, dass die meisten neuen Ansätze scheitern. Das ist wie ein Naturgesetz.
 
@@ -34,4 +37,9 @@ Also wann sollte man Konventionen folgen und wann ist es an der Zeit etwas Neues
 
 Überall da, wo es keine Konvention zu geben scheint, oder dort, wo keine Konvention das zu tun vermag, was ihr Design vorsieht, können Sie dann die ganze aufgestaute Kreativität rauslassen und etwas schaffen, was funktioniert. Etwas Einzigartiges, Innovatives, aber Funktionales, was wirklich schön ist.
 
-Bewahren Sie das Konventionelle (an einer Stelle), damit ein Besucher sich stets zurechtfindet und ohne zu überlegen Ihr Angebot nutzen kann. Nutzen Sie (an anderer Stelle) etwas Unkonventionelles, um sich abzugrenzen – um im Gedächtnis zu bleiben.
+**Bewahren Sie das Konventionelle (an einer Stelle), damit ein Besucher sich stets zurechtfindet und ohne zu überlegen Ihr Angebot nutzen kann. Nutzen Sie (an anderer Stelle) etwas Unkonventionelles, um sich abzugrenzen – um im Gedächtnis zu bleiben.**
+
+- 
+- 
+- 
+-

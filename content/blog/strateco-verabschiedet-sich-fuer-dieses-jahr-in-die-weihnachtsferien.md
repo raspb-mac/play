@@ -10,6 +10,15 @@ image: "/uploads/strateco-verabschiedet-sich-fuer-dieses-jahr-in-die-weihnachtsf
 teaser: "STRATECO wünscht besinnliche Feiertage und einen guten Rutsch sowie ein erfolgreiches Jahr 2015! Wir sind ab 5.1.2015 wieder am Start."
 ---
 
-STRATECO wünscht besinnliche Feiertage und einen guten Rutsch sowie ein erfolgreiches Jahr 2015!
+STRATECO wünscht besinnliche Feiertage
+
+und einen guten Rutsch sowie ein
+
+erfolgreiches Jahr 2015!
 
 Wir sind ab 5.1.2015 wieder am Start.
+
+- 
+- 
+- 
+-

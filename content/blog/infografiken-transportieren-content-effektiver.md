@@ -10,10 +10,19 @@ image: "/uploads/infografiken-transportieren-content-effektiver.jpg"
 teaser: "Informationen auf eingängige Weise zu verpacken, war und ist noch immer eine zentrale Herausforderung im Marketing. Gerade im Zeitalter des „Content Marketing“, in dem jeder Studien und Whitepaper…"
 ---
 
-Informationen auf eingängige Weise zu verpacken, war und ist noch immer eine zentrale Herausforderung im Marketing. Gerade im Zeitalter des „Content Marketing“, in dem jeder Studien und Whitepaper mit elementaren Erkenntnissen erstellt. Eine gute Alternative hierzu bieten Infografiken, in denen man seine „Message“ auf eingängige Art und Weise, auch gerne mit Humor, visuell ansprechend verpackt. Für unseren Kunden Concur , einen Anbieter von On-Demand-Lösungen rund um das Thema Reisekostenabrechnung , haben wir zum Beispiel die Ergebnisse einer Studie zu Geschäftsreisen mal etwas anders als Infografik aufbereitet!
+Informationen auf eingängige Weise zu verpacken, war und ist noch immer eine zentrale Herausforderung im Marketing. Gerade im Zeitalter des „Content Marketing“, in dem jeder Studien und Whitepaper mit elementaren Erkenntnissen erstellt. Eine gute Alternative hierzu bieten Infografiken, in denen man seine „Message“ auf eingängige Art und Weise, auch gerne mit Humor, visuell ansprechend verpackt. Für unseren Kunden [Concur](http://www.concur.com/de-de), einen Anbieter von On-Demand-Lösungen rund um das Thema [Reisekostenabrechnung](http://www.concur.com/de-de/travel-and-expense/reisekostenverwaltung), haben wir zum Beispiel die Ergebnisse einer [Studie zu Geschäftsreisen](http://www.concur.com/de-de/resource-center?modalNID=2811&resourceType=document?pid=social&cid=3d7bd4e) mal etwas anders als [Infografik](http://assets.concur.com/brochure/spend-trend-infografik-de.pdf) aufbereitet!
 
-Dafür sprechen einige gute Gründe:
+**Dafür sprechen einige gute Gründe:**
 
-Der ohnehin vorherrschende „Information Overload“ in Zeiten des Internet Über 80% des Lernens erfolgt beim Menschen visuell Liest man einen Textbeitrag, erinnert man sich maximal an 20% des Inhaltes Bilder erzeugen Emotionen, regen zum Schmunzeln, aber auch zum Nachdenken an Infografiken werden sehr viel öfter im Internet mit anderen geteilt – und verbreiten sich daher besser
+- Der ohnehin vorherrschende „Information Overload“ in Zeiten des Internet
+- Über 80% des Lernens erfolgt beim Menschen visuell
+- Liest man einen Textbeitrag, erinnert man sich maximal an 20% des Inhaltes
+- Bilder erzeugen Emotionen, regen zum Schmunzeln, aber auch zum Nachdenken an
+- Infografiken werden sehr viel öfter im Internet mit anderen geteilt – und verbreiten sich daher besser
 
 Klingt logisch und deckt sich mit Ihrer eigenen Erfahrung, oder? Also, worauf warten Sie noch? Sie haben guten Content – dann machen Sie Ihre Zielgruppe mit Infografiken darauf aufmerksam. Heben Sie sich ab von Ihren Wettbewerbern und werden Sie „bemerkenswert“ – wir von STRATECO helfen Ihnen gerne dabei!
+
+- 
+- 
+- 
+-

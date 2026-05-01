@@ -26,4 +26,9 @@ Am drastischsten für Unternehmen sind jedoch die Konsequenzen bei Nichtbeachtun
 
 Doch dies sind nur einige der neuen Herausforderungen, denen sich Unternehmen bis Mai 2018 stellen müssen. Mehr dazu lesen Sie im nächsten Blogbeitrag.
 
-Gerne informieren wir Sie auch in einem persönliche Gespräch, wie eine effektive Vorbereitung auf die neue EU-DSGVO für Ihr Unternehmen aussehen kann. Sprechen Sie uns einfach an oder besuchen unseren Workshop zum Thema am 20.09.2017.
+Gerne informieren wir Sie auch in einem persönliche Gespräch, wie eine effektive Vorbereitung auf die neue EU-DSGVO für Ihr Unternehmen aussehen kann. [Sprechen Sie uns einfach an](http://strateco.de/kontakt) oder besuchen unseren [Workshop zum Thema am 20.09.2017.](https://datenschutz.strateco.de/)
+
+- 
+- 
+- 
+-

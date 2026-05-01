@@ -16,7 +16,7 @@ Ganz ehrlich: Zu den falschen Projekten „ja“ zu sagen, ist der schlimmste Fe
 
 Hier ist eine kleine Geschichte, die vielleicht wahr ist – vielleicht aber auch nicht. Aber sie veranschaulicht etwas sehr gut…
 
-Es gibt eine Dame, die gerne einen bestimmten Mann treffen möchte. Aber dieser Mann hat einen Ruf weg, der nicht gerade für ihn spricht. Er ist gefühlt bereits mit jeder Frau der Stadt aus gewesen und hat sein Telefonbuch voll mit Nummern wie „Nicht dran gehen 1“ und „Nicht dran gehen 2“. Die Frau macht sich doch etwas sorgen, denn sie möchte nicht zu „Nicht dran gehen 3“ werden. Sie entscheidet sich also, das Gegenteil von dem zu tun, was all die anderen Frauen vor ihr gemacht haben. Sie sagte „nein“ und „vielleicht“ und „ich denke darüber nach“. Diese Haltung machte den Mann neugierig und er interessiert sich für sie. Mehr, als für alle anderen.
+Es gibt eine Dame, die gerne einen bestimmten Mann treffen möchte. Aber dieser Mann hat einen Ruf weg, der nicht gerade für ihn spricht. Er ist gefühlt bereits mit jeder Frau der Stadt aus gewesen und hat sein Telefonbuch voll mit Nummern wie „Nicht dran gehen 1“ und „Nicht dran gehen 2“. Die Frau macht sich doch etwas sorgen, denn sie möchte nicht zu „Nicht dran gehen 3“ werden. Sie entscheidet sich also, das Gegenteil von dem zu tun, was all die anderen Frauen vor ihr gemacht haben. Sie sagte „nein“ und „vielleicht“ und „ich denke darüber nach“.  Diese Haltung machte den Mann neugierig und er interessiert sich für sie. Mehr, als für alle anderen.
 
 Nein zu sagen kann also sehr effektiv sein und – wie die Geschichte zeigt – ist es eine Möglichkeit, ihr Angebot von all den anderen zu unterscheiden. Sich zu differenzieren wird immer wichtiger.
 
@@ -30,4 +30,9 @@ Wenn ein Kunde nach etwas fragt, was man selbst nicht anbietet, ist es besser ih
 
 Wenn man seine Fähigkeiten schwachbrüstig verteilt, macht man alles, aber irgendwie nichts wirklich gut. Man wäre nicht in der Lage den hohen Standard der Ergebnisse zu liefern, den der Kunde erwartet.
 
-Wann immer man nein zu einem Kunden oder Interessenten sagt (sagen muss). Tut man das mit einer gewissen Ehrlichkeit und es scheint Vertrauen auf- und nicht abzubauen!
+**Wann immer man nein zu einem Kunden oder Interessenten sagt (sagen muss). Tut man das mit einer gewissen Ehrlichkeit und es scheint Vertrauen auf- und nicht abzubauen!**
+
+- 
+- 
+- 
+-

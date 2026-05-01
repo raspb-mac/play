@@ -20,8 +20,7 @@ Die Auswirkungen sind, dass man Projekte mit höherer Erfolgswahrscheinlichkeit 
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Akzeptanz Anforderung authentisch Authentizität Berater Beratung Chance consultant consulting Customer customer focus Erfolg erfolgreich Gemeinschaft gemeinschaftlich hybrid Integration integriert Kultur kulturell Kunde Kundenfokus Management Methode mixed pragmatisch praktisch Praxis Projekt Projektmanagement Projektteam Prozess Qualifikation qualifiziert Qualität requirement Ressource share shared Team Veränderung Vertrauen vertrauensvoll WARUM Wie Workshop zusammen
+- 
+- 
+- 
+-

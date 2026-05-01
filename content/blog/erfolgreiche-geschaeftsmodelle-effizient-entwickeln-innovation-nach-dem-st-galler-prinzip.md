@@ -10,7 +10,7 @@ image: "/uploads/erfolgreiche-geschaeftsmodelle-effizient-entwickeln-innovation-
 teaser: "Die Universität St. Gallen hat mit dem Business Modell Navigator einen effizienten Ansatz entwickelt, um Geschäftsmodelle zu entwickeln: „Basierend auf erfolgreichen Mustern in anderen Industrien…"
 ---
 
-Die Universität St. Gallen hat mit dem Business Modell Navigator einen effizienten Ansatz entwickelt, um Geschäftsmodelle zu entwickeln: „Basierend auf erfolgreichen Mustern in anderen Industrien lässt sich die eigene Geschäftslogik revolutionieren. Über 90 Prozent aller Geschäftsmodellinnovationen sind Rekombinationen aus 55 Geschäftsmodellmustern. In diesem Werk werden diese Muster praxisorientiert vorgestellt und konkret gezeigt, wie sich mithilfe des praxisbewährten St. Galler Business Model Navigators innovative Geschäftsmodelle identifizieren und entwickeln lassen.“
+Die Universität St. Gallen hat mit dem [Business Modell Navigator](https://www.alexandria.unisg.ch/224981/)  einen effizienten Ansatz entwickelt, um Geschäftsmodelle zu entwickeln: „Basierend auf erfolgreichen Mustern in anderen Industrien lässt sich die eigene Geschäftslogik revolutionieren. Über 90 Prozent aller Geschäftsmodellinnovationen sind Rekombinationen aus 55 Geschäftsmodellmustern. In diesem Werk werden diese Muster praxisorientiert vorgestellt und konkret gezeigt, wie sich mithilfe des praxisbewährten St. Galler Business Model Navigators innovative Geschäftsmodelle identifizieren und entwickeln lassen.“
 
 Statt auf der grünen Wiese mit Kreativ-Workshops und ungerichteten Brainstormings zu Innovationen zu kommen, zeigt inzwischen auch die Praxis, dass es effizienter geht, wenn man sich Anleihen aus anderen Bereichen nimmt und überlegt wie die Erfolge dieser bestehenden Geschäftsmodelle in die eigene Branche zu übersetzen sind.
 
@@ -20,7 +20,7 @@ Es macht Sinn, an 1-2 Workshop Tagen in verschiedenen Arbeitsgruppen parallel zu
 
 Es ist übrigens ratsam Mitarbeiter aus ganz verschiedenen Abteilungen sowie Hierarchieebenen einzubinden. In der Phase 3 werden die Ergebnisse gesichtet, strukturiert, bewertet, priorisiert und aufbereitet. In der Phase 4 werden diese Ergebnisse dem Entscheidergremium vorgestellt und besprochen.
 
-Eine Auswahl an geeigneten Modellen wird auf die Short List genommen und dann in Phase 5 weiter ausgearbeitet sowie detailliert. Wichtig ist es, in dieser Phase in Mehrwerten zu denken und erste Value Propositions zu erarbeiten. Nun kommt der Kunden ins Spiel. Die Modelle werden präsentabel aufbereitet und in Fokusgruppen gebracht. Man möchte nun reale Reaktionen von Kunden erhalten. Es geht u.a. um Verständnis, Klarheit, Mehrwert, Bedarf und Preisbereitschaft. Die Modelle, die gut abschnitten kommen auf die Selection List und werden auf Basis des Feedbacks nochmal verfeinert. Andere Vorschläge können nochmal nachgearbeitet und erneut getestet werden. In der Phase 6 werden nun erste Modelle als Pilot (spezielle Zielgruppe, bestimmte Region, …) eingeführt, wenn das machbar ist. Die Reaktionen und Erfahrungswerte werden ver- sowie eingearbeitet und dann findet in der Phase 7 der Roll Out statt.
+Eine Auswahl an geeigneten Modellen wird auf die *Short List* genommen und dann in Phase 5 weiter ausgearbeitet sowie detailliert. Wichtig ist es, in dieser Phase in Mehrwerten zu denken und erste Value Propositions zu erarbeiten. Nun kommt der Kunden ins Spiel. Die Modelle werden präsentabel aufbereitet und in Fokusgruppen gebracht. Man möchte nun reale Reaktionen von Kunden erhalten. Es geht u.a. um Verständnis, Klarheit, Mehrwert, Bedarf und Preisbereitschaft. Die Modelle, die gut abschnitten kommen auf die *Selection List* und werden auf Basis des Feedbacks nochmal verfeinert. Andere Vorschläge können nochmal nachgearbeitet und erneut getestet werden. In der Phase 6 werden nun erste Modelle als Pilot (spezielle Zielgruppe, bestimmte Region, …) eingeführt, wenn das machbar ist. Die Reaktionen und Erfahrungswerte werden ver- sowie eingearbeitet und dann findet in der Phase 7 der *Roll Out* statt.
 
 Dieses Verfahren wurde bereits in unterschiedlichen Branchen erfolgreich eingesetzt.
 
@@ -28,8 +28,7 @@ Dieser strukturierte Prozess setzt auf bewährten Geschäftsmodellen sowie erfol
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Bedarf Benefit Best Practice Branche business model Business Model Navigator Erfahrungswert Erfolg Feedback Fokusgruppe Geschäftsmodell Industrie Innovation Insight Kunde Kundenreaktion Mehrwert Methode Muster neu Preisbereitschaft Reason to believe RTB St. Gallen test Testen übertragen Value Proposition Verfahren Workshop
+- 
+- 
+- 
+-

@@ -40,4 +40,9 @@ Zu guter Letzt ein Tipp, der sich banal anhört, aber viel zu oft auf Grund mang
 
 Dabei ist es auch unerheblich, ob ihr Webinar 30 Minuten oder zwei Stunden dauert! Nehmen Sie sich die Zeit, sich mit Ihren Unterlagen und der Webinar Plattform vertraut zu machen. Der Teufel ist ein Eichhörnchen!
 
-Viele weitere nützliche Tipps und Angebote für erfolgreiche Webinare finden Sie unter Webinartraining.de
+**Viele weitere nützliche Tipps und Angebote für erfolgreiche Webinare finden Sie unter [Webinartraining.de](http://www.webinartraining.de/)**
+
+- 
+- 
+- 
+-

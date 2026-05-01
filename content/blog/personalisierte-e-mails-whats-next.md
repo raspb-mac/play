@@ -14,8 +14,13 @@ E-Mail-Marketer sind sich einig – zielgruppenspezifische Inhalte und Personali
 
 Eine Website also, deren Content sich dynamisch zusammensetzt. Auf Basis von Demografie (z.B. Alter, Region), der individuellen Historie (z.B. persönliche Interessen, gekaufte Artikel) oder aber externer Daten (z.B. Wetter, Standort). Somit entsteht für den Nutzer ein einzigartiges Kundenerlebnis: Individualisiert und relevant! Das was wir an unserem Stammlokal lieben („…der gleiche Rotwein wie letztes Mal….?“) kann so auf vormals anonyme Webseiten übertragen werden!
 
-Technisch – kein Problem. Führende Hersteller von Marketing Automation Plattformen wie z.B. Silverpop sind schon dabei, direkte Schnittstellen zu führenden Content Management Systemen (CMS) zu schaffen und damit einen reibungslosen Austausch der relevanten Daten zu gewährleisten. Gerade da marketingrelevante Daten und das Management der Website oftmals in völlig verschiedenen Händen liegt, ist das eine wesentliche Erfolgsvoraussetzung. So kann der CMS-Manager beispielsweise dynamische Content-Regeln auf Basis von Verhaltensdaten aus dem Marketing definieren – dies erzeugt kaum mehr Aufwand, führt aber zu messbar besseren Ergebnissen bei der Conversion!
+Technisch – kein Problem. Führende Hersteller von Marketing Automation Plattformen wie z.B. [Silverpop](http://www.silverpop.com) sind schon dabei, [direkte Schnittstellen zu führenden Content Management Systemen](http://www.silverpop.com/About/News/Press-Release-Listing/2013/EPiServer-and-Silverpop-Join-Forces-to-Connect-Multiple-Touchpoints-Improve-Time-to-Conversion/) (CMS) zu schaffen und damit einen reibungslosen Austausch der relevanten Daten zu gewährleisten. Gerade da marketingrelevante Daten und das Management der Website oftmals in völlig verschiedenen Händen liegt, ist das eine wesentliche Erfolgsvoraussetzung. So kann der CMS-Manager beispielsweise dynamische Content-Regeln auf Basis von Verhaltensdaten aus dem Marketing definieren – dies erzeugt kaum mehr Aufwand, führt aber zu messbar besseren Ergebnissen bei der Conversion!
 
 Sind damit nicht die Tage statischer Websites endgültig gezählt? Wir freuen uns auf Ihr Feedback…
 
-Weitere Informationen zum Thema finden Sie auch im Blog von Brian Brown .
+Weitere Informationen zum Thema finden Sie auch im [Blog von Brian Brown](http://www.silverpop.com/blog/Website-Meet-Marketing-Automation).
+
+- 
+- 
+- 
+-

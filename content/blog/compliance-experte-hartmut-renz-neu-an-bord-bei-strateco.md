@@ -17,3 +17,8 @@ Hartmut Renz fungiert bei STRATECO künftig als Partner Financial Services und i
 Während seiner Zeit als Counsel im Frankfurter Büro von Kaye Scholer LLP hat er Mandanten in allen sowohl rechtlichen als auch strukturellen Fragen der Finanz- und Kapitalmarktregulierung beraten, wobei der Schwerpunkt auf der Compliance-Beratung insbesondere hinsichtlich der Kapitalmarkt-Compliance und Immobilien-Compliance sowie des Gesellschaftsrechts und der Corporate Governance lag. In einer früheren Station hat Renz mehr als 10 Jahre als Group Compliance Officer Capital Markets die Compliance-Stelle bei der Landesbank Hessen-Thüringen Girozentrale (Helaba) in Frankfurt geleitet. Seine berufliche Karriere begann Hartmut T. Renz als Head of Investment Banking Policy Issues der DZ Bank AG sowie beim BVI Bundesverband Investment und Asset Management.
 
 „Ich freue mich auf die neue Herausforderung bei STRATECO. Der strategische Ansatz, die Herangehensweise und vor allen auch die Menschen hier haben mich sofort überzeugt und mir den Start leicht gemacht. In meiner neuen Aufgabe möchte ich natürlich helfen, Mandanten zu betreuen, will aber auch daran gemessen werden, neue Mandanten von unserer Kompetenz zu überzeugen. Das gesamte Feld Compliance inklusive der Themenbereiche Geldwäscheprävention und KYC gewinnt für Finanzdienstleister nicht nur angesichts der zunehmend regulatorischen Dichte immer mehr an Bedeutung. Hier kann ich aufgrund meiner Erfahrungen unterstützen“, sagte Hartmut T. Renz der Zeitschrift für das gesamte Kreditwesen.
+
+- 
+- 
+- 
+-

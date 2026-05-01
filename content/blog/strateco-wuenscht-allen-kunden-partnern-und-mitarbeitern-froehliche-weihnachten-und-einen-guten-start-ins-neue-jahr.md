@@ -19,3 +19,8 @@ Wir bedanken uns für Ihr Vertrauen und wünschen Ihnen eine besinnliche Zeit mi
 Mit diesen Worten verabschieden wir uns ab dem 23.12. in die Weihnachtspause!
 
 Ihr STRATECO-Team
+
+- 
+- 
+- 
+-

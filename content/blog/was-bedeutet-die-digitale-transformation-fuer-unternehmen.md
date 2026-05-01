@@ -16,7 +16,10 @@ Wenn man spitzfindig ist, ist der Begriff Transformation nicht ganz korrekt gew�
 
 Jedes Unternehmen reagiert anders auf die Digitalisierung. Besonders traditionell geprägte Strukturen tun sich schwer damit, grundlegende Umwälzungen zu akzeptieren. Das macht die digitale Transformation zu einer großen Herausforderung für Unternehmen. Sie bietet aber auch Chancen zur Differenzierung und kann neue unternehmerische Erfolge schaffen. Außerdem können sich folgende Vorteile ergeben:
 
-Umsatzsteigerung (durch neue digitale Produkte und Services) Verbesserung der Kundenerlebnisse Erhöhung der Kundenbindung Kostenreduktion und Effizienzsteigerung im Betrieb
+- Umsatzsteigerung (durch neue digitale Produkte und Services)
+- Verbesserung der Kundenerlebnisse
+- Erhöhung der Kundenbindung
+- Kostenreduktion und Effizienzsteigerung im Betrieb
 
 Es ist also wichtiger denn je, dass Unternehmen das ernst nehmen und die Herausforderung annehmen. Das bedeutet zum einen, die Arbeitsabläufe und allgemeinen betriebswirtschaftlichen Prozesse zu digitalisieren und zu automatisieren. Zum anderen bedeutet es, neue Produkte und Services zu entwickeln, die der digitalen Kultur gerecht werden.
 
@@ -24,6 +27,11 @@ Selbst für den IT-fernsten, konservativsten Betrieb ist es wichtig geworden, se
 
 Bedenken Sie: Onlinemarketing-Budgets steigen stetig, während die klassischen Printanzeigen oder Außenwerbung meist nur noch als Ergänzung zur digitalen Kampagne genutzt werden. Dieser Trend zeichnet sich schon seit einiger Zeit ab und ist nicht aufzuhalten. Wer als Unternehmen hier nicht rechtzeitig reagiert und sein Geschäftsmodell, sein Leistungsportfolio und seine Kundenansprache entsprechend darauf hin ausrichtet, gerät gegenüber der Konkurrenz schnell ins Hintertreffen.
 
-Das alles sind Herausforderungen, denen Sie sich nicht alleine stellen müssen. STRATECO steht Ihnen kompetent zur Seite und hilft Ihnen dabei eine Strategie für den Digitalen Wandel in Ihrem Unternehmen zu entwickeln und die nötigen Bausteine zu implementieren .
+Das alles sind Herausforderungen, denen Sie sich nicht alleine stellen müssen.[STRATECO steht Ihnen kompetent zur Seite und hilft Ihnen dabei eine Strategie für den Digitalen Wandel in Ihrem Unternehmen zu entwickeln und die nötigen Bausteine zu implementieren](http://strateco.de/Themen/Alignment-of-Organization-to-Strategy/Digitaler-Wandel).
 
 Denn kommen werden sie (die digitalen Herausforderungen) sicher, die Frage ist nur, Treiber oder Getriebener sein zu wollen, sein Schicksal zu akzeptieren oder es zu gestalten.
+
+- 
+- 
+- 
+-

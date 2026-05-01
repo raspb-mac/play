@@ -14,12 +14,17 @@ Im Zuge des von STRATECO mit ins Leben gerufenen Bad Homburger Unternehmerzentru
 
 „Wir bei STRATECO können damit für Beratungsprojekte relevante Fragestellungen systematisch erforschen lassen und wesentliche Erkenntnisse für zukünftige Projekte gewinnen. Aktuelle Ergebnisse aus Wissenschaft und Forschung können so direkt in die Unternehmenspraxis einfließen und zur Schaffung von nachhaltigen Wettbewerbsvorteilen beitragen“, so Jens W. Klemann, Partner bei STRATECO.
 
-„Wir haben die Vision, mittelfristig zu den renommierten deutschen Forschungsinstituten für Unternehmertum und Unternehmensgründungen zu gehören“, sagt Institutsleiter Andreas Walkenhorst selbstbewusst. „Neben der Lehre und Forschung versteht sich das Institut als Förderer studentischer Gründungsideen. Wir bilden den ersten Kontaktpunkt für Studierende, die eine eigene Geschäftsidee verfolgen.“
+„Wir haben die Vision, mittelfristig zu den renommierten deutschen Forschungsinstituten für Unternehmertum und Unternehmensgründungen zu gehören“, sagt Institutsleiter Andreas Walkenhorst selbstbewusst. „Neben der Lehre und Forschung versteht sich das Institut als Förderer studentischer Gründungsideen. Wir bilden den ersten Kontaktpunkt für Studierende, die eine eigene Geschäftsidee verfolgen.“
 
 Mehr Informationen dazu unter:
 
-Homepage des Instituts
+[Homepage des Instituts](https://www.ai-entrepreneurship.org/)
 
-Pressemitteilung Frankfurter Rundschau
+[Pressemitteilung Frankfurter Rundschau](http://www.fr.de/rhein-main/alle-gemeinden/hochtaunus/accadis-hochschule-institut-fuer-unternehmensgruender-a-1533830)
 
-Pressemitteilung FOCUS
+[Pressemitteilung FOCUS](https://www.focus.de/regional/hessen/stadt-bad-homburg-vor-der-hoehe-stadt-bad-homburg-unterstuetzt-initiative-groundr-e-v_id_8930958.html)
+
+- 
+- 
+- 
+-

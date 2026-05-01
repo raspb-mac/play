@@ -26,7 +26,11 @@ Eine Reputation baut eine Anhängerschaft auf und aus, aber diese Leute müssen 
 
 Um Interessenten zu bekommen und zu halten muss man eins tun: Guten Content schreiben! Wenn Sie regelmäßig und nachhaltig Inhalte veröffentlichen, die…
 
-interessant lesenswert / berichtenswert nützlich / hilfreich aktuell / zeitgemäß vielleicht etwas witzig, skurril oder anders
+- interessant
+- lesenswert / berichtenswert
+- nützlich / hilfreich
+- aktuell / zeitgemäß
+- vielleicht etwas witzig, skurril oder anders
 
 …sind, wird das eine Gefolgschaft aufbauen. Tun Sie dies mit Integrität, Offenheit und Vertrauen Ihren Lesern gegenüber. Im Gegenzug wird Ihnen auch Vertrauen entgegengebracht. Machen sie es Interessenten so einfach wie möglich, Ihnen zu folgen und Ihr Geschriebenes zu teilen. Bieten Sie einen RSS-Feed, Twitter, LinkedIn, Xing, Facebook (oder welche Plattform Ihre Zielgruppe auch immer nutzt) an. Und setzen sie auf jeden Fall eine E-Mail-Liste auf. Selbst wenn Sie heute noch kein Publikum haben, ist es das wert und wird sich zukünftig auszahlen.
 
@@ -37,3 +41,8 @@ Und dann, wenn Sie neue Märkte erschließen wollen, schreiben Sie einfach ein w
 So, wie es mit den meisten unglaublich nützlichen Dingen ist, gibt es auch hier leider eine Einstiegshürde. Sie brauchen Anteilnahmen und Einsatz Ihrer Leser, so wie Ihr Vertrauen und Treue. Haben Sie das erreicht, werden Sie keine SEO mehr brauchen, um viele Menschen zu erreichen und Ihre Seite oder auch ein neues Thema gut zu positionieren. Ihre Anhängerschaft übernimmt die Offsite-Optimierung für Sie – unbewusst aber gerne.
 
 Falls ich Ihr Vertrauen verdient habe, trauen Sie mir in dieser Angelegenheit, haben Zuversicht und gehen es an!
+
+- 
+- 
+- 
+-

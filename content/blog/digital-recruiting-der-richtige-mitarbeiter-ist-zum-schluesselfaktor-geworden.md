@@ -20,8 +20,7 @@ Die Ausführungen zeigen, wie wichtig das gezielte Werben um den richtigen Mitar
 
 Hans-Peter Neeb ist Partner bei der Strategie- und Managementberatung STRATECO, verantwortlich für die Beratung im Bereich Marketing, Vertrieb und Wachstumsstrategien. Er berät seit mehr als 15 Jahren Unternehmen aus allen Branchen in den Themenfeldern Kundengewinnung, Kundenbindung, CRM, Customer Experience – insbesondere mittels Analyse und Nutzung von Daten – sowie der Optimierung von Marketing- und Vertriebsprozessen.
 
-https://www.wegrowyourbusiness.de
-
-Kontakt: hans-peter.neeb@strateco.de +49 151 700 66 769
-
-TAGS: Arbeitgebermarke Arbeitgeberpositionierung Bewerber HR human resources Kandidaten Mitarbeiter gewinnen Personal gewinnen Personalabteilung talent management Talente
+- 
+- 
+- 
+-
