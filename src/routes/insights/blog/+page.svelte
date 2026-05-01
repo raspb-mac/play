@@ -7,6 +7,8 @@
 
   let activeCategory = $state<string | 'all'>('all');
   let query = $state('');
+  let currentPage = $state(1);
+  const PER_PAGE = 5;
 
   // Sort newest first, then filter by category, then by query
   const sorted = $derived([...blogPosts].sort((a, b) => b.isoDate.localeCompare(a.isoDate)));
@@ -29,6 +31,13 @@
     return list;
   });
 
+  const totalPages = $derived(Math.ceil(filtered.length / PER_PAGE));
+
+  const paginatedPosts = $derived.by(() => {
+    const start = (currentPage - 1) * PER_PAGE;
+    return filtered.slice(start, start + PER_PAGE);
+  });
+
   // Counts per category (based on full set, ignoring search query)
   const counts = $derived.by(() => {
     const map: Record<string, number> = { all: blogPosts.length };
@@ -47,7 +56,37 @@
   function clearAll() {
     activeCategory = 'all';
     query = '';
+    currentPage = 1;
   }
+
+  function setCategory(cat: string) {
+    activeCategory = cat as typeof activeCategory;
+    currentPage = 1;
+  }
+
+  function goToPage(p: number) {
+    if (p < 1 || p > totalPages) return;
+    currentPage = p;
+    // Scroll to top of post list
+    document.querySelector('.post-list')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // Generate page numbers to display (show max 7 with ellipsis)
+  const visiblePages = $derived.by(() => {
+    const pages: (number | '...')[] = [];
+    if (totalPages <= 7) {
+      for (let i = 1; i <= totalPages; i++) pages.push(i);
+    } else {
+      pages.push(1);
+      if (currentPage > 3) pages.push('...');
+      const start = Math.max(2, currentPage - 1);
+      const end = Math.min(totalPages - 1, currentPage + 1);
+      for (let i = start; i <= end; i++) pages.push(i);
+      if (currentPage < totalPages - 2) pages.push('...');
+      pages.push(totalPages);
+    }
+    return pages;
+  });
 </script>
 
 <svelte:head>
@@ -78,7 +117,7 @@
         class="chip"
         class:active={activeCategory === 'all'}
         aria-selected={activeCategory === 'all'}
-        onclick={() => (activeCategory = 'all')}
+        onclick={() => setCategory('all')}
       >
         <span>Alle</span>
         <span class="chip-count">{counts.all}</span>
@@ -91,7 +130,7 @@
             class="chip"
             class:active={activeCategory === cat}
             aria-selected={activeCategory === cat}
-            onclick={() => (activeCategory = cat)}
+            onclick={() => setCategory(cat)}
           >
             <span>{cat}</span>
             <span class="chip-count">{counts[cat]}</span>
@@ -109,6 +148,7 @@
         type="search"
         placeholder="Beiträge durchsuchen…"
         bind:value={query}
+        oninput={() => (currentPage = 1)}
         aria-label="Beiträge durchsuchen"
       />
       {#if query}
@@ -116,6 +156,11 @@
       {/if}
     </label>
   </div>
+
+  <!-- Pagination info -->
+  <p class="pagination-info">
+    {filtered.length} Beiträge · Seite {currentPage} von {totalPages}
+  </p>
 
   {#if filtered.length === 0}
     <div class="empty">
@@ -125,7 +170,7 @@
     </div>
   {:else}
     <RevealOnScroll stagger={true} class="post-list">
-      {#each filtered as post (post.slug)}
+      {#each paginatedPosts as post (post.slug)}
         <article class="post-card">
           <button
             type="button"
@@ -154,6 +199,49 @@
         </article>
       {/each}
     </RevealOnScroll>
+
+    <!-- Pagination controls -->
+    {#if totalPages > 1}
+      <nav class="pagination" aria-label="Seitennavigation">
+        <button
+          type="button"
+          class="page-btn page-prev"
+          disabled={currentPage === 1}
+          onclick={() => goToPage(currentPage - 1)}
+          aria-label="Vorherige Seite"
+        >
+          ‹ Zurück
+        </button>
+
+        <div class="page-numbers">
+          {#each visiblePages as p, i}
+            {#if p === '...'}
+              <span class="page-ellipsis">…</span>
+            {:else}
+              <button
+                type="button"
+                class="page-num"
+                class:active={p === currentPage}
+                aria-current={p === currentPage ? 'page' : undefined}
+                onclick={() => goToPage(p)}
+              >
+                {p}
+              </button>
+            {/if}
+          {/each}
+        </div>
+
+        <button
+          type="button"
+          class="page-btn page-next"
+          disabled={currentPage === totalPages}
+          onclick={() => goToPage(currentPage + 1)}
+          aria-label="Nächste Seite"
+        >
+          Weiter ›
+        </button>
+      </nav>
+    {/if}
   {/if}
 </Section>
 
@@ -161,7 +249,7 @@
   @reference '../../../app.css';
 
   .filter-bar {
-    @apply flex flex-wrap items-center justify-between mb-12 gap-6;
+    @apply flex flex-wrap items-center justify-between mb-8 gap-6;
   }
 
   .chips {
@@ -263,6 +351,17 @@
     background: rgba(96, 207, 190, 0.1);
   }
 
+  .pagination-info {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 0.8125rem;
+    letter-spacing: 0.05em;
+    color: rgba(255, 255, 255, 0.45);
+    margin: 0 0 1.5rem;
+  }
+  :global(html[data-theme='light']) .pagination-info {
+    color: rgba(10, 21, 23, 0.5);
+  }
+
   .empty {
     @apply flex flex-col items-start gap-3;
     padding-block: 4rem;
@@ -282,7 +381,7 @@
   }
   :global(html[data-theme='light']) .empty-text { color: rgba(10, 21, 23, 0.7); }
 
-  /* Post list (unchanged from previous version) */
+  /* Post list */
   :global(.post-list) {
     @apply flex flex-col gap-12;
   }
@@ -374,4 +473,71 @@
   :global(html[data-theme='light']) .post-author { color: rgba(10, 21, 23, 0.5); }
 
   .post-cta { @apply relative; z-index: 3; }
+
+  /* Pagination */
+  .pagination {
+    @apply flex items-center justify-center gap-4 mt-12;
+    flex-wrap: wrap;
+  }
+
+  .page-btn {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 0.8125rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--brand-turquoise);
+    background: transparent;
+    border: 1px solid rgba(96, 207, 190, 0.3);
+    border-radius: 999px;
+    padding: 8px 18px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  :global(html[data-theme='light']) .page-btn {
+    border-color: rgba(45, 145, 131, 0.3);
+  }
+  .page-btn:hover:not(:disabled) {
+    background: var(--brand-turquoise);
+    color: var(--ink-3);
+  }
+  .page-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+  }
+
+  .page-numbers {
+    @apply flex items-center gap-1;
+  }
+
+  .page-num {
+    @apply flex items-center justify-center cursor-pointer bg-transparent border-0;
+    width: 36px;
+    height: 36px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    transition: all 0.2s ease;
+  }
+  :global(html[data-theme='light']) .page-num {
+    color: rgba(10, 21, 23, 0.6);
+  }
+  .page-num:hover {
+    color: var(--brand-turquoise);
+    background: rgba(96, 207, 190, 0.1);
+  }
+  .page-num.active {
+    background: var(--brand-turquoise);
+    color: var(--ink-3);
+    font-weight: 600;
+  }
+
+  .page-ellipsis {
+    color: rgba(255, 255, 255, 0.35);
+    font-size: 0.875rem;
+    padding: 0 4px;
+  }
+  :global(html[data-theme='light']) .page-ellipsis {
+    color: rgba(10, 21, 23, 0.35);
+  }
 </style>
