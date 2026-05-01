@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { Stage, Section, ArrowLink, RevealOnScroll } from '$lib';
+  import { Stage, Section, ArrowLink } from '$lib';
   import { localizeHref } from '$lib/paraglide/runtime';
   import { blogPosts, BLOG_CATEGORIES } from '$lib/configs/blog';
   import { goto } from '$app/navigation';
@@ -201,7 +201,7 @@
       <ArrowLink onclick={clearAll} label="Filter zurücksetzen" />
     </div>
   {:else}
-    <RevealOnScroll stagger={true} class="post-list">
+    <div class="post-list">
       {#each paginatedPosts as post (post.slug)}
         <article class="post-card">
           <button
@@ -230,7 +230,7 @@
           </div>
         </article>
       {/each}
-    </RevealOnScroll>
+    </div>
 
     <!-- Pagination controls -->
     {#if totalPages > 1}
